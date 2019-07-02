@@ -68,9 +68,9 @@ Awarded all-round good student of Shanghai Jiao Tong University (上海交通大
 
 (J3) Xiaoying Liu, **Kechen Zheng**, XiaoYang Liu, Xinbing Wang, and Guojun Dai, [Towards Secure and Energy-Efficient CRNs via Embracing Interference: A Stochastic Geometry Approach](https://ieeexplore.ieee.org/document/8402212), **IEEE Access**, vol. 6, no. 1, pp. 36757-36770, July 2018.
 
-(J4) Xiaoying Liu, **Kechen Zheng**, XiaoYang Liu, Xinbing Wang, and Yihua Zhu, [Hierarchical Cooperation Improves Delay in Cognitive Radio Networks with Mobile Secondary Nodes](https://ieeexplore.ieee.org/document/8570778), **IEEE Transactions on Mobile Computing**, to appear in 2019. **(CCF-B)**
+(J4) Xiaoying Liu, **Kechen Zheng**, XiaoYang Liu, Xinbing Wang, and Yihua Zhu, [Hierarchical Cooperation Improves Delay in Cognitive Radio Networks with Mobile Secondary Nodes](https://ieeexplore.ieee.org/document/8570778), **IEEE Transactions on Mobile Computing**, to appear in 2019. **(CCF-A)**
 
-(J5) Xiaoying Liu, **Kechen Zheng**, Luoyi Fu, XiaoYang Liu, Xinbing Wang, and Guojun Dai, [Energy Efficiency of Secure Cognitive Radio Networks with Cooperative Spectrum Sharing](https://ieeexplore.ieee.org/document/8362946), **IEEE Transactions on Mobile Computing**, vol. 18, no. 2, pp. 305-318, Feb. 2019. **(CCF-B)**
+(J5) Xiaoying Liu, **Kechen Zheng**, Luoyi Fu, XiaoYang Liu, Xinbing Wang, and Guojun Dai, [Energy Efficiency of Secure Cognitive Radio Networks with Cooperative Spectrum Sharing](https://ieeexplore.ieee.org/document/8362946), **IEEE Transactions on Mobile Computing**, vol. 18, no. 2, pp. 305-318, Feb. 2019. **(CCF-A)**
 
 (J6) Kaikai Chi, Zhanwei Yu, **Kechen Zheng**, Yanjun Li, and Zhen Cheng, [Transmit power allocation of energy transmitters for throughput maximization in wireless powered communication networks](https://ieeexplore.ieee.org/document/8732064), **IET Communications**, vol. 13, no. 9, pp. 1200-1206, Jun. 2019.
 
