@@ -1,37 +1,91 @@
-## Welcome to GitHub Pages
+07/18-till now, [School of Computer Science and Technology](http://www.software.zjut.edu.cn/), Zhejiang University of Technology, Associate Professor (Tenure Track)
 
-You can use the [editor on GitHub](https://github.com/KechenZheng/KechenZheng.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+No. 288 Liu-He Road, Hangzhou, Zhejiang, 310023, P. R. China
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Tel: (+86) 158-0171-4656
 
-### Markdown
+E-mail: kechenzheng@zjut.edu.cn; zhengkechen@foxmail.com; zkc@sjtu.edu.cn
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Corresponding links of mine: [DBLP](https://dblp.uni-trier.de/pers/hd/z/Zheng:Kechen);   [IEEE Xplore](https://ieeexplore.ieee.org/author/37085359644)
 
-```markdown
-Syntax highlighted code block
+## Education
 
-# Header 1
-## Header 2
-### Header 3
+09/09-06/13, Shanghai Jiao Tong University, Bachelor of Information Engineering
 
-- Bulleted
-- List
+09/13-06/18, Shanghai Jiao Tong University, Ph.D. of Electronic Engineering，Advisor: [Prof. Xinbing Wang](http://iwct.sjtu.edu.cn/Personal/xwang8/), Thesis: Capacity analysis of social relationships-based inhomogeneous wireless networks
 
-1. Numbered
-2. List
+07/15-09/15, Future University-Hakodate, Advisor: [Prof. Xiaohong Jiang](http://www.fun.ac.jp/research/faculty_members/xiaohongjiang/)
 
-**Bold** and _Italic_ and `Code` text
+10/15-01/16, Academy of Military Sciences PLA China, Advisor: Prof. Quan Yu
 
-[Link](url) and ![Image](src)
-```
+## Research areas
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Performance evaluation in cognitive and social networks; energy harvesting wireless communication networks; wireless powered communication networks.
 
-### Jekyll Themes
+## Services
+Reviewers for IEEE/ACM Transactions on Networking, IEEE Transactions on Mobile Computing, IEEE Transactions on Wireless Communications, IEEE Transactions on Vehicular Technology, IEEE Access, IEEE Transactions on Network Science and Engineering, IEEE Transactions on Cloud Computing, Transactions on Dependable and Secure Computing, and so on.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/KechenZheng/KechenZheng.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## Honors and rewards
 
-### Support or Contact
+Awarded Outstanding graduates of Shanghai (上海市优秀毕业生) in 2018
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Awarded National Scholarship for Graduate Students (研究生国家奖学金) in 2016
+
+Awarded Zhou Weihan and Ren Yuehua Scholarship (周维榦任月华奖学金) in 2015
+
+Awarded B-Level Scholarship of Shanghai Jiao Tong University (上海交通大学B等奖学金) in 2011, 2012
+
+Thrid Prize in the 11th "Huawei Cup" National College Student Mathematical Contest In Modeling (第十一届“华为杯”全国研究生数学建模竞赛) in 2014
+
+Awarded all-round good student of Shanghai Jiao Tong University (上海交通大学校级三好学生) in 2016
+
+## Teaching
+212533 Wireless Networking Technology (2019)
+
+## Publication
+
+**First-author/corresponding author publication:**
+
+(J1) **Kechen Zheng**, Jingjing Luo, Jinbei Zhang, Weijie Wu, Xiaohua Tian, and Xinbing Wang, [Cooperation Improves Delay in Cognitive Networks with Hybrid Random Walk](https://ieeexplore.ieee.org/document/7070747),  **IEEE Transactions on Communications**, vol. 63, no. 6, pp. 1988-2000, Jun. 2015.
+
+(J2) **Kechen Zheng**, Jinbei Zhang, Shuochao Yao, Weijie Wu, Xinbing Wang, and Chunyi Peng, [Impacts of Social Relationships and Inhomogeneous Node Distribution on the Network Performance](https://ieeexplore.ieee.org/document/7462274), **IEEE Transactions on Wireless Communications**, vol. 15, no. 8, pp. 5467-5479, Aug. 2016.
+
+(J3) **Kechen Zheng**, Jinbei Zhang, Xiaoying Liu, Luoyi Fu, Xinbing Wang, Xiaohong Jiang, and Wenjun Zhang, [Secrecy Capacity Scaling of Large-Scale Networks with Social Relationships](https://ieeexplore.ieee.org/document/7496960), **IEEE Transactions on Vehicular Technology**, vol. 66, no. 3, pp. 2688-2702, Mar. 2017.
+
+(J4) **Kechen Zheng**, Ying Cui, Xiaoying Liu, Xinbing Wang, Xiaohong Jiang, and Jun Tian, [Asymptotic Analysis of Inhomogeneous Information-Centric Wireless Networks with Infrastructure Support](https://ieeexplore.ieee.org/document/8304646), **IEEE Transactions on Vehicular Technology**, vol. 67, no. 6, pp. 5245-5259, Jun. 2018.
+
+(J5) **Kechen Zheng**, XiaoYang Liu, Luoyi Fu, Xinbing Wang, and Yihua Zhu, [Energy Efficiency in Multihop Wireless Networks with Unreliable Links](https://ieeexplore.ieee.org/document/8598721), **IEEE Transactions on Network Science and Engineering**, to appear in 2019.
+
+(J6) **Kechen Zheng**, XiaoYang Liu, Xiaoying Liu, and Yihua Zhu, [Hybrid Overlay-Underlay Cognitive Radio Networks with Energy Harvesting](https://ieeexplore.ieee.org/document/8695113), **IEEE Transactions on Communications**, to appear in 2019.
+
+(J7) Kaikai Chi, Zhebiao Chen, **Kechen Zheng**, Yihua Zhu, and Jiajia Liu, [Energy provision minimization in wireless powered communication networks with network throughput demand: TDMA or NOMA?](https://ieeexplore.ieee.org/document/8733057), **IEEE Transactions on Communications**, to appear in 2019. 
+
+**Other publication:**
+
+(J1) Riheng Jia, **Kechen Zheng**, Jinbei Zhang, Luoyi Fu, Pengyuan Du, Xinbing Wang, and Jun Xu, [Asymptotic Analysis on Throughput and Delay in Cognitive Social Networks](https://ieeexplore.ieee.org/document/6853384), **IEEE Transactions on Communications**, vol. 62, no. 8, pp. 2721-2732, Aug. 2014.
+
+(J2) Xiaoying Liu, **Kechen Zheng**, Jun Zhao, XiaoYang Liu, Xxinbing Wang, and Xin Di, [Information-Centric Networks with Correlated Mobility](https://ieeexplore.ieee.org/document/7551158), **IEEE Transactions on Vehicular Technology**, vol. 66, no. 5, pp. 4256-4270, May 2017.
+
+(J3) Xiaoying Liu, **Kechen Zheng**, XiaoYang Liu, Xinbing Wang, and Guojun Dai, [Towards Secure and Energy-Efficient CRNs via Embracing Interference: A Stochastic Geometry Approach](https://ieeexplore.ieee.org/document/8402212), **IEEE Access**, vol. 6, no. 1, pp. 36757-36770, July 2018.
+
+(J4) Xiaoying Liu, **Kechen Zheng**, XiaoYang Liu, Xinbing Wang, and Yihua Zhu, [Hierarchical Cooperation Improves Delay in Cognitive Radio Networks with Mobile Secondary Nodes](https://ieeexplore.ieee.org/document/8570778), **IEEE Transactions on Mobile Computing**, to appear in 2019. 
+
+(J5) Xiaoying Liu, **Kechen Zheng**, Luoyi Fu, XiaoYang Liu, Xinbing Wang, and Guojun Dai, [Energy Efficiency of Secure Cognitive Radio Networks with Cooperative Spectrum Sharing](https://ieeexplore.ieee.org/document/8362946), **IEEE Transactions on Mobile Computing**, vol. 18, no. 2, pp. 305-318, Feb. 2019. 
+
+(J6) Kaikai Chi, Zhanwei Yu, **Kechen Zheng**, Yanjun Li, and Zhen Cheng, [Transmit power allocation of energy transmitters for throughput maximization in wireless powered communication networks](https://ieeexplore.ieee.org/document/8732064), **IET Communications**, vol. 13, no. 9, pp. 1200-1206, Jun. 2019.
+
+(C1) Hao Guo, **Kechen Zheng**, Feng Ouyang, Xiaoying Gan, Zhizhong Zhang, and Peiliang Dong, [A Terminable Trickle Algorithm for Lossy Networks](https://ieeexplore.ieee.org/document/7954483), The 2016 International Symposium on Wireless Personal Multimedia Communications (**WPMC**), China, 2016.
+
+(C2) Qiuwen Chen, **Kechen Zheng**, Feng Ouyang, Xiaoying Gan, Youyun Xu, and Xiaohua Tian, [A Shortest Path Routing Algorithm based on Virtual Coordinate in NeLS](https://ieeexplore.ieee.org/document/7752568), The 8th International Conference on Wireless Communications and Signal Processing (**WCSP**), China, 2016.
+
+**Under review:**
+
+(J1) **Kechen Zheng**, Xiaoying Liu, Yihua Zhu, Kaikai Chi, and Yanjun Li, Throughput Maximization of CRN with Energy Harvesting and Battery Charging, submitted to **IEEE Transactions on Vehicular Technology**. (second round)
+
+(J2) **Kechen Zheng**, Xiaoying Liu, Yihua Zhu, Kaikai Chi, and Kangqi Liu, Total Throughput Maximization of Cooperative Cognitive Radio Networks with Energy Harvesting, submitted to **IEEE Transactions on Wireless Communications**. (second round)
+
+## Master and PHD students
+
+Haijiang Ge (PhD student, joint supervised by Prof. Chi)
+
+Wendi Sun (Master student, joint supervised by Prof. Zhu)
