@@ -46,9 +46,9 @@ Awarded all-round good student of Shanghai Jiao Tong University (上海交通大
 
 **First-author/corresponding author publication:**
 
-(J1) **Kechen Zheng**, Jingjing Luo, Jinbei Zhang, Weijie Wu, Xiaohua Tian, and Xinbing Wang, [Cooperation Improves Delay in Cognitive Networks with Hybrid Random Walk](https://ieeexplore.ieee.org/document/7070747),  **IEEE Transactions on Communications**, vol. 63, no. 6, pp. 1988-2000, Jun. 2015. (**`CCF-B`**)
+(J1) **Kechen Zheng**, Jingjing Luo, Jinbei Zhang, Weijie Wu, Xiaohua Tian, and Xinbing Wang, [Cooperation Improves Delay in Cognitive Networks with Hybrid Random Walk](https://ieeexplore.ieee.org/document/7070747),  **IEEE Transactions on Communications**, vol. 63, no. 6, pp. 1988-2000, Jun. 2015. (**CCF-B**)
 
-(J2) **Kechen Zheng**, Jinbei Zhang, Shuochao Yao, Weijie Wu, Xinbing Wang, and Chunyi Peng, [Impacts of Social Relationships and Inhomogeneous Node Distribution on the Network Performance](https://ieeexplore.ieee.org/document/7462274), **IEEE Transactions on Wireless Communications**, vol. 15, no. 8, pp. 5467-5479, Aug. 2016. (**`CCF-B`**)
+(J2) **Kechen Zheng**, Jinbei Zhang, Shuochao Yao, Weijie Wu, Xinbing Wang, and Chunyi Peng, [Impacts of Social Relationships and Inhomogeneous Node Distribution on the Network Performance](https://ieeexplore.ieee.org/document/7462274), **IEEE Transactions on Wireless Communications**, vol. 15, no. 8, pp. 5467-5479, Aug. 2016. (**CCF-B**)
 
 (J3) **Kechen Zheng**, Jinbei Zhang, Xiaoying Liu, Luoyi Fu, Xinbing Wang, Xiaohong Jiang, and Wenjun Zhang, [Secrecy Capacity Scaling of Large-Scale Networks with Social Relationships](https://ieeexplore.ieee.org/document/7496960), **IEEE Transactions on Vehicular Technology**, vol. 66, no. 3, pp. 2688-2702, Mar. 2017.
 
@@ -56,21 +56,21 @@ Awarded all-round good student of Shanghai Jiao Tong University (上海交通大
 
 (J5) **Kechen Zheng**, XiaoYang Liu, Luoyi Fu, Xinbing Wang, and Yihua Zhu, [Energy Efficiency in Multihop Wireless Networks with Unreliable Links](https://ieeexplore.ieee.org/document/8598721), **IEEE Transactions on Network Science and Engineering**, to appear in 2019.
 
-(J6) **Kechen Zheng**, XiaoYang Liu, Xiaoying Liu, and Yihua Zhu, [Hybrid Overlay-Underlay Cognitive Radio Networks with Energy Harvesting](https://ieeexplore.ieee.org/document/8695113), **IEEE Transactions on Communications**, to appear in 2019. (**`CCF-B`**)
+(J6) **Kechen Zheng**, XiaoYang Liu, Xiaoying Liu, and Yihua Zhu, [Hybrid Overlay-Underlay Cognitive Radio Networks with Energy Harvesting](https://ieeexplore.ieee.org/document/8695113), **IEEE Transactions on Communications**, to appear in 2019. (**CCF-B**)
 
-(J7) Kaikai Chi, Zhebiao Chen, **Kechen Zheng**, Yihua Zhu, and Jiajia Liu, [Energy provision minimization in wireless powered communication networks with network throughput demand: TDMA or NOMA?](https://ieeexplore.ieee.org/document/8733057), **IEEE Transactions on Communications**, to appear in 2019. (**`CCF-B`**)
+(J7) Kaikai Chi, Zhebiao Chen, **Kechen Zheng**, Yihua Zhu, and Jiajia Liu, [Energy provision minimization in wireless powered communication networks with network throughput demand: TDMA or NOMA?](https://ieeexplore.ieee.org/document/8733057), **IEEE Transactions on Communications**, to appear in 2019. (**CCF-B**)
 
 **Other publication:**
 
-(J1) Riheng Jia, **Kechen Zheng**, Jinbei Zhang, Luoyi Fu, Pengyuan Du, Xinbing Wang, and Jun Xu, [Asymptotic Analysis on Throughput and Delay in Cognitive Social Networks](https://ieeexplore.ieee.org/document/6853384), **IEEE Transactions on Communications**, vol. 62, no. 8, pp. 2721-2732, Aug. 2014. (**`CCF-B`**)
+(J1) Riheng Jia, **Kechen Zheng**, Jinbei Zhang, Luoyi Fu, Pengyuan Du, Xinbing Wang, and Jun Xu, [Asymptotic Analysis on Throughput and Delay in Cognitive Social Networks](https://ieeexplore.ieee.org/document/6853384), **IEEE Transactions on Communications**, vol. 62, no. 8, pp. 2721-2732, Aug. 2014. (**CCF-B**)
 
 (J2) Xiaoying Liu, **Kechen Zheng**, Jun Zhao, XiaoYang Liu, Xxinbing Wang, and Xin Di, [Information-Centric Networks with Correlated Mobility](https://ieeexplore.ieee.org/document/7551158), **IEEE Transactions on Vehicular Technology**, vol. 66, no. 5, pp. 4256-4270, May 2017.
 
 (J3) Xiaoying Liu, **Kechen Zheng**, XiaoYang Liu, Xinbing Wang, and Guojun Dai, [Towards Secure and Energy-Efficient CRNs via Embracing Interference: A Stochastic Geometry Approach](https://ieeexplore.ieee.org/document/8402212), **IEEE Access**, vol. 6, no. 1, pp. 36757-36770, July 2018.
 
-(J4) Xiaoying Liu, **Kechen Zheng**, XiaoYang Liu, Xinbing Wang, and Yihua Zhu, [Hierarchical Cooperation Improves Delay in Cognitive Radio Networks with Mobile Secondary Nodes](https://ieeexplore.ieee.org/document/8570778), **IEEE Transactions on Mobile Computing**, to appear in 2019. (**`CCF-A`**)
+(J4) Xiaoying Liu, **Kechen Zheng**, XiaoYang Liu, Xinbing Wang, and Yihua Zhu, [Hierarchical Cooperation Improves Delay in Cognitive Radio Networks with Mobile Secondary Nodes](https://ieeexplore.ieee.org/document/8570778), **IEEE Transactions on Mobile Computing**, to appear in 2019. (**CCF-A**)
 
-(J5) Xiaoying Liu, **Kechen Zheng**, Luoyi Fu, XiaoYang Liu, Xinbing Wang, and Guojun Dai, [Energy Efficiency of Secure Cognitive Radio Networks with Cooperative Spectrum Sharing](https://ieeexplore.ieee.org/document/8362946), **IEEE Transactions on Mobile Computing**, vol. 18, no. 2, pp. 305-318, Feb. 2019. (**`CCF-A`**)
+(J5) Xiaoying Liu, **Kechen Zheng**, Luoyi Fu, XiaoYang Liu, Xinbing Wang, and Guojun Dai, [Energy Efficiency of Secure Cognitive Radio Networks with Cooperative Spectrum Sharing](https://ieeexplore.ieee.org/document/8362946), **IEEE Transactions on Mobile Computing**, vol. 18, no. 2, pp. 305-318, Feb. 2019. (**CCF-A**)
 
 (J6) Kaikai Chi, Zhanwei Yu, **Kechen Zheng**, Yanjun Li, and Zhen Cheng, [Transmit power allocation of energy transmitters for throughput maximization in wireless powered communication networks](https://ieeexplore.ieee.org/document/8732064), **IET Communications**, vol. 13, no. 9, pp. 1200-1206, Jun. 2019.
 
