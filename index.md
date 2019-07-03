@@ -1,4 +1,4 @@
-<img src="2.JPG" width="80" height="95"/>  **Kechen Zheng**, Associate Professor (Tenure Track)
+<img src="2.JPG" width="70" height="85"/>  **Kechen Zheng**, Associate Professor (Tenure Track)
 
 07/18-till now, [School of Computer Science and Technology](http://www.software.zjut.edu.cn/), [Zhejiang University of Technology](http://www.zjut.edu.cn/) 
 
