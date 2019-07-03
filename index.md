@@ -1,3 +1,5 @@
+<img src="2.JPG" width="180" height="200"/>
+
 07/18-till now, [School of Computer Science and Technology](http://www.software.zjut.edu.cn/), Zhejiang University of Technology, Associate Professor (Tenure Track)
 
 No. 288 Liu-He Road, Hangzhou, Zhejiang, 310023, P. R. China
