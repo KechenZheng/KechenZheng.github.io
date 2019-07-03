@@ -1,4 +1,4 @@
-<img src="2.JPG" width="180" height="200"/>
+<img src="2.JPG" width="180" height="200"/>  <img src="1.jpg" width="200" height="200"/>  <img src="3.jpg" width="200" height="200"/>
 
 07/18-till now, [School of Computer Science and Technology](http://www.software.zjut.edu.cn/), Zhejiang University of Technology, Associate Professor (Tenure Track)
 
