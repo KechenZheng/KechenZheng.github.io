@@ -35,7 +35,7 @@ Awarded Zhou Weihan and Ren Yuehua Scholarship (周维榦任月华奖学金) in 
 
 Awarded B-Level Scholarship of Shanghai Jiao Tong University (上海交通大学B等奖学金) in 2011, 2012
 
-Thrid Prize in the 11th "Huawei Cup" National College Student Mathematical Contest In Modeling (第十一届“华为杯”全国研究生数学建模竞赛) in 2014
+Third Prize in the 11th "Huawei Cup" National College Student Mathematical Contest In Modeling (第十一届“华为杯”全国研究生数学建模竞赛) in 2014
 
 Awarded all-round good student of Shanghai Jiao Tong University (上海交通大学校级三好学生) in 2016
 
