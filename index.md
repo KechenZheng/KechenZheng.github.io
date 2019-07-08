@@ -84,10 +84,10 @@ Awarded all-round good student of Shanghai Jiao Tong University (上海交通大
 
 (J1) **K. Zheng**, X. Liu, Y. Zhu, K. Chi, and Y. Li, Throughput Maximization of CRN with Energy Harvesting and Battery Charging, submitted to **IEEE Transactions on Vehicular Technology**. (second round)
 
-(J2) **K. Zheng**, X. Liu, Y. Zhu, K. Chi, and K. Liu, Total Throughput Maximization of Cooperative Cognitive Radio Networks with Energy Harvesting, submitted to **IEEE Transactions on Wireless Communications**. (second round)
+(J2) **K. Zheng**, X. Liu, Y. Zhu, K. Chi, and K. Liu, Total Throughput Maximization of Cooperative Cognitive Radio Networks with Energy Harvesting, submitted to **IEEE Transactions on Wireless Communications**. (third round)
 
 ## Master and PHD students
 
-Haijiang Ge (PhD student, joint supervised by Prof. Chi)
+Haijiang Ge (2018, PhD student, joint supervised by Prof. Chi)
 
-Wendi Sun (Master student, joint supervised by Prof. Zhu)
+Wendi Sun (2019, Master student, joint supervised by Prof. Zhu)
