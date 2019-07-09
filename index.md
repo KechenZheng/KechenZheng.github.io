@@ -91,3 +91,5 @@ Awarded all-round good student of Shanghai Jiao Tong University (上海交通大
 Haijiang Ge (2018, PhD student, joint supervised by Prof. Chi)
 
 Wendi Sun (2019, Master student, joint supervised by Prof. Zhu)
+
+Xueli Jia (2019, Master student, joint supervised by Prof. Chi)
