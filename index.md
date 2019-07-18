@@ -58,7 +58,7 @@ Awarded all-round good student of Shanghai Jiao Tong University (上海交通大
 
 (J5) **K. Zheng**, X.-Y. Liu, L. Fu, X. Wang, and Y. Zhu, [Energy efficiency in multihop wireless networks with unreliable links](https://ieeexplore.ieee.org/document/8598721), **IEEE Transactions on Network Science and Engineering**, to appear in 2019.
 
-(J6) **K. Zheng**, X.-Y. Liu, X. Liu, and Y. Zhu, [Hybrid overlay-underlay cognitive radio networks with energy harvesting](https://ieeexplore.ieee.org/document/8695113), **IEEE Transactions on Communications**, to appear in 2019. **(CCF-B)**
+(J6) **K. Zheng**, X.-Y. Liu, X. Liu, and Y. Zhu, [Hybrid overlay-underlay cognitive radio networks with energy harvesting](https://ieeexplore.ieee.org/document/8695113), **IEEE Transactions on Communications**, vol. 67, no. 7, pp. 4669-4682, Jul. 2019. **(CCF-B)**
 
 (J7) K. Chi, Z. Chen, **K. Zheng**, Y. Zhu, and J. Liu, [Energy provision minimization in wireless powered communication networks with network throughput demand: TDMA or NOMA?](https://ieeexplore.ieee.org/document/8733057), **IEEE Transactions on Communications**, to appear in 2019. **(CCF-B)**
 
@@ -82,7 +82,7 @@ Awarded all-round good student of Shanghai Jiao Tong University (上海交通大
 
 **Under review:**
 
-(J1) **K. Zheng**, X. Liu, Y. Zhu, K. Chi, and Y. Li, Throughput maximization of CRN with energy harvesting and battery charging, submitted to **IEEE Transactions on Vehicular Technology**. (second round)
+(J1) **K. Zheng**, X. Liu, Y. Zhu, K. Chi, and Y. Li, Throughput maximization of CRN with energy harvesting and battery charging, submitted to **IEEE Transactions on Vehicular Technology**. (third round)
 
 (J2) **K. Zheng**, X. Liu, Y. Zhu, K. Chi, and K. Liu, Total throughput maximization of cooperative cognitive radio networks with energy harvesting, submitted to **IEEE Transactions on Wireless Communications**. (third round)
 
