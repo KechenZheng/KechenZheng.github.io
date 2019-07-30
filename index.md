@@ -12,13 +12,13 @@ Corresponding links of mine: [DBLP](https://dblp.uni-trier.de/pers/hd/z/Zheng:Ke
 
 ## Education
 
-09/09-06/13, Shanghai Jiao Tong University, Bachelor of Information Engineering
+09/2009-06/2013, Shanghai Jiao Tong University, Bachelor of Information Engineering
 
-09/13-06/18, Shanghai Jiao Tong University, Ph.D. of Electronic Engineering，Advisor: [Prof. Xinbing Wang](http://iwct.sjtu.edu.cn/Personal/xwang8/), Thesis: Capacity analysis of social relationships-based inhomogeneous wireless networks
+09/2013-06/2018, Shanghai Jiao Tong University, Ph.D. of Electronic Engineering，Advisor: [Prof. Xinbing Wang](http://iwct.sjtu.edu.cn/Personal/xwang8/), Thesis: Capacity analysis of social relationships-based inhomogeneous wireless networks
 
-07/15-09/15, Future University-Hakodate, Advisor: [Prof. Xiaohong Jiang](http://www.fun.ac.jp/research/faculty_members/xiaohongjiang/)
+07/2015-09/2015, Future University-Hakodate, Advisor: [Prof. Xiaohong Jiang](http://www.fun.ac.jp/research/faculty_members/xiaohongjiang/)
 
-10/15-01/16, Academy of Military Sciences PLA China, Advisor: Prof. Quan Yu
+10/2015-01/2016, Academy of Military Sciences PLA China, Advisor: Prof. Quan Yu
 
 ## Research areas
 
