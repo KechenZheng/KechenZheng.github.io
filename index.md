@@ -44,6 +44,9 @@ Awarded all-round good student of Shanghai Jiao Tong University (上海交通大
 ## Teaching
 212533 Wireless Networking Technology (2019)
 
+## Project
+NSFC No. 61902353  Research of cognitive-based spectrum sensing and energy harvesting in Internet of Things  (¥ 260,000)
+
 ## Publication
 
 **First-author/corresponding author publication:**
