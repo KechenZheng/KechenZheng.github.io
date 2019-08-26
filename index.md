@@ -77,7 +77,7 @@ NSFC No. 61902353  Research of cognitive-based spectrum sensing and energy harve
 
 (J5) X. Liu, **K. Zheng**, L. Fu, X.-Y. Liu, X. Wang, and G. Dai, [Energy efficiency of secure cognitive radio networks with cooperative spectrum sharing](https://ieeexplore.ieee.org/document/8362946), **IEEE Transactions on Mobile Computing**, vol. 18, no. 2, pp. 305-318, Feb. 2019. **(CCF-A)**
 
-(J6) K. Chi, Z. Yu, **K. Zheng**, Y. Li, and Z. Cheng, [Transmit power allocation of energy transmitters for throughput maximization in wireless powered communication networks](https://ieeexplore.ieee.org/document/8732064), **IET Communications**, vol. 13, no. 9, pp. 1200-1206, Jun. 2019.
+(J6) K. Chi, Z. Yu, **K. Zheng**, Y. Li, and Z. Cheng, [Transmit power allocation of energy transmitters for throughput maximization in wireless powered communication networks](https://ieeexplore.ieee.org/document/8732064), **IET Communications**, vol. 13, no. 9, pp. 1200-1206, Jun. 2019. **(CCF-C)**
 
 (C1) H. Guo, **K. Zheng**, F. Ouyang, X. Gan, Z. Zhang, and P. Dong, [A terminable trickle algorithm for lossy networks](https://ieeexplore.ieee.org/document/7954483), The 2016 International Symposium on Wireless Personal Multimedia Communications (**WPMC**), China, 2016.
 
