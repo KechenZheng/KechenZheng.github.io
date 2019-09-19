@@ -65,7 +65,7 @@ NSFC No. 61902353  Research of cognitive-based spectrum sensing and energy harve
 
 (J6) **K. Zheng**, X.-Y. Liu, X. Liu, and Y. Zhu, [Hybrid overlay-underlay cognitive radio networks with energy harvesting](https://ieeexplore.ieee.org/document/8695113), **IEEE Transactions on Communications**, vol. 67, no. 7, pp. 4669-4682, Jul. 2019. **(CCF-B)**
 
-(J7) K. Chi, Z. Chen, **K. Zheng**, Y. Zhu, and J. Liu, [Energy provision minimization in wireless powered communication networks with network throughput demand: TDMA or NOMA?](https://ieeexplore.ieee.org/document/8733057), **IEEE Transactions on Communications**, to appear in 2019. **(CCF-B)**
+(J7) K. Chi, Z. Chen, **K. Zheng**, Y. Zhu, and J. Liu, [Energy provision minimization in wireless powered communication networks with network throughput demand: TDMA or NOMA?](https://ieeexplore.ieee.org/document/8733057), **IEEE Transactions on Communications**, vol. 67, no. 9, pp. 6401-6414, Sep. 2019. **(CCF-B)**
 
 **Other publication:**
 
