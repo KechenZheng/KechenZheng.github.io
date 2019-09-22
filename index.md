@@ -87,9 +87,15 @@ NSFC No. 61902353  Research of cognitive-based spectrum sensing and energy harve
 
 **Under review:**
 
-(J1) **K. Zheng**, X. Liu, Y. Zhu, K. Chi, and Y. Li, Throughput maximization of CRN with energy harvesting and battery charging, submitted to **IEEE Transactions on Vehicular Technology**. (third round)
+(J1) **K. Zheng**, X. Liu, Y. Zhu, K. Chi, and Y. Li, Impact of Battery Charging on Spectrum Sensing of CRN with Energy Harvesting, submitted to **IEEE Transactions on Vehicular Technology**. (third round)
 
 (J2) **K. Zheng**, X. Liu, Y. Zhu, K. Chi, and K. Liu, Total throughput maximization of cooperative cognitive radio networks with energy harvesting, submitted to **IEEE Transactions on Wireless Communications**. (third round)
+
+(J3) **K. Zheng**, X. Liu, and B. Wang, Throughput Maximization of Wireless-Powered Communication Networks: An Energy Threshold Approach, submitted to **IEEE Transactions on Mobile Computing**. (first round)
+
+(J4) Z. Chen, K. Chi, **K. Zheng**, G. Dai, and Q. Shao, Minimization of Transmission Completion Time in UAV-enabled Wireless Powered Communication Networks, submitted to **IEEE Internet of Things Journal**. (second round)
+
+(J5) S. Gong, X. Liu, **K. Zheng**, X. Tian, and Y. Zhu, Slot-hitting Ratio Based TDMA Schedule for Hybrid Energy-harvesting Wireless Sensor Networks, submitted to **IET Communications**. (first round)
 
 ## Master and PHD students
 
