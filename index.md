@@ -67,6 +67,8 @@ NSFC No. 61902353  Research of cognitive-based spectrum sensing and energy harve
 
 (J7) K. Chi, Z. Chen, **K. Zheng**, Y. Zhu, and J. Liu, [Energy provision minimization in wireless powered communication networks with network throughput demand: TDMA or NOMA?](https://ieeexplore.ieee.org/document/8733057), **IEEE Transactions on Communications**, vol. 67, no. 9, pp. 6401-6414, Sep. 2019. **(CCF-B)**
 
+(J8) **K. Zheng**, X. Liu, Y. Zhu, K. Chi, and K. Liu, Total throughput maximization of cooperative cognitive radio networks with energy harvesting, to appear in **IEEE Transactions on Wireless Communications**. **(CCF-B)**
+
 **Other publication:**
 
 (J1) R. Jia, **K. Zheng**, J. Zhang, L. Fu, P. Du, X. Wang, and J. Xu, [Asymptotic analysis on throughput and delay in cognitive social networks](https://ieeexplore.ieee.org/document/6853384), **IEEE Transactions on Communications**, vol. 62, no. 8, pp. 2721-2732, Aug. 2014. **(CCF-B)**
@@ -89,13 +91,14 @@ NSFC No. 61902353  Research of cognitive-based spectrum sensing and energy harve
 
 (J1) **K. Zheng**, X. Liu, Y. Zhu, K. Chi, and Y. Li, Impact of Battery Charging on Spectrum Sensing of CRN with Energy Harvesting, submitted to **IEEE Transactions on Vehicular Technology**. (third round)
 
-(J2) **K. Zheng**, X. Liu, Y. Zhu, K. Chi, and K. Liu, Total throughput maximization of cooperative cognitive radio networks with energy harvesting, submitted to **IEEE Transactions on Wireless Communications**. (third round)
+(J2) **K. Zheng**, X. Liu, and B. Wang, Throughput Maximization of Wireless-Powered Communication Networks: An Energy Threshold Approach, submitted to **IEEE Transactions on Mobile Computing**. (first round)
 
-(J3) **K. Zheng**, X. Liu, and B. Wang, Throughput Maximization of Wireless-Powered Communication Networks: An Energy Threshold Approach, submitted to **IEEE Transactions on Mobile Computing**. (first round)
+(J3) Z. Chen, K. Chi, **K. Zheng**, G. Dai, and Q. Shao, Minimization of Transmission Completion Time in UAV-enabled Wireless Powered Communication Networks, submitted to **IEEE Internet of Things Journal**. (second round)
 
-(J4) Z. Chen, K. Chi, **K. Zheng**, G. Dai, and Q. Shao, Minimization of Transmission Completion Time in UAV-enabled Wireless Powered Communication Networks, submitted to **IEEE Internet of Things Journal**. (second round)
+(J4) S. Gong, X. Liu, **K. Zheng**, X. Tian, and Y. Zhu, Slot-hitting Ratio Based TDMA Schedule for Hybrid Energy-harvesting Wireless Sensor Networks, submitted to **IET Communications**. (first round)
 
-(J5) S. Gong, X. Liu, **K. Zheng**, X. Tian, and Y. Zhu, Slot-hitting Ratio Based TDMA Schedule for Hybrid Energy-harvesting Wireless Sensor Networks, submitted to **IET Communications**. (first round)
+(J5) Z. Chen, K. Chi, **K. Zheng**, Y. Li, X. Liu, Common Throughput Maximization in Wireless Powered Communication Networks with NonOrthogonal Multiple Access, submitted to **IEEE Transactions on Vehicular Technology**. (first round)
+
 
 ## Master and PHD students
 
