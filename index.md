@@ -29,23 +29,6 @@ TPC member for IEEE ICC'20 - MWN Symposium
 
 Reviewers for IEEE/ACM Transactions on Networking, IEEE Transactions on Mobile Computing, IEEE Transactions on Wireless Communications, IEEE Transactions on Vehicular Technology, IEEE Access, IEEE Transactions on Network Science and Engineering, IEEE Transactions on Cloud Computing, Transactions on Dependable and Secure Computing, and so on.
 
-## Honors and rewards
-
-Awarded Outstanding graduates of Shanghai (上海市优秀毕业生) in 2018
-
-Awarded National Scholarship for Graduate Students (研究生国家奖学金) in 2016
-
-Awarded Zhou Weihan and Ren Yuehua Scholarship (周维榦任月华奖学金) in 2015
-
-Awarded B-Level Scholarship of Shanghai Jiao Tong University (上海交通大学B等奖学金) in 2011, 2012
-
-Third Prize in the 11th "Huawei Cup" National College Student Mathematical Contest In Modeling (第十一届“华为杯”全国研究生数学建模竞赛) in 2014
-
-Awarded all-round good student of Shanghai Jiao Tong University (上海交通大学校级三好学生) in 2016
-
-## Teaching
-212533 Wireless Networking Technology (2019)
-
 ## Project
 NSFC No. 61902353  Research of cognitive-based spectrum sensing and energy harvesting in Internet of Things  (¥ 260,000)
 
@@ -99,6 +82,23 @@ NSFC No. 61902353  Research of cognitive-based spectrum sensing and energy harve
 
 (J5) Z. Chen, K. Chi, **K. Zheng**, Y. Li, X. Liu, Common Throughput Maximization in Wireless Powered Communication Networks with NonOrthogonal Multiple Access, submitted to **IEEE Transactions on Vehicular Technology**. (first round)
 
+## Honors and rewards
+
+Awarded Outstanding graduates of Shanghai (上海市优秀毕业生) in 2018
+
+Awarded National Scholarship for Graduate Students (研究生国家奖学金) in 2016
+
+Awarded Zhou Weihan and Ren Yuehua Scholarship (周维榦任月华奖学金) in 2015
+
+Awarded B-Level Scholarship of Shanghai Jiao Tong University (上海交通大学B等奖学金) in 2011, 2012
+
+Third Prize in the 11th "Huawei Cup" National College Student Mathematical Contest In Modeling (第十一届“华为杯”全国研究生数学建模竞赛) in 2014
+
+Awarded all-round good student of Shanghai Jiao Tong University (上海交通大学校级三好学生) in 2016
+
+## Teaching
+
+212533 Wireless Networking Technology (2019)
 
 ## Master and PHD students
 
