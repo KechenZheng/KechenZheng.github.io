@@ -18,7 +18,7 @@ Corresponding links of mine: [DBLP](https://dblp.uni-trier.de/pers/hd/z/Zheng:Ke
 
 07/2015-09/2015, Future University-Hakodate, supervisor: [Prof. Xiaohong Jiang](http://www.fun.ac.jp/research/faculty_members/xiaohongjiang/)
 
-10/2015-01/2016, Academy of Military Sciences PLA China, Advisor: Prof. Quan Yu
+10/2015-01/2016, Academy of Military Sciences PLA China, supervisor: Prof. Quan Yu
 
 ## Research areas
 
