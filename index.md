@@ -50,7 +50,7 @@ NSFC No. 61902353  Research of cognitive-based spectrum sensing and energy harve
 
 (J7) K. Chi, Z. Chen, **K. Zheng**, Y. Zhu, and J. Liu, [Energy provision minimization in wireless powered communication networks with network throughput demand: TDMA or NOMA?](https://ieeexplore.ieee.org/document/8733057), **IEEE Transactions on Communications**, vol. 67, no. 9, pp. 6401-6414, Sep. 2019. **(CCF-B)**
 
-(J8) **K. Zheng**, X. Liu, Y. Zhu, K. Chi, and K. Liu, Total throughput maximization of cooperative cognitive radio networks with energy harvesting, to appear in **IEEE Transactions on Wireless Communications**. **(CCF-B)**
+(J8) **K. Zheng**, X. Liu, Y. Zhu, K. Chi, and K. Liu, [Total throughput maximization of cooperative cognitive radio networks with energy harvesting](https://ieeexplore.ieee.org/document/8874991), to appear in **IEEE Transactions on Wireless Communications**. **(CCF-B)**
 
 **Other publication:**
 
