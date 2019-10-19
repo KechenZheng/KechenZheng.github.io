@@ -44,13 +44,13 @@ NSFC No. 61902353  Research of cognitive-based spectrum sensing and energy harve
 
 (J4) **K. Zheng**, Y. Cui, X. Liu, X. Wang, X. Jiang, and J. Tian, [Asymptotic analysis of inhomogeneous information-centric wireless networks with infrastructure support](https://ieeexplore.ieee.org/document/8304646), **IEEE Transactions on Vehicular Technology**, vol. 67, no. 6, pp. 5245-5259, Jun. 2018.
 
-(J5) **K. Zheng**, X.-Y. Liu, L. Fu, X. Wang, and Y. Zhu, [Energy efficiency in multihop wireless networks with unreliable links](https://ieeexplore.ieee.org/document/8598721), **IEEE Transactions on Network Science and Engineering**, to appear in 2019.
+(J5) **K. Zheng**, X.-Y. Liu, L. Fu, X. Wang, and Y. Zhu, [Energy efficiency in multihop wireless networks with unreliable links](https://ieeexplore.ieee.org/document/8598721), to appear in **IEEE Transactions on Network Science and Engineering**, 2019.
 
 (J6) **K. Zheng**, X.-Y. Liu, X. Liu, and Y. Zhu, [Hybrid overlay-underlay cognitive radio networks with energy harvesting](https://ieeexplore.ieee.org/document/8695113), **IEEE Transactions on Communications**, vol. 67, no. 7, pp. 4669-4682, Jul. 2019. **(CCF-B)**
 
 (J7) K. Chi, Z. Chen, **K. Zheng**, Y. Zhu, and J. Liu, [Energy provision minimization in wireless powered communication networks with network throughput demand: TDMA or NOMA?](https://ieeexplore.ieee.org/document/8733057), **IEEE Transactions on Communications**, vol. 67, no. 9, pp. 6401-6414, Sep. 2019. **(CCF-B)**
 
-(J8) **K. Zheng**, X. Liu, Y. Zhu, K. Chi, and K. Liu, [Total throughput maximization of cooperative cognitive radio networks with energy harvesting](https://ieeexplore.ieee.org/document/8874991), to appear in **IEEE Transactions on Wireless Communications**. **(CCF-B)**
+(J8) **K. Zheng**, X. Liu, Y. Zhu, K. Chi, and K. Liu, [Total throughput maximization of cooperative cognitive radio networks with energy harvesting](https://ieeexplore.ieee.org/document/8874991), to appear in **IEEE Transactions on Wireless Communications**, 2019. **(CCF-B)**
 
 **Other publication:**
 
@@ -60,7 +60,7 @@ NSFC No. 61902353  Research of cognitive-based spectrum sensing and energy harve
 
 (J3) X. Liu, **K. Zheng**, X.-Y. Liu, X. Wang, and G. Dai, [Towards secure and energy-efficient CRNs via embracing interference: A stochastic geometry approach](https://ieeexplore.ieee.org/document/8402212), **IEEE Access**, vol. 6, no. 1, pp. 36757-36770, July 2018.
 
-(J4) X. Liu, **K. Zheng**, X.-Y. Liu, X. Wang, and Y. Zhu, [Hierarchical cooperation improves delay in cognitive radio networks with mobile secondary nodes](https://ieeexplore.ieee.org/document/8570778), **IEEE Transactions on Mobile Computing**, to appear in 2019. **(CCF-A)**
+(J4) X. Liu, **K. Zheng**, X.-Y. Liu, X. Wang, and Y. Zhu, [Hierarchical cooperation improves delay in cognitive radio networks with mobile secondary nodes](https://ieeexplore.ieee.org/document/8570778), to appear in **IEEE Transactions on Mobile Computing**, 2019. **(CCF-A)**
 
 (J5) X. Liu, **K. Zheng**, L. Fu, X.-Y. Liu, X. Wang, and G. Dai, [Energy efficiency of secure cognitive radio networks with cooperative spectrum sharing](https://ieeexplore.ieee.org/document/8362946), **IEEE Transactions on Mobile Computing**, vol. 18, no. 2, pp. 305-318, Feb. 2019. **(CCF-A)**
 
