@@ -60,7 +60,7 @@ NSFC No. 61902353  Research of cognitive-based spectrum sensing and energy harve
 
 (J3) X. Liu, **K. Zheng**, X.-Y. Liu, X. Wang, and G. Dai, [Towards secure and energy-efficient CRNs via embracing interference: A stochastic geometry approach](https://ieeexplore.ieee.org/document/8402212), **IEEE Access**, vol. 6, no. 1, pp. 36757-36770, July 2018.
 
-(J4) X. Liu, **K. Zheng**, X.-Y. Liu, X. Wang, and Y. Zhu, [Hierarchical cooperation improves delay in cognitive radio networks with mobile secondary nodes](https://ieeexplore.ieee.org/document/8570778), to appear in **IEEE Transactions on Mobile Computing**, 2019. **(CCF-A)**
+(J4) X. Liu, **K. Zheng**, X.-Y. Liu, X. Wang, and Y. Zhu, [Hierarchical cooperation improves delay in cognitive radio networks with mobile secondary nodes](https://ieeexplore.ieee.org/document/8570778), **IEEE Transactions on Mobile Computing**, vol. 18, no. 12, pp. 2871-2884, Dec. 2019. **(CCF-A)**
 
 (J5) X. Liu, **K. Zheng**, L. Fu, X.-Y. Liu, X. Wang, and G. Dai, [Energy efficiency of secure cognitive radio networks with cooperative spectrum sharing](https://ieeexplore.ieee.org/document/8362946), **IEEE Transactions on Mobile Computing**, vol. 18, no. 2, pp. 305-318, Feb. 2019. **(CCF-A)**
 
