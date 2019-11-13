@@ -34,8 +34,6 @@ NSFC No. 61902353  Research of cognitive-based spectrum sensing and energy harve
 
 Scientific Research Foundation of Zhejiang University of Technology (¥ 100,000, 1/1, 2018-)
 
-Zhejiang Natural Science Funds for Distinguished Young Scholar, Research on Efficient Energy Provision and Data Collection Technologies of Wireless Powered Sensor Networks (¥ 800,000, 3/7, 2020-2023)
-
 ## Publication
 
 **First-author/corresponding author publication:**
