@@ -30,9 +30,11 @@ TPC member for IEEE ICC'20 - MWN Symposium (Mobile and Wireless Networks)
 Reviewers for IEEE/ACM Transactions on Networking, IEEE Transactions on Mobile Computing, IEEE Transactions on Wireless Communications, IEEE Transactions on Vehicular Technology, IEEE Access, IEEE Transactions on Network Science and Engineering, IEEE Transactions on Cloud Computing, Transactions on Dependable and Secure Computing, and so on.
 
 ## Project
-NSFC No. 61902353  Research of cognitive-based spectrum sensing and energy harvesting in Internet of Things  (¥ 260,000)
+NSFC No. 61902353  Research of cognitive-based spectrum sensing and energy harvesting in Internet of Things  (¥ 260,000, 1/1, 2020-2022)
 
-Scientific Research Foundation of Zhejiang University of Technology (¥ 100,000)
+Scientific Research Foundation of Zhejiang University of Technology (¥ 100,000, 1/1, 2018-)
+
+Zhejiang Natural Science Funds for Distinguished Young Scholar, Research on Efficient Energy Provision and Data Collection Technologies of Wireless Powered Sensor Networks (¥ 800,000, 3/7, 2020-2023)
 
 ## Publication
 
