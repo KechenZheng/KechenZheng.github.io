@@ -68,7 +68,7 @@ Scientific Research Foundation of Zhejiang University of Technology (¥ 100,000,
 
 (J6) K. Chi, Z. Yu, **K. Zheng**, Y. Li, and Z. Cheng, [Transmit power allocation of energy transmitters for throughput maximization in wireless powered communication networks](https://ieeexplore.ieee.org/document/8732064), **IET Communications**, vol. 13, no. 9, pp. 1200-1206, Jun. 2019. **(CCF-C)**
 
-(J7) Z. Chen, K. Chi, **K. Zheng**, G. Dai, and Q. Shao, Minimization of transmission completion time in UAV-enabled wireless powered communication networks, to appear in **IEEE Internet of Things Journal**, 2019. 
+(J7) Z. Chen, K. Chi, **K. Zheng**, G. Dai, and Q. Shao, [Minimization of transmission completion time in UAV-enabled wireless powered communication networks](https://ieeexplore.ieee.org/document/8902102), to appear in **IEEE Internet of Things Journal**, 2019. 
 
 (C1) H. Guo, **K. Zheng**, F. Ouyang, X. Gan, Z. Zhang, and P. Dong, [A terminable trickle algorithm for lossy networks](https://ieeexplore.ieee.org/document/7954483), The 2016 International Symposium on Wireless Personal Multimedia Communications (**WPMC**), China, 2016.
 
