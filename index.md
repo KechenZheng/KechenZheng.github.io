@@ -78,7 +78,7 @@ Scientific Research Foundation of Zhejiang University of Technology (¥ 100,000,
 
 (J1) **K. Zheng**, X. Liu, Y. Zhu, K. Chi, and Y. Li, Impact of Battery Charging on Spectrum Sensing of CRN with Energy Harvesting, submitted to **IEEE Transactions on Vehicular Technology**. (third round)
 
-(J2) **K. Zheng**, X. Liu, and B. Wang, Throughput Maximization of Wireless-Powered Communication Networks: An Energy Threshold Approach, submitted to **IEEE Transactions on Mobile Computing**. (first round)
+(J2) **K. Zheng**, X. Liu, B. Wang, H. Zheng, and Y. Zhu, Throughput Maximization of Wireless-Powered Communication Networks: An Energy Threshold Approach, submitted to **IEEE Transactions on Wireless Communications**. (first round)
 
 (J3) S. Gong, X. Liu, **K. Zheng**, X. Tian, and Y. Zhu, Slot-hitting Ratio Based TDMA Schedule for Hybrid Energy-harvesting Wireless Sensor Networks, submitted to **IET Communications**. (first round)
 
