@@ -46,13 +46,13 @@ Scientific Research Foundation of Zhejiang University of Technology (¥ 100,000,
 
 (J4) **K. Zheng**, Y. Cui, X. Liu, X. Wang, X. Jiang, and J. Tian, [Asymptotic analysis of inhomogeneous information-centric wireless networks with infrastructure support](https://ieeexplore.ieee.org/document/8304646), **IEEE Transactions on Vehicular Technology**, vol. 67, no. 6, pp. 5245-5259, Jun. 2018.
 
-(J5) **K. Zheng**, X.-Y. Liu, L. Fu, X. Wang, and Y. Zhu, [Energy efficiency in multihop wireless networks with unreliable links](https://ieeexplore.ieee.org/document/8598721), to appear in **IEEE Transactions on Network Science and Engineering**, 2019.
+(J5) **K. Zheng**, X.-Y. Liu, L. Fu, X. Wang, and Y. Zhu, [Energy efficiency in multihop wireless networks with unreliable links](https://ieeexplore.ieee.org/document/8598721), to appear in **IEEE Transactions on Network Science and Engineering**, 2020.
 
 (J6) **K. Zheng**, X.-Y. Liu, X. Liu, and Y. Zhu, [Hybrid overlay-underlay cognitive radio networks with energy harvesting](https://ieeexplore.ieee.org/document/8695113), **IEEE Transactions on Communications**, vol. 67, no. 7, pp. 4669-4682, Jul. 2019. **(CCF-B)**
 
 (J7) K. Chi, Z. Chen, **K. Zheng**, Y. Zhu, and J. Liu, [Energy provision minimization in wireless powered communication networks with network throughput demand: TDMA or NOMA?](https://ieeexplore.ieee.org/document/8733057), **IEEE Transactions on Communications**, vol. 67, no. 9, pp. 6401-6414, Sep. 2019. **(CCF-B)**
 
-(J8) **K. Zheng**, X. Liu, Y. Zhu, K. Chi, and K. Liu, [Total throughput maximization of cooperative cognitive radio networks with energy harvesting](https://ieeexplore.ieee.org/document/8874991), to appear in **IEEE Transactions on Wireless Communications**, 2019. **(CCF-B)**
+(J8) **K. Zheng**, X. Liu, Y. Zhu, K. Chi, and K. Liu, [Total throughput maximization of cooperative cognitive radio networks with energy harvesting](https://ieeexplore.ieee.org/document/8874991), to appear in **IEEE Transactions on Wireless Communications**, 2020. **(CCF-B)**
 
 **Other publication:**
 
@@ -68,7 +68,7 @@ Scientific Research Foundation of Zhejiang University of Technology (¥ 100,000,
 
 (J6) K. Chi, Z. Yu, **K. Zheng**, Y. Li, and Z. Cheng, [Transmit power allocation of energy transmitters for throughput maximization in wireless powered communication networks](https://ieeexplore.ieee.org/document/8732064), **IET Communications**, vol. 13, no. 9, pp. 1200-1206, Jun. 2019. **(CCF-C)**
 
-(J7) Z. Chen, K. Chi, **K. Zheng**, G. Dai, and Q. Shao, [Minimization of transmission completion time in UAV-enabled wireless powered communication networks](https://ieeexplore.ieee.org/document/8902102), to appear in **IEEE Internet of Things Journal**, 2019. 
+(J7) Z. Chen, K. Chi, **K. Zheng**, G. Dai, and Q. Shao, [Minimization of transmission completion time in UAV-enabled wireless powered communication networks](https://ieeexplore.ieee.org/document/8902102), to appear in **IEEE Internet of Things Journal**, 2020. 
 
 (C1) H. Guo, **K. Zheng**, F. Ouyang, X. Gan, Z. Zhang, and P. Dong, [A terminable trickle algorithm for lossy networks](https://ieeexplore.ieee.org/document/7954483), The 2016 International Symposium on Wireless Personal Multimedia Communications (**WPMC**), China, 2016.
 
