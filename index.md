@@ -52,7 +52,7 @@ Scientific Research Foundation of Zhejiang University of Technology (¥ 100,000,
 
 (J7) K. Chi, Z. Chen, **K. Zheng**, Y. Zhu, and J. Liu, [Energy provision minimization in wireless powered communication networks with network throughput demand: TDMA or NOMA?](https://ieeexplore.ieee.org/document/8733057), **IEEE Transactions on Communications**, vol. 67, no. 9, pp. 6401-6414, Sep. 2019. **(CCF-B)**
 
-(J8) **K. Zheng**, X. Liu, Y. Zhu, K. Chi, and K. Liu, [Total throughput maximization of cooperative cognitive radio networks with energy harvesting](https://ieeexplore.ieee.org/document/8874991), to appear in **IEEE Transactions on Wireless Communications**, 2020. **(CCF-B)**
+(J8) **K. Zheng**, X. Liu, Y. Zhu, K. Chi, and K. Liu, [Total throughput maximization of cooperative cognitive radio networks with energy harvesting](https://ieeexplore.ieee.org/document/8874991), **IEEE Transactions on Wireless Communications**, vol. 19, no. 1, pp. 533-546, Jan. 2020. **(CCF-B)**
 
 **Other publication:**
 
