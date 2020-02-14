@@ -100,7 +100,7 @@ Awarded all-round good student of Shanghai Jiao Tong University (上海交通大
 
 ## Teaching
 
-212533 Wireless Networking Technology (2019)
+212533 Wireless Networking Technology (2019-2020)
 
 ## Master and PHD students
 
