@@ -1,4 +1,4 @@
-<img src="2.JPG" width="70" height="85"/>  **Kechen Zheng**, Associate Professor (Tenure Track)
+<img src="2.JPG" width="70" height="85"/>  **Kechen Zheng**, Associate Professor (Tenure Track), Master Supervisor
 
 07/2018-till now, [School of Computer Science and Technology](http://www.software.zjut.edu.cn/), [Zhejiang University of Technology](http://www.zjut.edu.cn/) 
 
@@ -70,6 +70,8 @@ Scientific Research Foundation of Zhejiang University of Technology (¥ 100,000,
 
 (J7) Z. Chen, K. Chi, **K. Zheng**, G. Dai, and Q. Shao, [Minimization of transmission completion time in UAV-enabled wireless powered communication networks](https://ieeexplore.ieee.org/document/8902102), **IEEE Internet of Things Journal**, vol. 7, no. 2, pp. 1245-1259, Feb. 2020. 
 
+(J8) S. Gong, X. Liu, **K. Zheng**, X. Tian, Y. Zhu, Slot-hitting ratio based TDMA schedule for hybrid energy-harvesting wireless sensor networks, to appear in **IET Communications**, 2020. **(CCF-C)**
+
 (C1) H. Guo, **K. Zheng**, F. Ouyang, X. Gan, Z. Zhang, and P. Dong, [A terminable trickle algorithm for lossy networks](https://ieeexplore.ieee.org/document/7954483), The 2016 International Symposium on Wireless Personal Multimedia Communications (**WPMC**), China, 2016.
 
 (C2) Q. Chen, **K. Zheng**, F. Ouyang, X. Gan, Y. Xu, and X. Tian, [A shortest path routing algorithm based on virtual coordinate in NeLS](https://ieeexplore.ieee.org/document/7752568), The 8th International Conference on Wireless Communications and Signal Processing (**WCSP**), China, 2016.
@@ -80,9 +82,7 @@ Scientific Research Foundation of Zhejiang University of Technology (¥ 100,000,
 
 (J2) **K. Zheng**, X. Liu, B. Wang, H. Zheng, and Y. Zhu, Throughput Maximization of Wireless-Powered Communication Networks: An Energy Threshold Approach, submitted to **IEEE Transactions on Wireless Communications**. (first round)
 
-(J3) S. Gong, X. Liu, **K. Zheng**, X. Tian, and Y. Zhu, Slot-hitting Ratio Based TDMA Schedule for Hybrid Energy-harvesting Wireless Sensor Networks, submitted to **IET Communications**. (first round)
-
-(J4) Z. Chen, K. Chi, **K. Zheng**, Y. Li, X. Liu, Common Throughput Maximization in Wireless Powered Communication Networks with NonOrthogonal Multiple Access, submitted to **IEEE Transactions on Vehicular Technology**. (first round)
+(J3) Z. Chen, K. Chi, **K. Zheng**, Y. Li, X. Liu, Common Throughput Maximization in Wireless Powered Communication Networks with NonOrthogonal Multiple Access, submitted to **IEEE Transactions on Vehicular Technology**. (first round)
 
 ## Honors and rewards
 
