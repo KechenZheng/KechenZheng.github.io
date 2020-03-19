@@ -86,6 +86,8 @@ Scientific Research Foundation of Zhejiang University of Technology (¥ 100,000,
 
 (J3) Z. Chen, K. Chi, **K. Zheng**, Y. Li, X. Liu, Common Throughput Maximization in Wireless Powered Communication Networks with NonOrthogonal Multiple Access, submitted to **IEEE Transactions on Vehicular Technology**. (first round)
 
+(J4) **K. Zheng**, and X. Liu, Tradeoffs among Sensing, Reporting, and Transmission in Cooperative Cognitive Radio Networks, submitted to **IEEE Transactions on Mobile Communications**. (first round)
+
 ## Honors and rewards
 
 Awarded Outstanding graduates of Shanghai (上海市优秀毕业生) in 2018
