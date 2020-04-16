@@ -80,13 +80,15 @@ Scientific Research Foundation of Zhejiang University of Technology (¥ 100,000,
 
 **Under review:**
 
-(J1) **K. Zheng**, X. Liu, Y. Zhu, K. Chi, and Y. Li, Impact of Battery Charging on Spectrum Sensing of CRN with Energy Harvesting, submitted to **IEEE Transactions on Vehicular Technology**. (third round)
+(J1) **K. Zheng**, X. Liu, Y. Zhu, K. Chi, and Y. Li, Impact of Battery Charging on Spectrum Sensing of CRN with Energy Harvesting, submitted to **IEEE Transactions on Vehicular Technology**. (fourth round)
 
-(J2) **K. Zheng**, X. Liu, B. Wang, H. Zheng, and Y. Zhu, Throughput Maximization of Wireless-Powered Communication Networks: An Energy Threshold Approach, submitted to **IEEE Transactions on Wireless Communications**. (first round)
+(J2) **K. Zheng**, X. Liu, B. Wang, H. Zheng, and Y. Zhu, Throughput Maximization of Wireless-Powered Communication Networks: An Energy Threshold Approach, submitted to **IEEE Transactions on Communications**. (first round)
 
-(J3) Z. Chen, K. Chi, **K. Zheng**, Y. Li, X. Liu, Common Throughput Maximization in Wireless Powered Communication Networks with NonOrthogonal Multiple Access, submitted to **IEEE Transactions on Vehicular Technology**. (first round)
+(J3) Z. Chen, K. Chi, **K. Zheng**, Y. Li, X. Liu, Common Throughput Maximization in Wireless Powered Communication Networks with NonOrthogonal Multiple Access, submitted to **IEEE Transactions on Vehicular Technology**. (second round)
 
 (J4) **K. Zheng**, and X. Liu, Tradeoffs among Sensing, Reporting, and Transmission in Cooperative Cognitive Radio Networks, submitted to **IEEE Transactions on Mobile Communications**. (first round)
+
+(J5) X. Liu, **K. Zheng**,  K. Chi, and Y. Zhu, Cooperative Spectrum Sensing Optimization in Energy-Harvesting Cognitive Radio Networks, submitted to **IEEE Transactions on Wireless Communications**. (second round)
 
 ## Honors and rewards
 
