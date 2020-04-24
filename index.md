@@ -74,7 +74,7 @@ Scientific Research Foundation of Zhejiang University of Technology (¥ 100,000,
 
 (J8) S. Gong, X. Liu, **K. Zheng**, X. Tian, Y. Zhu, Slot-hitting ratio based TDMA schedule for hybrid energy-harvesting wireless sensor networks, to appear in **IET Communications**, 2020. **(CCF-C)**
 
-(J9) Z. Chen, K. Chi, **K. Zheng**, Y. Li, X. Liu, Common throughput maximization in wireless powered communication networks with nonorthogonal multiple access, to appear in **IEEE Transactions on Vehicular Technology**, 2020. 
+(J9) Z. Chen, K. Chi, **K. Zheng**, Y. Li, X. Liu, [Common throughput maximization in wireless powered communication networks with nonorthogonal multiple access](https://ieeexplore.ieee.org/document/9076315), to appear in **IEEE Transactions on Vehicular Technology**, 2020. 
 
 (C1) H. Guo, **K. Zheng**, F. Ouyang, X. Gan, Z. Zhang, and P. Dong, [A terminable trickle algorithm for lossy networks](https://ieeexplore.ieee.org/document/7954483), The 2016 International Symposium on Wireless Personal Multimedia Communications (**WPMC**), China, 2016.
 
