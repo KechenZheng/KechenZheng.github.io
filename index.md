@@ -56,7 +56,7 @@ Scientific Research Foundation of Zhejiang University of Technology (¥ 100,000,
 
 (J8) **K. Zheng**, X. Liu, Y. Zhu, K. Chi, and K. Liu, [Total throughput maximization of cooperative cognitive radio networks with energy harvesting](https://ieeexplore.ieee.org/document/8874991), **IEEE Transactions on Wireless Communications**, vol. 19, no. 1, pp. 533-546, Jan. 2020. **(CCF-B)**
 
-(J9) **K. Zheng**, X. Liu, Y. Zhu, K. Chi, and Y. Li, Impact of battery charging on spectrum sensing of CRN with energy harvesting, to appear in **IEEE Transactions on Vehicular Technology**, 2020. 
+(J9) **K. Zheng**, X. Liu, Y. Zhu, K. Chi, and Y. Li, Impact of battery charging on spectrum sensing of CRN with energy harvesting, to appear in **IEEE Transactions on Vehicular Technology**, DOI: 10.1109/TVT.2020.2994005, 2020. 
 
 **Other publication:**
 
