@@ -108,6 +108,10 @@ Awarded all-round good student of Shanghai Jiao Tong University (上海交通大
 
 212533 Wireless Networking Technology (2019-2020)
 
+G126046 Computer Networks (2020)
+
+G726014 Computer Networks Curriculum Design (2020)
+
 ## Master and PHD students
 
 Haijiang Ge (2018, PhD student, joint supervised by Prof. Chi)
