@@ -56,7 +56,7 @@ Scientific Research Foundation of Zhejiang University of Technology (¥ 100,000,
 
 (J8) **K. Zheng**, X. Liu, Y. Zhu, K. Chi, and K. Liu, [Total throughput maximization of cooperative cognitive radio networks with energy harvesting](https://ieeexplore.ieee.org/document/8874991), **IEEE Transactions on Wireless Communications**, vol. 19, no. 1, pp. 533-546, Jan. 2020. **(CCF-B)**
 
-(J9) **K. Zheng**, X. Liu, Y. Zhu, K. Chi, and Y. Li, [Impact of battery charging on spectrum sensing of CRN with energy harvesting](https://ieeexplore.ieee.org/document/9091209), to appear in **IEEE Transactions on Vehicular Technology**, DOI: 10.1109/TVT.2020.2994005, 2020. 
+(J9) **K. Zheng**, X. Liu, Y. Zhu, K. Chi, and Y. Li, [Impact of battery charging on spectrum sensing of CRN with energy harvesting](https://ieeexplore.ieee.org/document/9091209), **IEEE Transactions on Vehicular Technology**, vol. 69, no. 7, pp. 7545-7557, Jul. 2020. 
 
 **Other publication:**
 
@@ -76,7 +76,7 @@ Scientific Research Foundation of Zhejiang University of Technology (¥ 100,000,
 
 (J8) S. Gong, X. Liu, **K. Zheng**, X. Tian, Y. Zhu, Slot-hitting ratio based TDMA schedule for hybrid energy-harvesting wireless sensor networks, to appear in **IET Communications**, 2020. **(CCF-C)**
 
-(J9) Z. Chen, K. Chi, **K. Zheng**, Y. Li, X. Liu, [Common throughput maximization in wireless powered communication networks with nonorthogonal multiple access](https://ieeexplore.ieee.org/document/9076315), to appear in **IEEE Transactions on Vehicular Technology**, 2020. 
+(J9) Z. Chen, K. Chi, **K. Zheng**, Y. Li, X. Liu, [Common throughput maximization in wireless powered communication networks with nonorthogonal multiple access](https://ieeexplore.ieee.org/document/9076315), **IEEE Transactions on Vehicular Technology**, vol. 69, no. 7, pp. 7692-7706, Jul. 2020. 
 
 (C1) H. Guo, **K. Zheng**, F. Ouyang, X. Gan, Z. Zhang, and P. Dong, [A terminable trickle algorithm for lossy networks](https://ieeexplore.ieee.org/document/7954483), The 2016 International Symposium on Wireless Personal Multimedia Communications (**WPMC**), China, 2016.
 
