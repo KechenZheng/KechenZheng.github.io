@@ -58,6 +58,8 @@ Scientific Research Foundation of Zhejiang University of Technology (¥ 100,000,
 
 (J9) **K. Zheng**, X. Liu, Y. Zhu, K. Chi, and Y. Li, [Impact of battery charging on spectrum sensing of CRN with energy harvesting](https://ieeexplore.ieee.org/document/9091209), **IEEE Transactions on Vehicular Technology**, vol. 69, no. 7, pp. 7545-7557, Jul. 2020. 
 
+(J10) X. Liu, **K. Zheng**,  K. Chi, and Y. Zhu, Cooperative Spectrum Sensing Optimization in Energy-Harvesting Cognitive Radio Networks, to appear in **IEEE Transactions on Wireless Communications**, 2020. **(CCF-B)**
+
 **Other publication:**
 
 (J1) R. Jia, **K. Zheng**, J. Zhang, L. Fu, P. Du, X. Wang, and J. Xu, [Asymptotic analysis on throughput and delay in cognitive social networks](https://ieeexplore.ieee.org/document/6853384), **IEEE Transactions on Communications**, vol. 62, no. 8, pp. 2721-2732, Aug. 2014. **(CCF-B)**
@@ -88,7 +90,7 @@ Scientific Research Foundation of Zhejiang University of Technology (¥ 100,000,
 
 (J2) **K. Zheng**, and X. Liu, Tradeoffs among Sensing, Reporting, and Transmission in Cooperative Cognitive Radio Networks, submitted to **IEEE Transactions on Mobile Communications**. (first round)
 
-(J3) X. Liu, **K. Zheng**,  K. Chi, and Y. Zhu, Cooperative Spectrum Sensing Optimization in Energy-Harvesting Cognitive Radio Networks, submitted to **IEEE Transactions on Wireless Communications**. (second round)
+(J3) **K. Zheng**, and X. Liu, Probability-based fusion rule in spectrum sensing with impact of geographic location, to be submitted.
 
 ## Honors and rewards
 
