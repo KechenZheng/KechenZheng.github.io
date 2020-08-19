@@ -76,7 +76,7 @@ Scientific Research Foundation of Zhejiang University of Technology (¥ 100,000,
 
 (J7) Z. Chen, K. Chi, **K. Zheng**, G. Dai, and Q. Shao, [Minimization of transmission completion time in UAV-enabled wireless powered communication networks](https://ieeexplore.ieee.org/document/8902102), **IEEE Internet of Things Journal**, vol. 7, no. 2, pp. 1245-1259, Feb. 2020. 
 
-(J8) S. Gong, X. Liu, **K. Zheng**, X. Tian, Y. Zhu, Slot-hitting ratio based TDMA schedule for hybrid energy-harvesting wireless sensor networks, **IET Communications**, vol. 14, no. 12, pp. 1949-1956, Jul. 2020. **(CCF-C)**
+(J8) S. Gong, X. Liu, **K. Zheng**, X. Tian, Y. Zhu, [Slot-hitting ratio based TDMA schedule for hybrid energy-harvesting wireless sensor networks](https://ieeexplore.ieee.org/document/9146003), **IET Communications**, vol. 14, no. 12, pp. 1949-1956, Jul. 2020. **(CCF-C)**
 
 (J9) Z. Chen, K. Chi, **K. Zheng**, Y. Li, X. Liu, [Common throughput maximization in wireless powered communication networks with nonorthogonal multiple access](https://ieeexplore.ieee.org/document/9076315), **IEEE Transactions on Vehicular Technology**, vol. 69, no. 7, pp. 7692-7706, Jul. 2020. 
 
