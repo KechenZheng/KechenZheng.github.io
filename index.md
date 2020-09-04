@@ -92,6 +92,8 @@ Scientific Research Foundation of Zhejiang University of Technology (¥ 100,000,
 
 (J3) **K. Zheng**, and X. Liu, Probability-based fusion rule in spectrum sensing with impact of geographic location, to be submitted.
 
+(J4) X. Liu, and **K. Zheng**, Optimal transmission strategy design for solar-harvesting communication link, submitted to **IEEE Transactions on Vehicular Technology**.  (first round)
+
 ## Honors and rewards
 
 Awarded Outstanding graduates of Shanghai (上海市优秀毕业生) in 2018
