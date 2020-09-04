@@ -123,3 +123,5 @@ Haijiang Ge (2018, PhD student, joint supervised by Prof. Chi)
 Wendi Sun (2019, Master student, joint supervised by Prof. Zhu)
 
 Xueli Jia (2019, Master student, joint supervised by Prof. Chi)
+
+Jiahong Wang (2020, Master student, joint supervised by Prof. Zhu)
