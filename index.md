@@ -1,13 +1,9 @@
 <img src="2.JPG" width="70" height="85"/>  **Kechen Zheng**, Associate Professor (Tenure Track), Master Supervisor
 
-07/2018-till now, [School of Computer Science and Technology](http://www.software.zjut.edu.cn/), [Zhejiang University of Technology](http://www.zjut.edu.cn/) 
-
-No. 288 Liu-He Road, Hangzhou, Zhejiang, 310023, P. R. China
-
-Tel: (+86) 158-0171-4656
-
-E-mail: kechenzheng@zjut.edu.cn; zhengkechen@foxmail.com
-
+07/2018-till now, [School of Computer Science and Technology](http://www.software.zjut.edu.cn/), [Zhejiang University of Technology](http://www.zjut.edu.cn/)   
+No. 288 Liu-He Road, Hangzhou, Zhejiang, 310023, P. R. China  
+Tel: (+86) 158-0171-4656  
+E-mail: kechenzheng@zjut.edu.cn; zhengkechen@foxmail.com  
 Corresponding links of mine: [DBLP](https://dblp.uni-trier.de/pers/hd/z/Zheng:Kechen);   [IEEE Xplore](https://ieeexplore.ieee.org/author/37085359644)
 
 ## Education
@@ -24,7 +20,7 @@ Performance evaluation in cognitive and social networks; energy harvesting wirel
 ## Services
 TPC member for IEEE ICC'20 - MWN Symposium (Mobile and Wireless Networks)  
 Member of China Computer Federation, Member of IEEE  
-Reviewers for IEEE/ACM Transactions on Networking, IEEE Transactions on Mobile Computing, IEEE Transactions on Wireless Communications, IEEE Transactions on Vehicular Technology, IEEE Access, IEEE Transactions on Network Science and Engineering, IEEE Transactions on Cloud Computing, Transactions on Dependable and Secure Computing, and so on.
+Reviewers for IEEE/ACM Transactions on Networking, IEEE Transactions on Mobile Computing, IEEE Transactions on Wireless Communications, IEEE Transactions on Vehicular Technology, IEEE Transactions on Network Science and Engineering, Transactions on Dependable and Secure Computing, and so on.
 
 ## Project
 NSFC No. 61902353  Research of cognitive-based spectrum sensing and energy harvesting in Internet of Things  (¥ 260,000, 1/1, 2020-2022)  
