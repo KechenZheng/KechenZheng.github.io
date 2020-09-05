@@ -6,8 +6,6 @@ No. 288 Liu-He Road, Hangzhou, Zhejiang, 310023, P. R. China
 
 Tel: (+86) 158-0171-4656
 
-<span style="color: blue"> K. Zheng </span> 
-
 E-mail: kechenzheng@zjut.edu.cn; zhengkechen@foxmail.com
 
 Corresponding links of mine: [DBLP](https://dblp.uni-trier.de/pers/hd/z/Zheng:Kechen);   [IEEE Xplore](https://ieeexplore.ieee.org/author/37085359644)
@@ -42,7 +40,7 @@ Scientific Research Foundation of Zhejiang University of Technology (¥ 100,000,
 
 **First-author/corresponding author publication:**
 
-(J1) **K. Zheng**, J. Luo, J. Zhang, W. Wu, X. Tian, and X. Wang, [Cooperation improves delay in cognitive networks with hybrid random walk](https://ieeexplore.ieee.org/document/7070747),  **IEEE Transactions on Communications**, vol. 63, no. 6, pp. 1988-2000, Jun. 2015. **(CCF-B)**
+(J1) **<span style="color: blue">K. Zheng</span>**, J. Luo, J. Zhang, W. Wu, X. Tian, and X. Wang, [Cooperation improves delay in cognitive networks with hybrid random walk](https://ieeexplore.ieee.org/document/7070747),  **IEEE Transactions on Communications**, vol. 63, no. 6, pp. 1988-2000, Jun. 2015. **(CCF-B)**
 
 (J2) **K. Zheng**, J. Zhang, S. Yao, W. Wu, X. Wang, and C. Peng, [Impacts of social relationships and inhomogeneous node distribution on the network performance](https://ieeexplore.ieee.org/document/7462274), **IEEE Transactions on Wireless Communications**, vol. 15, no. 8, pp. 5467-5479, Aug. 2016. **(CCF-B)**
 
