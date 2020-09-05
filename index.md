@@ -6,7 +6,7 @@ No. 288 Liu-He Road, Hangzhou, Zhejiang, 310023, P. R. China
 
 Tel: (+86) 158-0171-4656
 
-<span style="color: green"> Some green text </span> 
+<span style="color: blue"> K. Zheng </span> 
 
 E-mail: kechenzheng@zjut.edu.cn; zhengkechen@foxmail.com
 
