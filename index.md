@@ -57,7 +57,7 @@ Scientific Research Foundation of Zhejiang University of Technology (¥ 100,000,
 **Under review:**
 
 (J1) **<span style="color: blue">K. Zheng</span>**, X. Liu, B. Wang, H. Zheng, and Y. Zhu, Throughput Maximization of Wireless-Powered Communication Networks: An Energy Threshold Approach, submitted to **IEEE Transactions on Communications**. (first round)  
-(J2) **<span style="color: blue">K. Zheng</span>**, and X. Liu, Tradeoffs among Sensing, Reporting, and Transmission in Cooperative Cognitive Radio Networks, submitted to **IEEE Transactions on Mobile Communications**. (first round)  
+(J2) **<span style="color: blue">K. Zheng</span>**, and X. Liu, Tradeoffs among Sensing, Reporting, and Transmission in Cooperative Cognitive Radio Networks, submitted to **IEEE Transactions on Mobile Computing**. (first round)  
 (J3) **<span style="color: blue">K. Zheng</span>**, and X. Liu, Probability-based fusion rule in spectrum sensing with impact of geographic location, to be submitted.  
 (J4) X. Liu, and **<span style="color: blue">K. Zheng</span>**, Optimal transmission strategy design for solar-harvesting communication link, submitted to **IEEE Transactions on Vehicular Technology**.  (first round)
 
