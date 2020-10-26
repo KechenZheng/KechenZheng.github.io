@@ -22,8 +22,9 @@ Member of China Computer Federation, Member of IEEE
 Reviewers for IEEE/ACM Transactions on Networking, IEEE Transactions on Mobile Computing, IEEE Transactions on Wireless Communications, IEEE Transactions on Vehicular Technology, IEEE Transactions on Network Science and Engineering, Transactions on Dependable and Secure Computing, and so on.
 
 ## Project
-NSFC No. 61902353  Research of cognitive-based spectrum sensing and energy harvesting in Internet of Things  (¥ 260,000, 1/1, 2020-2022)  
-Scientific Research Foundation of Zhejiang University of Technology (¥ 100,000, 1/1, 2018-)
+Scientific Research Foundation of Zhejiang University of Technology (¥ 100,000, 1/1, 2018-)  
+NSFC No. 61902353  Research of cognitive-based spectrum sensing and energy harvesting in Internet of Things  (¥ 260,000, 1/1, 2020-2022)    
+No. LR20F020003 Research on efficient energy provision and data collection technologies of wireless powered sensor networks  (¥ 800,000, 3/7, 2020-2023)
 
 ## Publication
 
