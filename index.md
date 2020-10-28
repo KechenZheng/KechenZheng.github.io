@@ -3,7 +3,7 @@
 No. 288 Liu-He Road, Hangzhou, Zhejiang, 310023, P. R. China  
 Tel: (+86) 158-0171-4656  
 E-mail: kechenzheng@zjut.edu.cn; zhengkechen@foxmail.com  
-Corresponding links of mine: [DBLP](https://dblp.uni-trier.de/pers/hd/z/Zheng:Kechen);   [IEEE Xplore](https://ieeexplore.ieee.org/author/37085359644)
+Corresponding links of mine: [Homepage in Chinese](http://www.cs.zjut.edu.cn/jsp/userread.jsp?id=474);   [DBLP](https://dblp.uni-trier.de/pers/hd/z/Zheng:Kechen);   [IEEE Xplore](https://ieeexplore.ieee.org/author/37085359644)
 
 ## Education
 
