@@ -9,7 +9,7 @@ Corresponding links of mine: [Homepage in Chinese](http://www.cs.zjut.edu.cn/jsp
 
 09/2009-06/2013, Shanghai Jiao Tong University, Bachelor of Information Engineering  
 09/2013-06/2018, Shanghai Jiao Tong University, Ph.D. of Electronic Engineering，supervisor: [Prof. Xinbing Wang](http://iwct.sjtu.edu.cn/Personal/xwang8/), Thesis: Capacity analysis of social relationships-based inhomogeneous wireless networks  
-07/2015-09/2015, Future University-Hakodate, supervisor: [Prof. Xiaohong Jiang](http://www.fun.ac.jp/research/faculty_members/xiaohongjiang/)  
+07/2015-09/2015, Future University-Hakodate, supervisor: [Prof. Xiaohong Jiang](https://www.fun.ac.jp/faculty/jiang-xiaohong)  
 10/2015-01/2016, Academy of Military Sciences PLA China, supervisor: Prof. Quan Yu
 
 ## Research areas
