@@ -23,7 +23,9 @@ Reviewers for IEEE/ACM Transactions on Networking, IEEE Transactions on Mobile C
 
 ## Project
 Scientific Research Foundation of Zhejiang University of Technology (¥ 100,000, 1/1, 2018-)  
-NSFC No. 61902353  Research of cognitive-based spectrum sensing and energy harvesting in Internet of Things  (¥ 260,000, 1/1, 2020-2022)    
+NSFC No. 61902353  Research of cognitive-based spectrum sensing and energy harvesting in Internet of Things  (¥ 260,000, 1/1, 2020-2022)   
+No. LY21F020022 Research on multiband cooperative spectrum sensing in wireless powered Internet of Things (¥ 100,000, 1/7, 2021-2023)  
+No. LY21F020023 Research on Physical Layer Security for Energy Harvesting-Based Internet of Things (¥ 100,000, 2/7, 2021-2023)  
 No. LR20F020003 Research on efficient energy provision and data collection technologies of wireless powered sensor networks  (¥ 800,000, 3/7, 2020-2023)
 
 ## Publication
