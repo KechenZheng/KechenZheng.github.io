@@ -41,7 +41,8 @@ No. LR20F020003 Research on efficient energy provision and data collection techn
 (J7) K. Chi, Z. Chen, **<span style="color: blue">K. Zheng</span>**, Y. Zhu, and J. Liu, [Energy provision minimization in wireless powered communication networks with network throughput demand: TDMA or NOMA?](https://ieeexplore.ieee.org/document/8733057), **IEEE Transactions on Communications**, vol. 67, no. 9, pp. 6401-6414, Sep. 2019. **(CCF-B)**  
 (J8) **<span style="color: blue">K. Zheng</span>**, X. Liu, Y. Zhu, K. Chi, and K. Liu, [Total throughput maximization of cooperative cognitive radio networks with energy harvesting](https://ieeexplore.ieee.org/document/8874991), **IEEE Transactions on Wireless Communications**, vol. 19, no. 1, pp. 533-546, Jan. 2020. **(CCF-B)**  
 (J9) **<span style="color: blue">K. Zheng</span>**, X. Liu, Y. Zhu, K. Chi, and Y. Li, [Impact of battery charging on spectrum sensing of CRN with energy harvesting](https://ieeexplore.ieee.org/document/9091209), **IEEE Transactions on Vehicular Technology**, vol. 69, no. 7, pp. 7545-7557, Jul. 2020.   
-(J10) X. Liu, **<span style="color: blue">K. Zheng</span>**, K. Chi, and Y. Zhu, [Cooperative spectrum sensing optimization in energy-harvesting cognitive radio networks](https://ieeexplore.ieee.org/document/9170532), **IEEE Transactions on Wireless Communications**, vol. 19, no. 11, pp. 7663-7676, Nov. 2020. **(CCF-B)**
+(J10) X. Liu, **<span style="color: blue">K. Zheng</span>**, K. Chi, and Y. Zhu, [Cooperative spectrum sensing optimization in energy-harvesting cognitive radio networks](https://ieeexplore.ieee.org/document/9170532), **IEEE Transactions on Wireless Communications**, vol. 19, no. 11, pp. 7663-7676, Nov. 2020. **(CCF-B)**  
+(J11) **<span style="color: blue">K. Zheng</span>**, X. Liu, B. Wang, H. Zheng, K. Chi, and Y. Yao, Throughput maximization of wireless-powered communication networks: An energy threshold approach, **IEEE Transactions on Vehicular Technology**, to appear in 2021.    
 
 **Other publication:**
 
@@ -59,10 +60,9 @@ No. LR20F020003 Research on efficient energy provision and data collection techn
 
 **Under review:**
 
-(J1) **<span style="color: blue">K. Zheng</span>**, X. Liu, B. Wang, H. Zheng, and Y. Zhu, Throughput Maximization of Wireless-Powered Communication Networks: An Energy Threshold Approach, submitted to **IEEE Transactions on Vehicular Technology**. (second round)  
-(J2) **<span style="color: blue">K. Zheng</span>**, and X. Liu, Tradeoffs among Sensing, Reporting, and Transmission in Cooperative Cognitive Radio Networks, submitted to **IEEE Transactions on Mobile Computing**. (first round)  
-(J3) **<span style="color: blue">K. Zheng</span>**, and X. Liu, Probability-based fusion rule in spectrum sensing with impact of geographic location, to be submitted.  
-(J4) X. Liu, and **<span style="color: blue">K. Zheng</span>**, Optimal transmission strategy design for solar-harvesting communication link, submitted to **IEEE Transactions on Vehicular Technology**.  (first round)
+(J1) **<span style="color: blue">K. Zheng</span>**, and X. Liu, Tradeoffs among Sensing, Reporting, and Transmission in Cooperative Cognitive Radio Networks, submitted to **IEEE Transactions on Mobile Computing**. (first round)  
+(J2) **<span style="color: blue">K. Zheng</span>**, and X. Liu, Probability-based fusion rule in spectrum sensing with impact of geographic location, to be submitted.  
+(J3) X. Liu, and **<span style="color: blue">K. Zheng</span>**, Optimal transmission strategy design for solar-harvesting communication link, submitted to **IEEE Transactions on Vehicular Technology**.  (first round)
 
 ## Honors and rewards
 
