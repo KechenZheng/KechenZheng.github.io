@@ -14,7 +14,7 @@ Corresponding links of mine: [Homepage in Chinese](http://www.cs.zjut.edu.cn/jsp
 
 ## Research areas
 
-Performance evaluation in cognitive and social networks; energy harvesting wireless communication networks; wireless powered communication networks.
+Cognitive radio networks; energy harvesting networks; wireless-powered communication networks; wireless communications; energy management; spectrum sensing; supervised learning; reinforcement learning; IEEE 802.11ax.
 
 ## Services
 TPC member for IEEE ICC'20 - MWN Symposium (Mobile and Wireless Networks)  
