@@ -60,7 +60,7 @@ No. LR20F020003 Research on efficient energy provision and data collection techn
 
 **Under review:**
 
-(J1) **<span style="color: blue">K. Zheng</span>**, and X. Liu, Tradeoffs among Sensing, Reporting, and Transmission in Cooperative Cognitive Radio Networks, submitted to **IEEE Transactions on Mobile Computing**. (first round)  
+(J1) **<span style="color: blue">K. Zheng</span>**, and X. Liu, Tradeoffs among Sensing, Reporting, and Transmission in Cooperative Cognitive Radio Networks, submitted to **IEEE Transactions on Communications**. (first round)  
 (J2) **<span style="color: blue">K. Zheng</span>**, and X. Liu, Probability-based fusion rule in spectrum sensing with impact of geographic location, to be submitted.  
 (J3) X. Liu, and **<span style="color: blue">K. Zheng</span>**, Optimal transmission strategy design for solar-harvesting communication link, submitted to **IEEE Transactions on Vehicular Technology**.  (first round)
 
@@ -75,7 +75,8 @@ Awarded all-round good student of Shanghai Jiao Tong University (上海交通大
 
 ## Teaching
 
-212533 Wireless Networking Technology (2019-2020)  
+212533 Wireless Networking Technology (2019-2021)   
+G126120 Communication Technology of Internet of Things (2021)
 G126046 Computer Networks (2020)  
 G726014 Computer Networks Curriculum Design (2020)
 
@@ -85,4 +86,6 @@ Haijiang Ge (2018, PhD student, joint supervised by Prof. Chi)
 Wendi Sun (2019, Master student, joint supervised by Prof. Zhu)  
 Xueli Jia (2019, Master student, joint supervised by Prof. Chi)  
 Jiahong Wang (2020, Master student, joint supervised by Prof. Zhu)  
-Bin Xu (2020, Master student, joint supervised by Prof. Liu)  
+Bin Xu (2020, Master student, joint supervised by Prof. Liu)   
+Zhongwei Lin (2020, Master student, joint supervised by Prof. Liu)  
+Aodi Wang (2020, Master student, joint supervised by Prof. Liu)  
