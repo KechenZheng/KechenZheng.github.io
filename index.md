@@ -58,12 +58,6 @@ No. LR20F020003 Research on efficient energy provision and data collection techn
 (C1) H. Guo, **<span style="color: blue">K. Zheng</span>**, F. Ouyang, X. Gan, Z. Zhang, and P. Dong, [A terminable trickle algorithm for lossy networks](https://ieeexplore.ieee.org/document/7954483), The 2016 International Symposium on Wireless Personal Multimedia Communications (**WPMC**), Shenzhen, China, Nov. 2016.  
 (C2) Q. Chen, **<span style="color: blue">K. Zheng</span>**, F. Ouyang, X. Gan, Y. Xu, and X. Tian, [A shortest path routing algorithm based on virtual coordinate in NeLS](https://ieeexplore.ieee.org/document/7752568), The 8th International Conference on Wireless Communications and Signal Processing (**WCSP**), Yangzhou, China, Oct. 2016.
 
-**Under review:**
-
-(J1) **<span style="color: blue">K. Zheng</span>**, and X. Liu, Tradeoffs among Sensing, Reporting, and Transmission in Cooperative Cognitive Radio Networks, submitted to **IEEE Transactions on Communications**. (first round)  
-(J2) **<span style="color: blue">K. Zheng</span>**, and X. Liu, Probability-based fusion rule in spectrum sensing with impact of geographic location, to be submitted.  
-(J3) X. Liu, and **<span style="color: blue">K. Zheng</span>**, Optimal transmission strategy design for solar-harvesting communication link, submitted to **IEEE Transactions on Vehicular Technology**.  (first round)
-
 ## Honors and rewards
 
 Awarded Outstanding graduates of Shanghai (上海市优秀毕业生) in 2018  
