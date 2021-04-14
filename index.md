@@ -21,16 +21,16 @@ TPC member for IEEE ICC'20 - MWN Symposium (Mobile and Wireless Networks)
 Member of China Computer Federation, Member of IEEE  
 Reviewers for IEEE/ACM Transactions on Networking, IEEE Transactions on Mobile Computing, IEEE Transactions on Wireless Communications, IEEE Transactions on Vehicular Technology, IEEE Transactions on Network Science and Engineering, Transactions on Dependable and Secure Computing, and so on.
 
-## Project
+## Projects
 Scientific Research Foundation of Zhejiang University of Technology (¥ 100,000, 1/1, 2018-)  
 NSFC No. 61902353  Research of cognitive-based spectrum sensing and energy harvesting in Internet of Things  (¥ 260,000, 1/1, 2020-2022)   
 No. LY21F020022 Research on multiband cooperative spectrum sensing in wireless powered Internet of Things (¥ 100,000, 1/7, 2021-2023)  
 No. LY21F020023 Research on Physical Layer Security for Energy Harvesting-Based Internet of Things (¥ 100,000, 2/7, 2021-2023)  
 No. LR20F020003 Research on efficient energy provision and data collection technologies of wireless powered sensor networks  (¥ 800,000, 3/7, 2020-2023)
 
-## Publication
+## Publications
 
-**First-author/corresponding author publication:**
+**First-author/corresponding author:**
 
 (J11) **<span style="color: blue">K. Zheng</span>**, X. Liu, B. Wang, H. Zheng, K. Chi, and Y. Yao, [Throughput maximization of wireless-powered communication networks: An energy threshold approach](https://ieeexplore.ieee.org/document/9319536), **IEEE Transactions on Vehicular Technology**, vol. 70, no. 2, pp. 1292-1306, Feb. 2021.  
 (J10) X. Liu, **<span style="color: blue">K. Zheng</span>**, K. Chi, and Y. Zhu, [Cooperative spectrum sensing optimization in energy-harvesting cognitive radio networks](https://ieeexplore.ieee.org/document/9170532), **IEEE Transactions on Wireless Communications**, vol. 19, no. 11, pp. 7663-7676, Nov. 2020. **(CCF-B)**    
@@ -44,7 +44,7 @@ No. LR20F020003 Research on efficient energy provision and data collection techn
 (J2) **<span style="color: blue">K. Zheng</span>**, J. Zhang, S. Yao, W. Wu, X. Wang, and C. Peng, [Impacts of social relationships and inhomogeneous node distribution on the network performance](https://ieeexplore.ieee.org/document/7462274), **IEEE Transactions on Wireless Communications**, vol. 15, no. 8, pp. 5467-5479, Aug. 2016. **(CCF-B)**    
 (J1) **<span style="color: blue">K. Zheng</span>**, J. Luo, J. Zhang, W. Wu, X. Tian, and X. Wang, [Cooperation improves delay in cognitive networks with hybrid random walk](https://ieeexplore.ieee.org/document/7070747),  **IEEE Transactions on Communications**, vol. 63, no. 6, pp. 1988-2000, Jun. 2015. **(CCF-B)**  
 
-**Other publication:**
+**Other publications:**
 
 (J9) S. Gong, X. Liu, **<span style="color: blue">K. Zheng</span>**, X. Tian, Y. Zhu, [Slot-hitting ratio-based TDMA schedule for hybrid energy-harvesting wireless sensor networks](https://ieeexplore.ieee.org/document/9146003), **IET Communications**, vol. 14, no. 12, pp. 1949-1956, Jul. 2020. **(CCF-C)**    
 (J8) Z. Chen, K. Chi, **<span style="color: blue">K. Zheng</span>**, Y. Li, X. Liu, [Common throughput maximization in wireless powered communication networks with non-orthogonal multiple access](https://ieeexplore.ieee.org/document/9076315), **IEEE Transactions on Vehicular Technology**, vol. 69, no. 7, pp. 7692-7706, Jul. 2020.    
