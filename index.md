@@ -46,6 +46,7 @@ No. LR20F020003 Research on efficient energy provision and data collection techn
 
 **Other publications:**
 
+(J10) S. Gong, X. Liu, **<span style="color: blue">K. Zheng</span>**, W. Lu, Y. Zhu, TDMA scheduling schemes targeting high channel utilization for energy-harvesting wireless sensor networks, IET Communications, to appear in 2021. **(CCF-C)**  
 (J9) S. Gong, X. Liu, **<span style="color: blue">K. Zheng</span>**, X. Tian, Y. Zhu, [Slot-hitting ratio-based TDMA schedule for hybrid energy-harvesting wireless sensor networks](https://ieeexplore.ieee.org/document/9146003), **IET Communications**, vol. 14, no. 12, pp. 1949-1956, Jul. 2020. **(CCF-C)**    
 (J8) Z. Chen, K. Chi, **<span style="color: blue">K. Zheng</span>**, Y. Li, X. Liu, [Common throughput maximization in wireless powered communication networks with non-orthogonal multiple access](https://ieeexplore.ieee.org/document/9076315), **IEEE Transactions on Vehicular Technology**, vol. 69, no. 7, pp. 7692-7706, Jul. 2020.    
 (J7) Z. Chen, K. Chi, **<span style="color: blue">K. Zheng</span>**, G. Dai, and Q. Shao, [Minimization of transmission completion time in UAV-enabled wireless powered communication networks](https://ieeexplore.ieee.org/document/8902102), **IEEE Internet of Things Journal**, vol. 7, no. 2, pp. 1245-1259, Feb. 2020.     
