@@ -46,7 +46,7 @@ No. LR20F020003 Research on efficient energy provision and data collection techn
 
 **Other publications:**
 
-(C4) X. Liu, H. Zheng，**<span style="color: blue">K. Zheng</span>**, and P. Hu, Optimal transmission strategy for solar harvesting communication, in International Conference on Wireless Communications and Signal Processing (WCSP), to appear in 2021.    
+(C4) X. Liu, H. Zheng, **<span style="color: blue">K. Zheng</span>**, and P. Hu, Optimal transmission strategy for solar harvesting communication, in International Conference on Wireless Communications and Signal Processing (WCSP), to appear in 2021.    
 (C3) W. Sun, X. Liu, **<span style="color: blue">K. Zheng</span>**, Y. Xu, and J. Liu, Spectrum utilization improvement for multi-channel cognitive radio networks with energy harvesting, in International Conference on Networking and Network Applications (NaNA), to appear in 2021.  
 (J10) S. Gong, X. Liu, **<span style="color: blue">K. Zheng</span>**, W. Lu, Y. Zhu, [TDMA scheduling schemes targeting high channel utilization for energy-harvesting wireless sensor networks](https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/cmu2.12243), IET Communications, to appear in 2021. **(CCF-C)**  
 (J9) S. Gong, X. Liu, **<span style="color: blue">K. Zheng</span>**, X. Tian, Y. Zhu, [Slot-hitting ratio-based TDMA schedule for hybrid energy-harvesting wireless sensor networks](https://ietresearch.onlinelibrary.wiley.com/doi/epdf/10.1049/iet-com.2019.0977), **IET Communications**, vol. 14, no. 12, pp. 1949-1956, Jul. 2020. **(CCF-C)**    
