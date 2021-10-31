@@ -47,7 +47,7 @@ No. LR20F020003 Research on efficient energy provision and data collection techn
 
 **Other publications:**
  
-(C3) W. Sun, X. Liu, **<span style="color: blue">K. Zheng</span>**, Y. Xu, and J. Liu, Spectrum utilization improvement for multi-channel cognitive radio networks with energy harvesting, in International Conference on Networking and Network Applications (NaNA), to appear in 2021.  
+(C3) W. Sun, X. Liu, **<span style="color: blue">K. Zheng</span>**, Y. Xu, and J. Liu, Spectrum utilization improvement for multi-channel cognitive radio networks with energy harvesting, in International Conference on Networking and Network Applications (NaNA), to appear in 2021.(**Best Paper Award**)  
 (J10) S. Gong, X. Liu, **<span style="color: blue">K. Zheng</span>**, W. Lu, Y. Zhu, [TDMA scheduling schemes targeting high channel utilization for energy-harvesting wireless sensor networks](https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/cmu2.12243), **IET Communications**, vol. 15, no. 16, pp. 2097-2110, Oct. 2021. **(CCF-C)**  
 (J9) S. Gong, X. Liu, **<span style="color: blue">K. Zheng</span>**, X. Tian, Y. Zhu, [Slot-hitting ratio-based TDMA schedule for hybrid energy-harvesting wireless sensor networks](https://ietresearch.onlinelibrary.wiley.com/doi/epdf/10.1049/iet-com.2019.0977), **IET Communications**, vol. 14, no. 12, pp. 1949-1956, Jul. 2020. **(CCF-C)**    
 (J8) Z. Chen, K. Chi, **<span style="color: blue">K. Zheng</span>**, Y. Li, X. Liu, [Common throughput maximization in wireless powered communication networks with non-orthogonal multiple access](https://ieeexplore.ieee.org/document/9076315), **IEEE Transactions on Vehicular Technology**, vol. 69, no. 7, pp. 7692-7706, Jul. 2020.    
@@ -63,6 +63,7 @@ No. LR20F020003 Research on efficient energy provision and data collection techn
 
 ## Honors and rewards
 
+Best Paper Award in International Conference on Networking and Network Applications 2021  
 Awarded Outstanding graduates of Shanghai (上海市优秀毕业生) in 2018  
 Awarded National Scholarship for Graduate Students (研究生国家奖学金) in 2016  
 Awarded Zhou Weihan and Ren Yuehua Scholarship (周维榦任月华奖学金) in 2015  
