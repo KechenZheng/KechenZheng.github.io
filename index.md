@@ -33,7 +33,7 @@ No. LR20F020003 Research on efficient energy provision and data collection techn
 
 **First-author/corresponding author:**
 
-(C1) X. Liu, H. Zheng, **<span style="color: blue">K. Zheng</span>**, and P. Hu, Optimal transmission strategy for solar harvesting communication, in International Conference on Wireless Communications and Signal Processing (WCSP), to appear in 2021.   
+(C1) X. Liu, H. Zheng, **<span style="color: blue">K. Zheng</span>**, and P. Hu, [Optimal transmission strategy for solar harvesting communication](https://ieeexplore.ieee.org/document/9613196), in International Conference on Wireless Communications and Signal Processing (WCSP), to appear in 2021.   
 (J11) **<span style="color: blue">K. Zheng</span>**, X. Liu, B. Wang, H. Zheng, K. Chi, and Y. Yao, [Throughput maximization of wireless-powered communication networks: An energy threshold approach](https://ieeexplore.ieee.org/document/9319536), **IEEE Transactions on Vehicular Technology**, vol. 70, no. 2, pp. 1292-1306, Feb. 2021.  
 (J10) X. Liu, **<span style="color: blue">K. Zheng</span>**, K. Chi, and Y. Zhu, [Cooperative spectrum sensing optimization in energy-harvesting cognitive radio networks](https://ieeexplore.ieee.org/document/9170532), **IEEE Transactions on Wireless Communications**, vol. 19, no. 11, pp. 7663-7676, Nov. 2020. **(CCF-B)**    
 (J9) **<span style="color: blue">K. Zheng</span>**, X. Liu, Y. Zhu, K. Chi, and Y. Li, [Impact of battery charging on spectrum sensing of CRN with energy harvesting](https://ieeexplore.ieee.org/document/9091209), **IEEE Transactions on Vehicular Technology**, vol. 69, no. 7, pp. 7545-7557, Jul. 2020.    
