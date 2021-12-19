@@ -23,7 +23,7 @@ Member of China Computer Federation, Member of IEEE
 Reviewers for IEEE/ACM Transactions on Networking, IEEE Transactions on Mobile Computing, IEEE Transactions on Wireless Communications, IEEE Transactions on Vehicular Technology, IEEE Transactions on Network Science and Engineering, Transactions on Dependable and Secure Computing, and so on.
 
 ## Projects
-Scientific Research Foundation of Zhejiang University of Technology (¥ 100,000, 1/1, 2018-)  
+Scientific Research Foundation of Zhejiang University of Technology (¥ 100,000, 1/1, 2018-2023)  
 NSFC No. 61902353  Research of cognitive-based spectrum sensing and energy harvesting in Internet of Things  (¥ 260,000, 1/1, 2020-2022)   
 No. LY21F020022 Research on multiband cooperative spectrum sensing in wireless powered Internet of Things (¥ 100,000, 1/7, 2021-2023)  
 No. LY21F020023 Research on Physical Layer Security for Energy Harvesting-Based Internet of Things (¥ 100,000, 2/7, 2021-2023)  
@@ -75,7 +75,7 @@ Awarded all-round good student of Shanghai Jiao Tong University (上海交通大
 
 ## Teaching
 
-212533 Wireless Networking Technology (2019-2021)   
+212533 Wireless Networking Technology (2019-2022)   
 G126120 Communication Technology of Internet of Things (2021)  
 G126046 Computer Networks (2020-2021)  
 G726014 Computer Networks Curriculum Design (2020-2021)
@@ -94,3 +94,4 @@ Rongwei Luo (2021, Master student, joint supervised by Prof. Liu)
 Xinyu Kuang (2021, Master student, joint supervised by Prof. Liu)  
 Na Liu (2021, Master student, joint supervised by Prof. Liu)  
 Xiaodong Li (2021, Master student, joint supervised by Prof. Liu)  
+Guodong Jiang (2020, Master student, joint supervised by Prof. Chi)  
