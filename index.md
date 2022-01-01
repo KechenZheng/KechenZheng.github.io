@@ -63,9 +63,9 @@ No. LR20F020003 Research on efficient energy provision and data collection techn
 (C1) Q. Chen, **<span style="color: blue">K. Zheng</span>**, F. Ouyang, X. Gan, Y. Xu, and X. Tian, [A shortest path routing algorithm based on virtual coordinate in NeLS](https://ieeexplore.ieee.org/document/7752568), The 8th International Conference on Wireless Communications and Signal Processing (**WCSP**), Yangzhou, China, Oct. 2016.  
 (J1) R. Jia, **<span style="color: blue">K. Zheng</span>**, J. Zhang, L. Fu, P. Du, X. Wang, and J. Xu, [Asymptotic analysis on throughput and delay in cognitive social networks](https://ieeexplore.ieee.org/document/6853384), **IEEE Transactions on Communications**, vol. 62, no. 8, pp. 2721-2732, Aug. 2014. **(CCF-B)**  
 
-## Honors and rewards
+## Honours and rewards
 
-Best Paper Award in International Conference on Networking and Network Applications 2021  
+**Best Paper Award** in International Conference on Networking and Network Applications 2021  
 Awarded Outstanding graduates of Shanghai (上海市优秀毕业生) in 2018  
 Awarded National Scholarship for Graduate Students (研究生国家奖学金) in 2016  
 Awarded Zhou Weihan and Ren Yuehua Scholarship (周维榦任月华奖学金) in 2015  
