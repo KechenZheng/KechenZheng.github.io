@@ -33,7 +33,7 @@ No. LR20F020003 Research on efficient energy provision and data collection techn
 
 **First-author/corresponding author:**
 
-(J13) **<span style="color: blue">K. Zheng</span>**, W. Sun, X. Liu, D. Zhao, Y. Xu, and J. Liu, Throughput maximization for multi-channel energy harvesting cognitive radio networks with hybrid overlay/underlay transmission, to appear in **IET Communications**, 2022. **(CCF-C)**  
+(J13) **<span style="color: blue">K. Zheng</span>**, W. Sun, X. Liu, D. Zhao, Y. Xu, and J. Liu, Throughput maximisation for multi-channel energy harvesting cognitive radio networks with hybrid overlay/underlay transmission, to appear in **IET Communications**, 2022. **(CCF-C)**  
 (J12) **<span style="color: blue">K. Zheng</span>**, H. Ge, K. Chi, and X. Liu, [Energy provision minimization of energy-harvesting cognitive radio networks with minimal throughput demands](https://www.sciencedirect.com/science/article/pii/S1389128621005740?via%3Dihub#d1e12229), to appear in **Computer Networks**, 2022. **(CCF-B)**    
 (C1) X. Liu, H. Zheng, **<span style="color: blue">K. Zheng</span>**, and P. Hu, [Optimal transmission strategy for solar harvesting communication](https://ieeexplore.ieee.org/document/9613196), in International Conference on Wireless Communications and Signal Processing (WCSP), Changsha, China, Oct. 2021.   
 (J11) **<span style="color: blue">K. Zheng</span>**, X. Liu, B. Wang, H. Zheng, K. Chi, and Y. Yao, [Throughput maximization of wireless-powered communication networks: An energy threshold approach](https://ieeexplore.ieee.org/document/9319536), **IEEE Transactions on Vehicular Technology**, vol. 70, no. 2, pp. 1292-1306, Feb. 2021.  
