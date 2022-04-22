@@ -51,6 +51,8 @@ No. LR20F020003 Research on efficient energy provision and data collection techn
 
 **Other publications:**
  
+(J12) X.Jia, **<span style="color: blue">K. Zheng</span>**, K. Chi, and X. Liu, DDPG-based throughput optimization with AoI constraint in ambient 
+backscatter-assisted overlay CRN, to appear in **Sensors**, 2022.(Corresponding author)  
 (J11) Y. Zhang, X. Liu, **<span style="color: blue">K. Zheng</span>**, Y. Li, and Y. Yao, [Energy-efficient multi-codebook based backscatter communications for wireless powered networks](https://ieeexplore.ieee.org/document/9741298), to appear in **IEEE Internet of Things Journal**, 2022.    
 (C3) W. Sun, X. Liu, **<span style="color: blue">K. Zheng</span>**, Y. Xu, and J. Liu, [Spectrum utilization improvement for multi-channel cognitive radio networks with energy harvesting](https://ieeexplore.ieee.org/document/9634889), in International Conference on Networking and Network Applications (NaNA), Lijiang City, China, Oct. 2021.(**Best Paper Award**)  
 (J10) S. Gong, X. Liu, **<span style="color: blue">K. Zheng</span>**, W. Lu, Y. Zhu, [TDMA scheduling schemes targeting high channel utilization for energy-harvesting wireless sensor networks](https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/cmu2.12243), **IET Communications**, vol. 15, no. 16, pp. 2097-2110, Oct. 2021. **(CCF-C)**  
