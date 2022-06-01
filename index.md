@@ -17,6 +17,8 @@ Corresponding links of mine: [Homepage in Chinese](http://www.homepage.zjut.edu.
 Cognitive radio networks; energy harvesting networks; wireless-powered communication networks; wireless communications; energy management; spectrum sensing; supervised learning; reinforcement learning; IEEE 802.11ax.
 
 ## Services  
+
+Guest editor for Wireless Communications and Mobile Computing (Special Issue: [Next-Generation Wireless Networks Communication Sustainability, Efficiency, and Security from a Physical Layer Perspective](https://www.hindawi.com/journals/wcmc/si/635205/)), 2022, CCF-C  
 TPC member for IEEE ICC'22 - CRAIN Symposium (Cognitive Radio and AI-Enabled Networks)    
 TPC member for IEEE ICC'20 - MWN Symposium (Mobile and Wireless Networks)  
 Member of China Computer Federation, Member of IEEE  
