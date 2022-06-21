@@ -53,6 +53,8 @@ No. LR20F020003 Research on efficient energy provision and data collection techn
 
 **Other publications:**
  
+(J13) X. Liu and **<span style="color: blue">K. Zheng</span>**, Tradeoffs among sensing, reporting, and transmission in cooperative
+CRNs, to appear in **Sensors**, 2022.   
 (J12) X. Jia, **<span style="color: blue">K. Zheng</span>**, K. Chi, and X. Liu, [DDPG-based throughput optimization with AoI constraint in ambient 
 backscatter-assisted overlay CRN](https://www.mdpi.com/1424-8220/22/9/3262), **Sensors**, vol. 22, no. 9, p. 3262, Apr. 2022.(Corresponding author)  
 (J11) Y. Zhang, X. Liu, **<span style="color: blue">K. Zheng</span>**, Y. Li, and Y. Yao, [Energy-efficient multi-codebook based backscatter communications for wireless powered networks](https://ieeexplore.ieee.org/document/9741298), to appear in **IEEE Internet of Things Journal**, 2022.    
