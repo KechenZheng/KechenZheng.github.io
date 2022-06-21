@@ -33,7 +33,7 @@ No. LR20F020003 Research on efficient energy provision and data collection techn
 
 ## Publications
 
-**Representative Publications as First-author/corresponding author:**
+**Representative publications as first-author/corresponding author:**
 
 (J14) X. Liu and **<span style="color: blue">K. Zheng</span>**, [Probability-based fusion rule in cooperative spectrum sensing with impact of geographic location](https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/cmu2.12398), to appear in **IET Communications**, 2022.  **(CCF-C)**(Corresponding author)   
 (J13) **<span style="color: blue">K. Zheng</span>**, W. Sun, X. Liu, D. Zhao, Y. Xu, and J. Liu, [Throughput maximisation for multi-channel energy harvesting cognitive radio networks with hybrid overlay/underlay transmission](https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/cmu2.12347), **IET Communications**, vol. 16, no. 3, pp. 274-290, Feb. 2022. **(CCF-C)**  
