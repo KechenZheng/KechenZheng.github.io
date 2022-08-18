@@ -34,13 +34,12 @@ No. LR20F020003 Research on efficient energy provision and data collection techn
 
 ## Publications
 
-**Representative publications as first-author/corresponding author:**
+**Representative publications:**
  
 (J15) X. Liu, M. Xia, P. Hu, **<span style="color: blue">K. Zheng</span>**, and S. Zhang, Optimal time allocation for energy harvesting cognitive radio networks with multi-channel spectrum sensing, to appear in **Wireless Communications and Mobile Computing**, 2022. **(CCF-C)**(Corresponding author)   
 (J14) X. Liu and **<span style="color: blue">K. Zheng</span>**, [Probability-based fusion rule in cooperative spectrum sensing with impact of geographic location](https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/cmu2.12398), **IET Communications**, vol. 16, no. 9, pp. 963-976, Jun. 2022.  **(CCF-C)**(Corresponding author)   
 (J13) **<span style="color: blue">K. Zheng</span>**, W. Sun, X. Liu, D. Zhao, Y. Xu, and J. Liu, [Throughput maximisation for multi-channel energy harvesting cognitive radio networks with hybrid overlay/underlay transmission](https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/cmu2.12347), **IET Communications**, vol. 16, no. 3, pp. 274-290, Feb. 2022. **(CCF-C)**  
 (J12) **<span style="color: blue">K. Zheng</span>**, H. Ge, K. Chi, and X. Liu, [Energy provision minimization of energy-harvesting cognitive radio networks with minimal throughput demands](https://www.sciencedirect.com/science/article/pii/S1389128621005740?via%3Dihub#d1e12229), to appear in **Computer Networks**, 2022. **(CCF-B)**    
-(C1) X. Liu, H. Zheng, **<span style="color: blue">K. Zheng</span>**, and P. Hu, [Optimal transmission strategy for solar harvesting communication](https://ieeexplore.ieee.org/document/9613196), in International Conference on Wireless Communications and Signal Processing (WCSP), Changsha, China, Oct. 2021.(Corresponding author)    
 (J11) **<span style="color: blue">K. Zheng</span>**, X. Liu, B. Wang, H. Zheng, K. Chi, and Y. Yao, [Throughput maximization of wireless-powered communication networks: An energy threshold approach](https://ieeexplore.ieee.org/document/9319536), **IEEE Transactions on Vehicular Technology**, vol. 70, no. 2, pp. 1292-1306, Feb. 2021.  
 (J10) X. Liu, **<span style="color: blue">K. Zheng</span>**, K. Chi, and Y. Zhu, [Cooperative spectrum sensing optimization in energy-harvesting cognitive radio networks](https://ieeexplore.ieee.org/document/9170532), **IEEE Transactions on Wireless Communications**, vol. 19, no. 11, pp. 7663-7676, Nov. 2020. **(CCF-B)**(Corresponding author)     
 (J9) **<span style="color: blue">K. Zheng</span>**, X. Liu, Y. Zhu, K. Chi, and Y. Li, [Impact of battery charging on spectrum sensing of CRN with energy harvesting](https://ieeexplore.ieee.org/document/9091209), **IEEE Transactions on Vehicular Technology**, vol. 69, no. 7, pp. 7545-7557, Jul. 2020.    
@@ -60,7 +59,8 @@ No. LR20F020003 Research on efficient energy provision and data collection techn
 CRNs](https://www.mdpi.com/1424-8220/22/13/4753/htm), **Sensors**, vol. 22, no. 13, p. 4753, Jun. 2022.(Corresponding author)   
 (J12) X. Jia, **<span style="color: blue">K. Zheng</span>**, K. Chi, and X. Liu, [DDPG-based throughput optimization with AoI constraint in ambient 
 backscatter-assisted overlay CRN](https://www.mdpi.com/1424-8220/22/9/3262), **Sensors**, vol. 22, no. 9, p. 3262, Apr. 2022.(Corresponding author)  
-(J11) Y. Zhang, X. Liu, **<span style="color: blue">K. Zheng</span>**, Y. Li, and Y. Yao, [Energy-efficient multi-codebook based backscatter communications for wireless powered networks](https://ieeexplore.ieee.org/document/9741298), to appear in **IEEE Internet of Things Journal**, 2022.    
+(J11) Y. Zhang, X. Liu, **<span style="color: blue">K. Zheng</span>**, Y. Li, and Y. Yao, [Energy-efficient multi-codebook based backscatter communications for wireless powered networks](https://ieeexplore.ieee.org/document/9741298), to appear in **IEEE Internet of Things Journal**, 2022.   
+(C4) X. Liu, H. Zheng, **<span style="color: blue">K. Zheng</span>**, and P. Hu, [Optimal transmission strategy for solar harvesting communication](https://ieeexplore.ieee.org/document/9613196), in International Conference on Wireless Communications and Signal Processing (WCSP), Changsha, China, Oct. 2021.(Corresponding author)    
 (C3) W. Sun, X. Liu, **<span style="color: blue">K. Zheng</span>**, Y. Xu, and J. Liu, [Spectrum utilization improvement for multi-channel cognitive radio networks with energy harvesting](https://ieeexplore.ieee.org/document/9634889), in International Conference on Networking and Network Applications (NaNA), Lijiang City, China, Oct. 2021.(**Best Paper Award**)  
 (J10) S. Gong, X. Liu, **<span style="color: blue">K. Zheng</span>**, W. Lu, Y. Zhu, [TDMA scheduling schemes targeting high channel utilization for energy-harvesting wireless sensor networks](https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/cmu2.12243), **IET Communications**, vol. 15, no. 16, pp. 2097-2110, Oct. 2021. **(CCF-C)**  
 (J9) S. Gong, X. Liu, **<span style="color: blue">K. Zheng</span>**, X. Tian, Y. Zhu, [Slot-hitting ratio-based TDMA schedule for hybrid energy-harvesting wireless sensor networks](https://ietresearch.onlinelibrary.wiley.com/doi/epdf/10.1049/iet-com.2019.0977), **IET Communications**, vol. 14, no. 12, pp. 1949-1956, Jul. 2020. **(CCF-C)**    
@@ -110,3 +110,4 @@ Guodong Jiang (2020, Master student, joint supervised by Prof. Chi)
 Junsheng Fu (2022, Master student, joint supervised by Prof. Liu)  
 Biao Zhou (2022, Master student, joint supervised by Prof. Liu)  
 Jiaxiang Xu (2022, Master student, joint supervised by Prof. Liu)  
+Qipeng Ye (2022, Master student, joint supervised by Prof. Chi) 
