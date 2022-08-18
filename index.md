@@ -34,7 +34,7 @@ No. LR20F020003 Research on efficient energy provision and data collection techn
 
 ## Publications
 
-**Representative publications:**
+**Selected Publications:**
  
 (J15) X. Liu, M. Xia, P. Hu, **<span style="color: blue">K. Zheng</span>**, and S. Zhang, Optimal time allocation for energy harvesting cognitive radio networks with multi-channel spectrum sensing, to appear in **Wireless Communications and Mobile Computing**, 2022. **(CCF-C)**(Corresponding author)   
 (J14) X. Liu and **<span style="color: blue">K. Zheng</span>**, [Probability-based fusion rule in cooperative spectrum sensing with impact of geographic location](https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/cmu2.12398), **IET Communications**, vol. 16, no. 9, pp. 963-976, Jun. 2022.  **(CCF-C)**(Corresponding author)   
@@ -52,7 +52,7 @@ No. LR20F020003 Research on efficient energy provision and data collection techn
 (J2) **<span style="color: blue">K. Zheng</span>**, J. Zhang, S. Yao, W. Wu, X. Wang, and C. Peng, [Impacts of social relationships and inhomogeneous node distribution on the network performance](https://ieeexplore.ieee.org/document/7462274), **IEEE Transactions on Wireless Communications**, vol. 15, no. 8, pp. 5467-5479, Aug. 2016. **(CCF-B)**    
 (J1) **<span style="color: blue">K. Zheng</span>**, J. Luo, J. Zhang, W. Wu, X. Tian, and X. Wang, [Cooperation improves delay in cognitive networks with hybrid random walk](https://ieeexplore.ieee.org/document/7070747),  **IEEE Transactions on Communications**, vol. 63, no. 6, pp. 1988-2000, Jun. 2015. **(CCF-B)**  
 
-**Other publications:**
+**Other Publications:**
  
 (J14) C. Qian, **<span style="color: blue">K. Zheng</span>**, and X. Liu, [Delay sensitive adaptive frame aggregation scheme for uplink transmission in IEEE 802.11ax](http://xwxt.sict.ac.cn/CN/abstract/abstract6295.shtml), **Journal of Chinese Computer Systems**, vol. 43, no. 7, pp. 1529-1534, Jul. 2022.  
 (J13) X. Liu and **<span style="color: blue">K. Zheng</span>**, [Trade-offs among sensing, reporting, and transmission in cooperative
