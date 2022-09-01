@@ -36,6 +36,7 @@ No. LR20F020003 Research on efficient energy provision and data collection techn
 
 **Selected Publications:**
  
+(J16) X. Liu, B. Xu, X. Wang, **<span style="color: blue">K. Zheng</span>**, K. Chi, and X. Tian, Impacts of sensing energy and data availability on throughput of energy harvesting cognitive radio networks, to appear in **IEEE Transactions on Vehicular Technology**, 2022.(Corresponding author)   
 (J15) X. Liu, M. Xia, P. Hu, **<span style="color: blue">K. Zheng</span>**, and S. Zhang, [Optimal time allocation for energy harvesting cognitive radio networks with multi-channel spectrum sensing](https://www.hindawi.com/journals/wcmc/2022/3940132/), **Wireless Communications and Mobile Computing**, vol. 2022, Article ID 3940132, Aug. 2022. **(CCF-C)**(Corresponding author)   
 (J14) X. Liu and **<span style="color: blue">K. Zheng</span>**, [Probability-based fusion rule in cooperative spectrum sensing with impact of geographic location](https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/cmu2.12398), **IET Communications**, vol. 16, no. 9, pp. 963-976, Jun. 2022.  **(CCF-C)**(Corresponding author)   
 (J13) **<span style="color: blue">K. Zheng</span>**, W. Sun, X. Liu, D. Zhao, Y. Xu, and J. Liu, [Throughput maximisation for multi-channel energy harvesting cognitive radio networks with hybrid overlay/underlay transmission](https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/cmu2.12347), **IET Communications**, vol. 16, no. 3, pp. 274-290, Feb. 2022. **(CCF-C)**  
@@ -78,12 +79,12 @@ backscatter-assisted overlay CRN](https://www.mdpi.com/1424-8220/22/9/3262), **S
 ## Honours and rewards
 
 **Best Paper Award** in International Conference on Networking and Network Applications 2021  
-Awarded Outstanding graduates of Shanghai (上海市优秀毕业生) in 2018  
-Awarded National Scholarship for Graduate Students (研究生国家奖学金) in 2016  
-Awarded Zhou Weihan and Ren Yuehua Scholarship (周维榦任月华奖学金) in 2015  
-Awarded B-Level Scholarship of Shanghai Jiao Tong University (上海交通大学B等奖学金) in 2011 and 2012  
-Third Prize in the 11th "Huawei Cup" National College Student Mathematical Contest In Modeling (第十一届“华为杯”全国研究生数学建模竞赛) in 2014  
-Awarded all-round good student of Shanghai Jiao Tong University (上海交通大学校级三好学生) in 2016
+Awarded Outstanding graduates of Shanghai in 2018  
+Awarded National Scholarship for Graduate Students in 2016  
+Awarded Zhou Weihan and Ren Yuehua Scholarship in 2015  
+Awarded B-Level Scholarship of Shanghai Jiao Tong University in 2011 and 2012  
+Third Prize in the 11th "Huawei Cup" National College Student Mathematical Contest In Modeling in 2014  
+Awarded all-round good student of Shanghai Jiao Tong University in 2016
 
 ## Teaching
 
