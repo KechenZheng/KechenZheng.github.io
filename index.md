@@ -56,6 +56,7 @@ No. LR20F020003 Research on efficient energy provision and data collection techn
 
 **Other Publications:**
  
+(J15) Z. Qu, Q. Jia, C. Lyu, J. Liu, X. Liu, and **<span style="color: blue">K. Zheng</span>**, Detecting fake reviews with generative adversarial networks for mobile social networks, to appear in **Security and Communication Networks**, 2022. **(CCF-C)**  
 (J14) C. Qian, **<span style="color: blue">K. Zheng</span>**, and X. Liu, [Delay sensitive adaptive frame aggregation scheme for uplink transmission in IEEE 802.11ax](http://xwxt.sict.ac.cn/CN/abstract/abstract6295.shtml), **Journal of Chinese Computer Systems**, vol. 43, no. 7, pp. 1529-1534, Jul. 2022.  
 (J13) X. Liu and **<span style="color: blue">K. Zheng</span>**, [Trade-offs among sensing, reporting, and transmission in cooperative
 CRNs](https://www.mdpi.com/1424-8220/22/13/4753/htm), **Sensors**, vol. 22, no. 13, p. 4753, Jun. 2022.(Corresponding author)   
