@@ -101,7 +101,7 @@ G726014 Computer Networks Curriculum Design (2020-2022)
 ## Master and PHD students
 
 Haijiang Ge (2018-2022, PhD student, joint supervised by Prof. Chi, Hangzhou Vocational and Technical College)  
-Wendi Sun (2019-2022, Master student, joint supervised by Prof. Zhu, China Mobile)  
+Wendi Sun (2019-2022, Master student, joint supervised by Prof. Zhu, Lishui Vocational and Technical College, Longquan)  
 Xueli Jia (2019-2022, Master student, joint supervised by Prof. Chi, Hangzhou Dianzi University Information Engineering School)  
 Jiahong Wang (2020, Master student, joint supervised by Prof. Zhu)  
 Bin Xu (2020, Master student, joint supervised by Prof. Liu)   
