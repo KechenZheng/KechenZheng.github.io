@@ -37,10 +37,7 @@ No. LR20F020003 Research on efficient energy provision and data collection techn
 
 **Selected Publications:**
  
-(J16) X. Liu, B. Xu, X. Wang, **<span style="color: blue">K. Zheng</span>**, K. Chi, and X. Tian, [Impacts of sensing energy and data availability on throughput of energy harvesting cognitive radio networks](https://ieeexplore.ieee.org/document/9878087/), to appear in **IEEE Transactions on Vehicular Technology**, 2022.(Corresponding author)   
-(J15) X. Liu, M. Xia, P. Hu, **<span style="color: blue">K. Zheng</span>**, and S. Zhang, [Optimal time allocation for energy harvesting cognitive radio networks with multi-channel spectrum sensing](https://www.hindawi.com/journals/wcmc/2022/3940132/), **Wireless Communications and Mobile Computing**, vol. 2022, Article ID 3940132, Aug. 2022. **(CCF-C)**(Corresponding author)   
-(J14) X. Liu and **<span style="color: blue">K. Zheng</span>**, [Probability-based fusion rule in cooperative spectrum sensing with impact of geographic location](https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/cmu2.12398), **IET Communications**, vol. 16, no. 9, pp. 963-976, Jun. 2022.  **(CCF-C)**(Corresponding author)   
-(J13) **<span style="color: blue">K. Zheng</span>**, W. Sun, X. Liu, D. Zhao, Y. Xu, and J. Liu, [Throughput maximisation for multi-channel energy harvesting cognitive radio networks with hybrid overlay/underlay transmission](https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/cmu2.12347), **IET Communications**, vol. 16, no. 3, pp. 274-290, Feb. 2022. **(CCF-C)**  
+(J13) X. Liu, B. Xu, X. Wang, **<span style="color: blue">K. Zheng</span>**, K. Chi, and X. Tian, [Impacts of sensing energy and data availability on throughput of energy harvesting cognitive radio networks](https://ieeexplore.ieee.org/document/9878087/), to appear in **IEEE Transactions on Vehicular Technology**, 2022.(Corresponding author)   
 (J12) **<span style="color: blue">K. Zheng</span>**, H. Ge, K. Chi, and X. Liu, [Energy provision minimization of energy-harvesting cognitive radio networks with minimal throughput demands](https://www.sciencedirect.com/science/article/pii/S1389128621005740?via%3Dihub#d1e12229), **Computer Networks**, vol. 204, Article ID 108721, Feb. 2022. **(CCF-B)**    
 (J11) **<span style="color: blue">K. Zheng</span>**, X. Liu, B. Wang, H. Zheng, K. Chi, and Y. Yao, [Throughput maximization of wireless-powered communication networks: An energy threshold approach](https://ieeexplore.ieee.org/document/9319536), **IEEE Transactions on Vehicular Technology**, vol. 70, no. 2, pp. 1292-1306, Feb. 2021.  
 (J10) X. Liu, **<span style="color: blue">K. Zheng</span>**, K. Chi, and Y. Zhu, [Cooperative spectrum sensing optimization in energy-harvesting cognitive radio networks](https://ieeexplore.ieee.org/document/9170532), **IEEE Transactions on Wireless Communications**, vol. 19, no. 11, pp. 7663-7676, Nov. 2020. **(CCF-B)**(Corresponding author)     
@@ -56,13 +53,17 @@ No. LR20F020003 Research on efficient energy provision and data collection techn
 
 **Other Publications:**
  
-(J15) Z. Qu, Q. Jia, C. Lyu, J. Liu, X. Liu, and **<span style="color: blue">K. Zheng</span>**, Detecting fake reviews with generative adversarial networks for mobile social networks, to appear in **Security and Communication Networks**, 2022. **(CCF-C)**  
-(J14) C. Qian, **<span style="color: blue">K. Zheng</span>**, and X. Liu, [Delay sensitive adaptive frame aggregation scheme for uplink transmission in IEEE 802.11ax](http://xwxt.sict.ac.cn/CN/abstract/abstract6295.shtml), **Journal of Chinese Computer Systems**, vol. 43, no. 7, pp. 1529-1534, Jul. 2022.  
-(J13) X. Liu and **<span style="color: blue">K. Zheng</span>**, [Trade-offs among sensing, reporting, and transmission in cooperative
+(J19) X. Liu, A. Wang, B. Xu, **<span style="color: blue">K. Zheng</span>**, and X. Yao, Robustness-based transmission strategy for wireless powered communication networks, to appear in **Wireless Communications and Mobile Computing**, Article ID 2532905, 2022. **(CCF-C)**(Corresponding author)   
+(J18) Z. Qu, Q. Jia, C. Lyu, J. Liu, X. Liu, and **<span style="color: blue">K. Zheng</span>**, Detecting fake reviews with generative adversarial networks for mobile social networks, to appear in **Security and Communication Networks**, Article ID 1164125, 2022. **(CCF-C)**  
+(J17) C. Qian, **<span style="color: blue">K. Zheng</span>**, and X. Liu, [Delay sensitive adaptive frame aggregation scheme for uplink transmission in IEEE 802.11ax](http://xwxt.sict.ac.cn/CN/abstract/abstract6295.shtml), **Journal of Chinese Computer Systems**, vol. 43, no. 7, pp. 1529-1534, Jul. 2022.  
+(J16) X. Liu, M. Xia, P. Hu, **<span style="color: blue">K. Zheng</span>**, and S. Zhang, [Optimal time allocation for energy harvesting cognitive radio networks with multi-channel spectrum sensing](https://www.hindawi.com/journals/wcmc/2022/3940132/), **Wireless Communications and Mobile Computing**, vol. 2022, Article ID 3940132, Aug. 2022. **(CCF-C)**(Corresponding author)   
+(J15) X. Liu and **<span style="color: blue">K. Zheng</span>**, [Trade-offs among sensing, reporting, and transmission in cooperative
 CRNs](https://www.mdpi.com/1424-8220/22/13/4753/htm), **Sensors**, vol. 22, no. 13, p. 4753, Jun. 2022.(Corresponding author)   
-(J12) X. Jia, **<span style="color: blue">K. Zheng</span>**, K. Chi, and X. Liu, [DDPG-based throughput optimization with AoI constraint in ambient 
-backscatter-assisted overlay CRN](https://www.mdpi.com/1424-8220/22/9/3262), **Sensors**, vol. 22, no. 9, p. 3262, Apr. 2022.(Corresponding author)  
-(J11) Y. Zhang, X. Liu, **<span style="color: blue">K. Zheng</span>**, Y. Li, and Y. Yao, [Energy-efficient multicodebook-based backscatter communications for wireless powered networks](https://ieeexplore.ieee.org/document/9741298), **IEEE Internet of Things Journal**, vol. 9, no. 18, pp. 18153-18163, Sep. 2022.   
+(J14) X. Jia, **<span style="color: blue">K. Zheng</span>**, K. Chi, and X. Liu, [DDPG-based throughput optimization with AoI constraint in ambient 
+backscatter-assisted overlay CRN](https://www.mdpi.com/1424-8220/22/9/3262), **Sensors**, vol. 22, no. 9, p. 3262, Apr. 2022.(Corresponding author)   
+(J13) X. Liu and **<span style="color: blue">K. Zheng</span>**, [Probability-based fusion rule in cooperative spectrum sensing with impact of geographic location](https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/cmu2.12398), **IET Communications**, vol. 16, no. 9, pp. 963-976, Jun. 2022.  **(CCF-C)**(Corresponding author)   
+(J12) Y. Zhang, X. Liu, **<span style="color: blue">K. Zheng</span>**, Y. Li, and Y. Yao, [Energy-efficient multicodebook-based backscatter communications for wireless powered networks](https://ieeexplore.ieee.org/document/9741298), **IEEE Internet of Things Journal**, vol. 9, no. 18, pp. 18153-18163, Sep. 2022.   
+(J11) **<span style="color: blue">K. Zheng</span>**, W. Sun, X. Liu, D. Zhao, Y. Xu, and J. Liu, [Throughput maximisation for multi-channel energy harvesting cognitive radio networks with hybrid overlay/underlay transmission](https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/cmu2.12347), **IET Communications**, vol. 16, no. 3, pp. 274-290, Feb. 2022. **(CCF-C)**  
 (C4) X. Liu, H. Zheng, **<span style="color: blue">K. Zheng</span>**, and P. Hu, [Optimal transmission strategy for solar harvesting communication](https://ieeexplore.ieee.org/document/9613196), in International Conference on Wireless Communications and Signal Processing (WCSP), Changsha, China, Oct. 2021.(Corresponding author)    
 (C3) W. Sun, X. Liu, **<span style="color: blue">K. Zheng</span>**, Y. Xu, and J. Liu, [Spectrum utilization improvement for multi-channel cognitive radio networks with energy harvesting](https://ieeexplore.ieee.org/document/9634889), in International Conference on Networking and Network Applications (NaNA), Lijiang City, China, Oct. 2021.(**Best Paper Award**)  
 (J10) S. Gong, X. Liu, **<span style="color: blue">K. Zheng</span>**, W. Lu, Y. Zhu, [TDMA scheduling schemes targeting high channel utilization for energy-harvesting wireless sensor networks](https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/cmu2.12243), **IET Communications**, vol. 15, no. 16, pp. 2097-2110, Oct. 2021. **(CCF-C)**  
@@ -93,7 +94,8 @@ Awarded all-round good student of Shanghai Jiao Tong University in 2016
 212533 Wireless Networking Technology (2019-2022)   
 G126120 Communication Technology of Internet of Things (2021)  
 G126046 Computer Networks (2020-2022)  
-G726014 Computer Networks Curriculum Design (2020-2022)
+G726014 Computer Networks Curriculum Design (2020-2022)  
+212579 Modern Network Technology and Application (2022)  
 
 ## Master and PHD students
 
