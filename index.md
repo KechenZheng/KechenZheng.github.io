@@ -54,7 +54,7 @@ No. LR20F020003 Research on efficient energy provision and data collection techn
 
 **Other Publications:**
  
-(J19) X. Liu, A. Wang, B. Xu, **<span style="color: blue">K. Zheng</span>**, and X. Yao, Robustness-based transmission strategy for wireless powered communication networks, to appear in **Wireless Communications and Mobile Computing**, Article ID 2532905, 2022. **(CCF-C)**(Corresponding author)   
+(J19) X. Liu, A. Wang, B. Xu, **<span style="color: blue">K. Zheng</span>**, and X. Yao, [Robustness-based transmission strategy for wireless powered communication networks](https://www.hindawi.com/journals/wcmc/2022/2532905/), **Wireless Communications and Mobile Computing**, vol. 2022, Article ID 2532905, Oct. 2022. **(CCF-C)**(Corresponding author)   
 (J18) Z. Qu, Q. Jia, C. Lyu, J. Liu, X. Liu, and **<span style="color: blue">K. Zheng</span>**, Detecting fake reviews with generative adversarial networks for mobile social networks, to appear in **Security and Communication Networks**, Article ID 1164125, 2022. **(CCF-C)**  
 (J17) X. Liu, M. Xia, P. Hu, **<span style="color: blue">K. Zheng</span>**, and S. Zhang, [Optimal time allocation for energy harvesting cognitive radio networks with multi-channel spectrum sensing](https://www.hindawi.com/journals/wcmc/2022/3940132/), **Wireless Communications and Mobile Computing**, vol. 2022, Article ID 3940132, Aug. 2022. **(CCF-C)**(Corresponding author)   
 (J16) C. Qian, **<span style="color: blue">K. Zheng</span>**, and X. Liu, [Delay sensitive adaptive frame aggregation scheme for uplink transmission in IEEE 802.11ax](http://xwxt.sict.ac.cn/CN/abstract/abstract6295.shtml), **Journal of Chinese Computer Systems**, vol. 43, no. 7, pp. 1529-1534, Jul. 2022.  
