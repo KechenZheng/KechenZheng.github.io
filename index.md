@@ -38,6 +38,7 @@ No. LR20F020003 Research on efficient energy provision and data collection techn
 
 **Selected Publications:**
  
+(J14) **<span style="color: blue">K. Zheng</span>**, X. Jia, K. Chi, and X. Liu, DDPG-based joint time and energy management in ambient backscatter-assisted hybrid underlay CRNs, to appear in **IEEE Transactions on Communications**, 2022. **(CCF-B)**  
 (J13) X. Liu, B. Xu, X. Wang, **<span style="color: blue">K. Zheng</span>**, K. Chi, and X. Tian, [Impacts of sensing energy and data availability on throughput of energy harvesting cognitive radio networks](https://ieeexplore.ieee.org/document/9878087/), to appear in **IEEE Transactions on Vehicular Technology**, 2022.(Corresponding author)   
 (J12) **<span style="color: blue">K. Zheng</span>**, H. Ge, K. Chi, and X. Liu, [Energy provision minimization of energy-harvesting cognitive radio networks with minimal throughput demands](https://www.sciencedirect.com/science/article/pii/S1389128621005740?via%3Dihub#d1e12229), **Computer Networks**, vol. 204, Article ID 108721, Feb. 2022. **(CCF-B)**    
 (J11) **<span style="color: blue">K. Zheng</span>**, X. Liu, B. Wang, H. Zheng, K. Chi, and Y. Yao, [Throughput maximization of wireless-powered communication networks: An energy threshold approach](https://ieeexplore.ieee.org/document/9319536), **IEEE Transactions on Vehicular Technology**, vol. 70, no. 2, pp. 1292-1306, Feb. 2021.  
@@ -54,6 +55,7 @@ No. LR20F020003 Research on efficient energy provision and data collection techn
 
 **Other Publications:**
  
+(J20) H. Ge, **<span style="color: blue">K. Zheng</span>**, K. Chi, and X. Liu, The maximal secondary throughput in cognitive wireless networks with energy harvesting, to appear in **IET Communications**, 2022. **(CCF-C)**(Corresponding author)   
 (J19) X. Liu, A. Wang, B. Xu, **<span style="color: blue">K. Zheng</span>**, and X. Yao, [Robustness-based transmission strategy for wireless powered communication networks](https://www.hindawi.com/journals/wcmc/2022/2532905/), **Wireless Communications and Mobile Computing**, vol. 2022, Article ID 2532905, Oct. 2022. **(CCF-C)**(Corresponding author)   
 (J18) Z. Qu, Q. Jia, C. Lyu, J. Liu, X. Liu, and **<span style="color: blue">K. Zheng</span>**, Detecting fake reviews with generative adversarial networks for mobile social networks, to appear in **Security and Communication Networks**, Article ID 1164125, 2022. **(CCF-C)**  
 (J17) X. Liu, M. Xia, P. Hu, **<span style="color: blue">K. Zheng</span>**, and S. Zhang, [Optimal time allocation for energy harvesting cognitive radio networks with multi-channel spectrum sensing](https://www.hindawi.com/journals/wcmc/2022/3940132/), **Wireless Communications and Mobile Computing**, vol. 2022, Article ID 3940132, Aug. 2022. **(CCF-C)**(Corresponding author)   
