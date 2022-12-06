@@ -38,7 +38,7 @@ No. LR20F020003 Research on efficient energy provision and data collection techn
 
 **Selected Publications:**
  
-(J15) X. Liu, B. Xu, **<span style="color: blue">K. Zheng\*</span>**, and H. Zheng, Throughput maximization of wireless-powered communication network with mobile access points, to appear in **IEEE Transactions on Wireless Communications**, 2022. **(CCF-B)**(Corresponding author)   
+(J15) X. Liu, B. Xu, **<span style="color: blue">K. Zheng\*</span>**, and H. Zheng, [Throughput maximization of wireless-powered communication network with mobile access points](https://ieeexplore.ieee.org/document/9970521), to appear in **IEEE Transactions on Wireless Communications**, 2022. **(CCF-B)**(Corresponding author)   
 (J14) **<span style="color: blue">K. Zheng</span>**, X. Jia, K. Chi, and X. Liu, [DDPG-based joint time and energy management in ambient backscatter-assisted hybrid underlay CRNs](https://ieeexplore.ieee.org/document/9945999), to appear in **IEEE Transactions on Communications**, 2022. **(CCF-B)**  
 (J13) X. Liu, B. Xu, X. Wang, **<span style="color: blue">K. Zheng\*</span>**, K. Chi, and X. Tian, [Impacts of sensing energy and data availability on throughput of energy harvesting cognitive radio networks](https://ieeexplore.ieee.org/document/9878087/), to appear in **IEEE Transactions on Vehicular Technology**, 2022.(Corresponding author)   
 (J12) **<span style="color: blue">K. Zheng</span>**, H. Ge, K. Chi, and X. Liu, [Energy provision minimization of energy-harvesting cognitive radio networks with minimal throughput demands](https://www.sciencedirect.com/science/article/pii/S1389128621005740?via%3Dihub#d1e12229), **Computer Networks**, vol. 204, Article ID 108721, Feb. 2022. **(CCF-B)**    
