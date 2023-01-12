@@ -38,7 +38,7 @@ No. LR20F020003 Research on efficient energy provision and data collection techn
 
 **Selected Publications:**
  
-(J16) **<span style="color: blue">K. Zheng</span>**, G. Jiang, X. Liu, K. Chi, X. Yao, and J. Liu, DRL-based offloading for computation delay minimization in wireless-powered multi-access edge computing, to appear in **IEEE Transactions on Wireless Communications**, 2023. **(CCF-B)**  
+(J16) **<span style="color: blue">K. Zheng</span>**, G. Jiang, X. Liu, K. Chi, X. Yao, and J. Liu, DRL-based offloading for computation delay minimization in wireless-powered multi-access edge computing, to appear in **IEEE Transactions on Communications**, 2023. **(CCF-B)**  
 (J15) X. Liu, B. Xu, **<span style="color: blue">K. Zheng\*</span>**, and H. Zheng, [Throughput maximization of wireless-powered communication network with mobile access points](https://ieeexplore.ieee.org/document/9970521), to appear in **IEEE Transactions on Wireless Communications**, 2023. **(CCF-B)**(Corresponding author)   
 (J14) **<span style="color: blue">K. Zheng</span>**, X. Jia, K. Chi, and X. Liu, [DDPG-based joint time and energy management in ambient backscatter-assisted hybrid underlay CRNs](https://ieeexplore.ieee.org/document/9945999), to appear in **IEEE Transactions on Communications**, 2023. **(CCF-B)**  
 (J13) X. Liu, B. Xu, X. Wang, **<span style="color: blue">K. Zheng\*</span>**, K. Chi, and X. Tian, [Impacts of sensing energy and data availability on throughput of energy harvesting cognitive radio networks](https://ieeexplore.ieee.org/document/9878087/), to appear in **IEEE Transactions on Vehicular Technology**, 2023.(Corresponding author)   
