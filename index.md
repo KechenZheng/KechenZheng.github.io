@@ -1,4 +1,4 @@
-<img src="2.JPG" width="140" height="170"/>  **Kechen Zheng**, Associate Professor (Tenure Track), Master Supervisor  
+<img src="2.JPG" width="140" height="170"/>  **Kechen Zheng**, Associate Professor, Master Supervisor  
 07/2018-till now, [School of Computer Science and Technology](http://www.software.zjut.edu.cn/), [Zhejiang University of Technology](http://www.zjut.edu.cn/)   
 No. 288 Liu-He Road, Hangzhou, Zhejiang, 310023, P. R. China  
 Tel: (+86) 158-0171-4656  
