@@ -18,6 +18,7 @@ Cognitive radio networks; energy harvesting networks; wireless-powered communica
 
 ## Services  
 
+Executive Committee of  CCF TCIoT (Internet of Things), 2022-  
 **Guest editor** for Sensors (Special Issue: [Cognitive Radio Networks: Technologies, Challenges, and Applications](https://www.mdpi.com/journal/sensors/special_issues/LMGJ4IH614), and this special issue belongs to the section "Communications"), 2022-2023.  
 TPC member for IEEE ICC'23 - CRAIN Symposium (Cognitive Radio and AI-Enabled Networks)  
 **Guest editor** for Wireless Communications and Mobile Computing (Special Issue: [Next-Generation Wireless Networks Communication Sustainability, Efficiency, and Security from a Physical Layer Perspective](https://www.hindawi.com/journals/wcmc/si/635205/)), 2022, CCF-C  
