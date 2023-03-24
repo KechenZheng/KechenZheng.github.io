@@ -1,6 +1,6 @@
 <img src="2.JPG" width="140" height="170"/>  **Kechen Zheng**, Associate Professor, Master Supervisor  
 07/2018-till now, [School of Computer Science and Technology](http://www.software.zjut.edu.cn/), [Zhejiang University of Technology](http://www.zjut.edu.cn/)   
-11/2022-till now, Secretary, Deputy Director of the Institute of Computer Networks    
+11/2022-till now, Secretary, Vice Director of the Institute of Computer Networks    
 No. 288 Liu-He Road, Hangzhou, Zhejiang, 310023, P. R. China  
 Tel: (+86) 158-0171-4656  
 E-mail: kechenzheng@zjut.edu.cn; zhengkechen@foxmail.com  
@@ -20,7 +20,7 @@ Cognitive radio networks; energy harvesting networks; wireless-powered communica
 ## Services  
 
 **Academic editor (Assoicate editor)** of [Wireless Communications and Mobile Computing](https://www.hindawi.com/journals/wcmc/editors/), 2023-  
-Secretary, Deputy Director of the Institute of Computer Networks, Nov. 2022-  
+Secretary, Vice Director of the Institute of Computer Networks, Nov. 2022-  
 Executive Committee of CCF TCIoT (Internet of Things), 2022-  
 **Guest editor** of Sensors (Special Issue: [Cognitive Radio Networks: Technologies, Challenges, and Applications](https://www.mdpi.com/journal/sensors/special_issues/LMGJ4IH614), and this special issue belongs to the section "Communications"), 2022-2023.  
 TPC member of IEEE ICC'23 - CRAIN Symposium (Cognitive Radio and AI-Enabled Networks)  
