@@ -27,7 +27,7 @@ TPC member of IEEE ICC'23 - CRAIN Symposium (Cognitive Radio and AI-Enabled Netw
 **Guest editor** of Wireless Communications and Mobile Computing (Special Issue: [Next-Generation Wireless Networks Communication Sustainability, Efficiency, and Security from a Physical Layer Perspective](https://www.hindawi.com/journals/wcmc/si/635205/)), 2022, CCF-C  
 TPC member of IEEE ICC'22 - CRAIN Symposium (Cognitive Radio and AI-Enabled Networks)    
 TPC member of IEEE ICC'20 - MWN Symposium (Mobile and Wireless Networks)  
-Member of China Computer Federation, Member of IEEE  
+Member of China Computer Federation (CCF), Member of IEEE and ACM   
 Reviewers of IEEE/ACM Transactions on Networking, IEEE Transactions on Mobile Computing, IEEE Transactions on Wireless Communications, IEEE Transactions on Vehicular Technology, IEEE Transactions on Network Science and Engineering, Transactions on Dependable and Secure Computing, and so on.
 
 ## Projects
