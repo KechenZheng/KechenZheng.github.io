@@ -41,7 +41,9 @@ No. LR20F020003 Research on efficient energy provision and data collection techn
 ## Publications
 
 **Selected Publications:**
- 
+
+(J18) **<span style="color: blue">K. Zheng</span>**, J. Wang, X. Liu, X. Yao, Y. Xu, and J. Liu, A hybrid communication scheme for throughput maximization in backscatter-aided energy harvesting cognitive radio networks, to appear in **IEEE Internet of Things Journal**, 2023. **(CCF-C)**  
+(J17) X. Liu, Z. Lin, **<span style="color: blue">K. Zheng</span>**, X. Yao, and J. Liu, Optimal time allocation for backscatter-aided relay cooperative transmission in wireless-powered heterogeneous CRNs, to appear in **IEEE Internet of Things Journal**, 2023. **(CCF-C)**(Corresponding author)  
 (J16) **<span style="color: blue">K. Zheng</span>**, G. Jiang, X. Liu, K. Chi, X. Yao, and J. Liu, [DRL-based offloading for computation delay minimization in wireless-powered multi-access edge computing](https://ieeexplore.ieee.org/document/10019272), **IEEE Transactions on Communications**, vol. 71, no. 3, pp. 1755-1770, Mar. 2023. **(CCF-B)**  
 (J15) X. Liu, B. Xu, **<span style="color: blue">K. Zheng\*</span>**, and H. Zheng, [Throughput maximization of wireless-powered communication network with mobile access points](https://ieeexplore.ieee.org/document/9970521), to appear in **IEEE Transactions on Wireless Communications**, 2023. **(CCF-B)**(Corresponding author)   
 (J14) **<span style="color: blue">K. Zheng</span>**, X. Jia, K. Chi, and X. Liu, [DDPG-based joint time and energy management in ambient backscatter-assisted hybrid underlay CRNs](https://ieeexplore.ieee.org/document/9945999), **IEEE Transactions on Communications**, vol. 71, no. 1, pp. 441-456, Jan. 2023. **(CCF-B)**  
