@@ -19,6 +19,7 @@ Cognitive radio networks; energy harvesting networks; wireless-powered communica
 
 ## Services  
 
+ACM China Young Scholar Academy Forum Chair of [ACM TURC 2023](https://www.acmturc.com/2023/cn/index.html)  
 **Academic editor (Assoicate editor)** of [Wireless Communications and Mobile Computing](https://www.hindawi.com/journals/wcmc/editors/), 2023-  
 Secretary, Vice Director of the Institute of Computer Networks, Nov. 2022-  
 Executive Committee of CCF TCIoT (Internet of Things), 2022-  
