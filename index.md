@@ -1,6 +1,6 @@
 <img src="2.JPG" width="140" height="170"/>  **Kechen Zheng**, Associate Professor, Master Supervisor  
+11/2022-till now, Secretary, Vice Director of the Institute of Computer Networks   
 07/2018-till now, [School of Computer Science and Technology](http://www.software.zjut.edu.cn/), [Zhejiang University of Technology](http://www.zjut.edu.cn/)   
-11/2022-till now, Secretary, Vice Director of the Institute of Computer Networks    
 Address: No. 288 Liu-He Road, Hangzhou, Zhejiang, 310023, P. R. China  
 Tel: (+86) 158-0171-4656  
 E-mail: kechenzheng@zjut.edu.cn; zhengkechen@foxmail.com  
@@ -62,6 +62,7 @@ No. LR20F020003 Research on efficient energy provision and data collection techn
 
 **Other Publications:**
  
+(J23) W. Gong, **<span style="color: blue">K. Zheng</span>**, S. Zhang, and P. Hu, [Deep pairwise learning for user preferences via dual graph attention model in location-based social networks](https://www.sciencedirect.com/science/article/abs/pii/S0957417423007248?via%3Dihub), to appear in **Expert Systems with Applications**, 2023. **(CCF-C)**  
 (J22) **<span style="color: blue">K. Zheng</span>**, J. Wang, X. Liu, X. Yao, Y. Xu, and J. Liu, [A hybrid communication scheme for throughput maximization in backscatter-aided energy harvesting cognitive radio networks](https://ieeexplore.ieee.org/document/10103150/), to appear in **IEEE Internet of Things Journal**, 2023. **(CCF-C)**  
 (J21) X. Liu, Z. Lin, **<span style="color: blue">K. Zheng</span>**, X. Yao, and J. Liu, [Optimal time allocation for backscatter-aided relay cooperative transmission in wireless-powered heterogeneous CRNs](https://ieeexplore.ieee.org/document/10103166), to appear in **IEEE Internet of Things Journal**, 2023. **(CCF-C)**(Corresponding author)  
 (J20) H. Ge, **<span style="color: blue">K. Zheng\*</span>**, K. Chi, and X. Liu, [The maximal secondary throughput in cognitive wireless networks with energy harvesting](https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/cmu2.12543), **IET Communications**, vol. 17, no. 3, pp. 336-347, Feb. 2023. **(CCF-C)**(Corresponding author)   
