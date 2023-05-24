@@ -61,7 +61,8 @@ No. LR20F020003 Research on efficient energy provision and data collection techn
 (J1) **<span style="color: blue">K. Zheng</span>**, J. Luo, J. Zhang, W. Wu, X. Tian, and X. Wang, [Cooperation improves delay in cognitive networks with hybrid random walk](https://ieeexplore.ieee.org/document/7070747),  **IEEE Transactions on Communications**, vol. 63, no. 6, pp. 1988-2000, Jun. 2015. **(CCF-B)**  
 
 **Other Publications:**
- 
+
+(J24) Y. Zhang, Y. Li, B. Chen, E. Li, **<span style="color: blue">K. Zheng</span>**, K. Chi, and Y.-h. Zhu, Design of an RFID-Based self-jamming identification and sensing platform, **IEEE Transactions on Mobile Computing**, to appear in 2023. **(CCF-A)**  
 (J23) W. Gong, **<span style="color: blue">K. Zheng</span>**, S. Zhang, and P. Hu, [Deep pairwise learning for user preferences via dual graph attention model in location-based social networks](https://www.sciencedirect.com/science/article/abs/pii/S0957417423007248?via%3Dihub), to appear in **Expert Systems with Applications**, 2023. **(CCF-C)**  
 (J22) **<span style="color: blue">K. Zheng</span>**, J. Wang, X. Liu, X. Yao, Y. Xu, and J. Liu, [A hybrid communication scheme for throughput maximization in backscatter-aided energy harvesting cognitive radio networks](https://ieeexplore.ieee.org/document/10103150/), to appear in **IEEE Internet of Things Journal**, 2023. **(CCF-C)**  
 (J21) X. Liu, Z. Lin, **<span style="color: blue">K. Zheng</span>**, X. Yao, and J. Liu, [Optimal time allocation for backscatter-aided relay cooperative transmission in wireless-powered heterogeneous CRNs](https://ieeexplore.ieee.org/document/10103166), to appear in **IEEE Internet of Things Journal**, 2023. **(CCF-C)**(Corresponding author)  
