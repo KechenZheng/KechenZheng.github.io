@@ -43,7 +43,7 @@ No. LR20F020003 Research on efficient energy provision and data collection techn
 
 **Selected Publications:**
 
-(J19) Y. Zhang, Y. Li, B. Chen, E. Li, **<span style="color: blue">K. Zheng</span>**, K. Chi, and Y.-h. Zhu, Design of an RFID-based self-jamming identification and sensing platform, to appear in **IEEE Transactions on Mobile Computing**, 2023. **(CCF-A)**  
+(J19) Y. Zhang, Y. Li, B. Chen, E. Li, **<span style="color: blue">K. Zheng</span>**, K. Chi, and Y.-h. Zhu, [Design of an RFID-based self-jamming identification and sensing platform](https://ieeexplore.ieee.org/document/10138451), to appear in **IEEE Transactions on Mobile Computing**, 2023. **(CCF-A)**  
 (J18) **<span style="color: blue">K. Zheng</span>**, G. Jiang, X. Liu, K. Chi, X. Yao, and J. Liu, [DRL-based offloading for computation delay minimization in wireless-powered multi-access edge computing](https://ieeexplore.ieee.org/document/10019272), **IEEE Transactions on Communications**, vol. 71, no. 3, pp. 1755-1770, Mar. 2023. **(CCF-B)**  
 (J17) X. Liu, B. Xu, **<span style="color: blue">K. Zheng\*</span>**, and H. Zheng, [Throughput maximization of wireless-powered communication network with mobile access points](https://ieeexplore.ieee.org/document/9970521), to appear in **IEEE Transactions on Wireless Communications**, 2023. **(CCF-B)**(Corresponding author)   
 (J16) **<span style="color: blue">K. Zheng</span>**, X. Jia, K. Chi, and X. Liu, [DDPG-based joint time and energy management in ambient backscatter-assisted hybrid underlay CRNs](https://ieeexplore.ieee.org/document/9945999), **IEEE Transactions on Communications**, vol. 71, no. 1, pp. 441-456, Jan. 2023. **(CCF-B)**  
@@ -117,15 +117,15 @@ G726014 Computer Networks Curriculum Design (2020-2022)
 Haijiang Ge (2018-2022, PhD student, joint supervised by Prof. Chi, Hangzhou Vocational and Technical College)  
 Wendi Sun (2019-2022, Master student, joint supervised by Prof. Zhu, Lishui Vocational and Technical College, Longquan)  
 Xueli Jia (2019-2022, Master student, joint supervised by Prof. Chi, Hangzhou Dianzi University Information Engineering School)  
-Jiahong Wang (2020, Master student, joint supervised by Prof. Zhu)  
-Bin Xu (2020, Master student, joint supervised by Prof. Liu)   
-Zhongwei Lin (2020, Master student, joint supervised by Prof. Liu)  
-Aodi Wang (2020, Master student, joint supervised by Prof. Liu)  
+Jiahong Wang (2020, Master student, joint supervised by Prof. Zhu, Tongxiang Veteran Cadres Bureau)  
+Bin Xu (2020, Master student, joint supervised by Prof. Liu, Hangzhou Aerospace Electronic Technology Co., Ltd.)   
+Zhongwei Lin (2020, Master student, joint supervised by Prof. Liu, The First People's Hospital of Hangzhou Lin'an District)  
+Aodi Wang (2020, Master student, joint supervised by Prof. Liu, Industrial and Commercial Bank of China, ICBC)  
 Huihui Liu (2021, Master student, joint supervised by Prof. Liu)  
 Rongwei Luo (2021, Master student, joint supervised by Prof. Liu)  
 Xinyu Kuang (2021, Master student, joint supervised by Prof. Liu)   
 Xiaodong Li (2021, Master student, joint supervised by Prof. Liu)  
-Guodong Jiang (2020, Master student, joint supervised by Prof. Chi)  
+Guodong Jiang (2020, Master student, joint supervised by Prof. Chi, China Zhejiang Bank CO., LTD., CZB)  
 Junsheng Fu (2022, Master student, joint supervised by Prof. Liu)  
 Biao Zhou (2022, Master student, joint supervised by Prof. Liu)  
 Jiaxiang Xu (2022, Master student, joint supervised by Prof. Liu)  
