@@ -15,7 +15,7 @@ Corresponding links of mine: [Google Scholar](https://scholar.google.com/citatio
 
 ## Research areas
 
-Cognitive radio networks; energy harvesting networks; wireless-powered communication networks; wireless communications; energy management; spectrum sensing; supervised learning; reinforcement learning; IEEE 802.11ax.
+Cognitive radio networks; energy harvesting networks; wireless-powered communication networks; wireless communications; spectrum sensing; supervised learning; reinforcement learning; IEEE 802.11ax.
 
 ## Services  
 
@@ -106,11 +106,11 @@ Awarded all-round good student of Shanghai Jiao Tong University in 2016
 
 ## Teaching
 
-212533 Wireless Networking Technology (2019-2022)   
+212533 Wireless Networking Technology (2019-2023)   
 G126120 Communication Technology of Internet of Things (2021)  
-G126046 Computer Networks (2020-2022)  
-G726014 Computer Networks Curriculum Design (2020-2022)  
-212579 Modern Network Technology and Application (2022)  
+G126046 Computer Networks (2020-2023)  
+G726014 Computer Networks Curriculum Design (2020-2023)  
+212579 Modern Network Technology and Application (2022-2023)  
 
 ## Master and PHD students
 
