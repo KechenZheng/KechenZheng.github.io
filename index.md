@@ -33,7 +33,7 @@ Reviewers of IEEE/ACM Transactions on Networking, IEEE Transactions on Mobile Co
 
 ## Projects
 (P8) **NSFC**, No. 62372413, Research on mode construction and cooperative transmission mechanism of symbiotic radio networks   (¥ 500,000, 1/4, 2024-2027)   
-(P7) **NSFC**, No. 62372412, Research on resource optimization and transmission mechanism for wireless powered IoT based on information freshness   (¥ 500,000, 2/4, 2024-2027)   
+(P7) **NSFC**, No. 62372412, Research on resource optimization and transmission mechanism for wireless powered IoT based on information freshness   (¥ 500,000, 2/3, 2024-2027)   
 (P6) No. RF-A2022005 Fundamental Research Funds for the Provincial Universities of Zhejiang (¥ 100,000, 1/4, 2023-2025)  
 (P5) Zhejiang Provincial Natural Science Foundation of China, No. LY21F020022 Research on multiband cooperative spectrum sensing in wireless powered Internet of Things (¥ 100,000, 1/7, 2021-2023)  
 (P4) Zhejiang Provincial Natural Science Foundation of China, No. LY21F020023 Research on physical layer security for energy harvesting-based Internet of Things (¥ 100,000, 2/7, 2021-2023)  
