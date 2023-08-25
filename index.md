@@ -32,12 +32,14 @@ Member of China Computer Federation (CCF), Member of IEEE and ACM
 Reviewers of IEEE/ACM Transactions on Networking, IEEE Transactions on Mobile Computing, IEEE Transactions on Wireless Communications, IEEE Transactions on Vehicular Technology, IEEE Transactions on Network Science and Engineering, Transactions on Dependable and Secure Computing, and so on.
 
 ## Projects
-Scientific Research Foundation of Zhejiang University of Technology (¥ 100,000, 1/1, 2018-2023)  
-NSFC No. 61902353  Research of cognitive-based spectrum sensing and energy harvesting in Internet of Things  (¥ 260,000, 1/1, 2020-2022)  
-No. RF-A2022005 Fundamental Research Funds for the Provincial Universities of Zhejiang (¥ 100,000, 1/4, 2023-2025)  
-No. LY21F020022 Research on multiband cooperative spectrum sensing in wireless powered Internet of Things (¥ 100,000, 1/7, 2021-2023)  
-No. LY21F020023 Research on Physical Layer Security for Energy Harvesting-Based Internet of Things (¥ 100,000, 2/7, 2021-2023)  
-No. LR20F020003 Research on efficient energy provision and data collection technologies of wireless powered sensor networks  (¥ 800,000, 3/7, 2020-2023)
+(P8) **NSFC**, No. 62372413, Research on mode construction and cooperative transmission mechanism of symbiotic radio networks   (¥ 500,000, 1/4, 2024-2027)   
+(P7) **NSFC**, No. 62372412, Research on resource optimization and transmission mechanism for wireless powered IoT based on information freshness   (¥ 500,000, 2/4, 2024-2027)   
+(P6) No. RF-A2022005 Fundamental Research Funds for the Provincial Universities of Zhejiang (¥ 100,000, 1/4, 2023-2025)  
+(P5) Zhejiang Provincial Natural Science Foundation of China, No. LY21F020022 Research on multiband cooperative spectrum sensing in wireless powered Internet of Things (¥ 100,000, 1/7, 2021-2023)  
+(P4) Zhejiang Provincial Natural Science Foundation of China, No. LY21F020023 Research on physical layer security for energy harvesting-based Internet of Things (¥ 100,000, 2/7, 2021-2023)  
+(P3) **NSFC**, No. 61902353, Research of cognitive-based spectrum sensing and energy harvesting in Internet of Things  (¥ 260,000, 1/1, 2020-2022)  
+(P2) Zhejiang Provincial Natural Science Foundation of China, No. LR20F020003, Research on efficient energy provision and data collection technologies of wireless powered sensor networks  (¥ 800,000, 3/7, 2020-2023)
+(P1) Scientific Research Foundation of Zhejiang University of Technology (¥ 100,000, 1/1, 2018-2023)  
 
 ## Publications
 
