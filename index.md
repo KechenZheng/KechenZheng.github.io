@@ -130,7 +130,7 @@ Guodong Jiang (2020-2023, Master student, joint supervised by Prof. Chi, China Z
 Junsheng Fu (2022, Master student, joint supervised by Prof. Liu)  
 Biao Zhou (2022, Master student, joint supervised by Prof. Liu)  
 Jiaxiang Xu (2022, Master student, joint supervised by Prof. Liu)  
-Qipeng Ye (2022, Master student, joint supervised by Prof. Chi) 
+Qipeng Ye (2022, Master student, joint supervised by Prof. Chi)   
 Junhao Zheng (2023, Master student, joint supervised by Prof. Liu)  
 Zefu Li (2023, Master student, joint supervised by Prof. Liu)  
 Yuxin Chen (2023, Master student, joint supervised by Prof. Chi)  
