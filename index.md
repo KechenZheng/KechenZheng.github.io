@@ -19,6 +19,7 @@ Cognitive radio networks; energy harvesting networks; wireless-powered communica
 
 ## Services  
 
+TPC member of ICMLCN 2024 (2024 IEEE International Conference on Machine Learning for Communication and Networking)  
 TPC member of SmartData 2023 (The 9th IEEE International Conference on Smart Data)  
 ACM China Young Scholar Academy Forum Chair of [ACM TURC 2023](https://www.acmturc.com/2023/cn/index.html)  
 **Academic editor (Assoicate editor)** of [Wireless Communications and Mobile Computing](https://www.hindawi.com/journals/wcmc/editors/), CCF-C, 2023-  
