@@ -25,7 +25,7 @@ ACM China Young Scholar Academy Forum Chair of [ACM TURC 2023](https://www.acmtu
 **Academic editor (Assoicate editor)** of [Wireless Communications and Mobile Computing](https://www.hindawi.com/journals/wcmc/editors/), CCF-C, 2023-  
 Secretary, Vice Director of the Institute of Computer Networks, Nov. 2022-  
 Executive Committee of CCF TCIoT (Internet of Things), 2022-  
-**Guest editor** of Sensors (Special Issue: [Cognitive Radio Networks: Technologies, Challenges, and Applications](https://www.mdpi.com/journal/sensors/special_issues/LMGJ4IH614), and this special issue belongs to the section "Communications"), 2022-2023.  
+**Guest editor** of Sensors (Special Issue: [Cognitive Radio Networks: Technologies, Challenges, and Applications](https://www.mdpi.com/journal/sensors/special_issues/LMGJ4IH614), and this special issue belongs to the section "Communications"), 2022-2024.  
 **Guest editor** of Wireless Communications and Mobile Computing (Special Issue: [Next-Generation Wireless Networks Communication Sustainability, Efficiency, and Security from a Physical Layer Perspective](https://www.hindawi.com/journals/wcmc/si/635205/)), 2022, CCF-C  
 TPC member of IEEE ICC'22, 23, 24 - CRAIN Symposium (Cognitive Radio and AI-Enabled Networks)    
 TPC member of IEEE ICC'20 - MWN Symposium (Mobile and Wireless Networks)  
