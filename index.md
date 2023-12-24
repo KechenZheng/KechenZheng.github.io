@@ -68,7 +68,7 @@ Cognitive radio networks; energy harvesting networks; wireless-powered communica
 
 **Other Publications:**
 
-(C5) X. Liu, Y. Xu, J. Liu, H. Takakura, X. Liu, **<span style="color: blue">K. Zheng</span>**, and N. Shiratori, Multi-armed bandit-based secure routing in air-ground integrated networks, in IEEE Wireless Communications and Networking Conference (**WCNC**), Dubai, United Arab Emirates, Apr. 2024.  
+(C5) X. Liu, Y. Xu, J. Liu, H. Takakura, X. Liu, **<span style="color: blue">K. Zheng</span>**, and N. Shiratori, Multi-armed bandit-based secure routing in air-ground integrated networks, in IEEE Wireless Communications and Networking Conference (**WCNC**), Dubai, United Arab Emirates, Apr. 2024. **(CCF-C)**   
 (J22) **<span style="color: blue">K. Zheng</span>**, R. Luo, Z. Wang, X. Liu, and Y. Yao, [Short-term and long-term throughput maximization in mobile wireless-powered Internet of Things](https://ieeexplore.ieee.org/document/10290972), to appear in **IEEE Internet of Things Journal**, 2023. **(CCF-C)**  
 (J21) W. Gong, **<span style="color: blue">K. Zheng</span>**, S. Zhang, and P. Hu, [Deep pairwise learning for user preferences via dual graph attention model in location-based social networks](https://www.sciencedirect.com/science/article/abs/pii/S0957417423007248?via%3Dihub), **Expert Systems with Applications**, vol. 227, Article ID 120222, Oct. 2023. **(CCF-C)**  
 (J20) **<span style="color: blue">K. Zheng</span>**, J. Wang, X. Liu, X. Yao, Y. Xu, and J. Liu, [A hybrid communication scheme for throughput maximization in backscatter-aided energy harvesting cognitive radio networks](https://ieeexplore.ieee.org/document/10103150/), **IEEE Internet of Things Journal**, vol. 10, no. 18, pp. 16194-16208, Sep. 2023. **(CCF-C)**  
