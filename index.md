@@ -34,10 +34,10 @@ Cognitive radio networks; energy harvesting networks; wireless-powered communica
 
 ## Projects
 (P8) **NSFC** No. 62372413, Research on mode construction and cooperative transmission mechanism of symbiotic radio networks   (¥ 500,000, 1/4, 2024-2027)   
-(P7) **NSFC** No. 62372412, Research on resource optimization and transmission mechanism for wireless powered IoT based on information freshness   (¥ 500,000, 2/3, 2024-2027)   
+(P7) **NSFC** No. 62372412, Research on resource optimization and transmission mechanism for wireless powered IoT based on information freshness (¥ 500,000, 2/3, 2024-2027)   
 (P6) No. RF-A2022005, Fundamental Research Funds for the Provincial Universities of Zhejiang (¥ 100,000, 1/4, 2023-2025)  
-(P5) Zhejiang Provincial Natural Science Foundation of China, No. LY21F020022 Research on multiband cooperative spectrum sensing in wireless powered Internet of Things (¥ 100,000, 1/7, 2021-2023)  
-(P4) Zhejiang Provincial Natural Science Foundation of China, No. LY21F020023 Research on physical layer security for energy harvesting-based Internet of Things (¥ 100,000, 2/7, 2021-2023)  
+(P5) Zhejiang Provincial Natural Science Foundation of China, No. LY21F020022, Research on multiband cooperative spectrum sensing in wireless powered Internet of Things (¥ 100,000, 1/7, 2021-2023)  
+(P4) Zhejiang Provincial Natural Science Foundation of China, No. LY21F020023, Research on physical layer security for energy harvesting-based Internet of Things (¥ 100,000, 2/7, 2021-2023)  
 (P3) **NSFC** No. 61902353, Research of cognitive-based spectrum sensing and energy harvesting in Internet of Things  (¥ 260,000, 1/1, 2020-2022)  
 (P2) Zhejiang Provincial Natural Science Foundation of China, No. LR20F020003, Research on efficient energy provision and data collection technologies of wireless powered sensor networks  (¥ 800,000, 3/7, 2020-2023)  
 (P1) Scientific Research Foundation of Zhejiang University of Technology (¥ 100,000, 1/1, 2018-2023)  
@@ -68,6 +68,7 @@ Cognitive radio networks; energy harvesting networks; wireless-powered communica
 
 **Other Publications:**
 
+(J23) **<span style="color: blue">K. Zheng</span>**, J. Wang, A. Chen, W. Sun, X. Liu, and J. Liu,  Spectrum utilization improvement for multi-Channel EH-CRN with spectrum sensing, to appear in **IET Communications**, 2024. **(CCF-C)**  
 (C5) X. Liu, Y. Xu, J. Liu, H. Takakura, X. Liu, **<span style="color: blue">K. Zheng</span>**, and N. Shiratori, Multi-armed bandit-based secure routing in air-ground integrated networks, in IEEE Wireless Communications and Networking Conference (**WCNC**), Dubai, United Arab Emirates, Apr. 2024. **(CCF-C)**   
 (J22) **<span style="color: blue">K. Zheng</span>**, R. Luo, Z. Wang, X. Liu, and Y. Yao, [Short-term and long-term throughput maximization in mobile wireless-powered Internet of Things](https://ieeexplore.ieee.org/document/10290972), to appear in **IEEE Internet of Things Journal**, 2024. **(CCF-C)**  
 (J21) W. Gong, **<span style="color: blue">K. Zheng</span>**, S. Zhang, and P. Hu, [Deep pairwise learning for user preferences via dual graph attention model in location-based social networks](https://www.sciencedirect.com/science/article/abs/pii/S0957417423007248?via%3Dihub), **Expert Systems with Applications**, vol. 227, Article ID 120222, Oct. 2023. **(CCF-C)**  
