@@ -68,7 +68,7 @@ Cognitive radio networks; energy harvesting networks; wireless-powered communica
 
 **Other Publications:**
 
-(J23) **<span style="color: blue">K. Zheng</span>**, J. Wang, A. Chen, W. Sun, X. Liu, and J. Liu,  Spectrum utilization improvement for multi-Channel EH-CRN with spectrum sensing, to appear in **IET Communications**, 2024. **(CCF-C)**  
+(J23) **<span style="color: blue">K. Zheng</span>**, J. Wang, A. Chen, W. Sun, X. Liu, and J. Liu,  Spectrum utilization improvement for multi-channel EH-CRN with spectrum sensing, to appear in **IET Communications**, 2024. **(CCF-C)**  
 (C5) X. Liu, Y. Xu, J. Liu, H. Takakura, X. Liu, **<span style="color: blue">K. Zheng</span>**, and N. Shiratori, Multi-armed bandit-based secure routing in air-ground integrated networks, in IEEE Wireless Communications and Networking Conference (**WCNC**), Dubai, United Arab Emirates, Apr. 2024. **(CCF-C)**   
 (J22) **<span style="color: blue">K. Zheng</span>**, R. Luo, Z. Wang, X. Liu, and Y. Yao, [Short-term and long-term throughput maximization in mobile wireless-powered Internet of Things](https://ieeexplore.ieee.org/document/10290972), to appear in **IEEE Internet of Things Journal**, 2024. **(CCF-C)**  
 (J21) W. Gong, **<span style="color: blue">K. Zheng</span>**, S. Zhang, and P. Hu, [Deep pairwise learning for user preferences via dual graph attention model in location-based social networks](https://www.sciencedirect.com/science/article/abs/pii/S0957417423007248?via%3Dihub), **Expert Systems with Applications**, vol. 227, Article ID 120222, Oct. 2023. **(CCF-C)**  
