@@ -28,8 +28,7 @@ Cognitive/symbiotic radio networks; energy harvesting networks; wireless-powered
 (6) Executive Committee of CCF TCIoT (Internet of Things), 2022-  
 (5) **Guest editor** of Sensors (Special Issue: [Cognitive Radio Networks: Technologies, Challenges, and Applications](https://www.mdpi.com/journal/sensors/special_issues/LMGJ4IH614)), 2022-2024.  
 (4) **Guest editor** of WCMC (Special Issue: [Next-Generation Wireless Networks Communication Sustainability, Efficiency, and Security from a Physical Layer Perspective](https://www.hindawi.com/journals/wcmc/si/635205/)), 2022  
-(3) TPC member of IEEE ICC'22, 23, 24 - CRAIN Symposium (Cognitive Radio and AI-Enabled Networks)    
-(2) TPC member of IEEE ICC'20 - MWN Symposium (Mobile and Wireless Networks)  
+(3) TPC member of IEEE ICC'22, 23, 24 - CRAIN Symposium (Cognitive Radio and AI-Enabled Networks), IEEE ICC'20 - MWN Symposium (Mobile and Wireless Networks)  
 (1) Reviewers of IEEE/ACM Transactions on Networking, IEEE Transactions on Mobile Computing, IEEE Transactions on Wireless Communications, IEEE Transactions on Vehicular Technology, IEEE Transactions on Network Science and Engineering, Transactions on Dependable and Secure Computing, and so on.
 
 ## Projects
