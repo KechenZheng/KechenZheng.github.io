@@ -2,8 +2,7 @@
 11/2022-till now, Secretary, Vice Director of the Institute of Computer Networks   
 07/2018-till now, [School of Computer Science and Technology](http://www.software.zjut.edu.cn/), [Zhejiang University of Technology](http://www.zjut.edu.cn/)   
 Address: No. 288 Liu-He Road, Hangzhou, Zhejiang, 310023, P. R. China  
-Tel: (+86) 158-0171-4656  
-E-mail: kechenzheng@zjut.edu.cn; zhengkechen@foxmail.com  
+Tel: (+86) 158-0171-4656, E-mail: kechenzheng@zjut.edu.cn  
 Corresponding links of mine: [Google Scholar](https://scholar.google.com/citations?user=x6GPqYQAAAAJ&hl=zh-CN); [Homepage in Chinese](http://www.homepage.zjut.edu.cn/zkc/);   [DBLP](https://dblp.uni-trier.de/pers/hd/z/Zheng:Kechen);   [IEEE Xplore](https://ieeexplore.ieee.org/author/37085359644);  [ORCID](https://orcid.org/0000-0003-3886-4288)
 
 ## Education
@@ -69,7 +68,7 @@ Cognitive/symbiotic radio networks; energy harvesting networks; wireless-powered
 
 (J23) **<span style="color: blue">K. Zheng</span>**, J. Wang, A. Chen, W. Sun, X. Liu, and J. Liu, [Spectrum utilization improvement for multi-channel EH-CRN with spectrum sensing](https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/cmu2.12728), to appear in **IET Communications**, 2024. **(CCF-C)**  
 (C5) X. Liu, Y. Xu, J. Liu, H. Takakura, X. Liu, **<span style="color: blue">K. Zheng</span>**, and N. Shiratori, Multi-armed bandit-based secure routing in air-ground integrated networks, in IEEE Wireless Communications and Networking Conference (**WCNC**), Dubai, United Arab Emirates, Apr. 2024. **(CCF-C)**   
-(J22) **<span style="color: blue">K. Zheng</span>**, R. Luo, Z. Wang, X. Liu, and Y. Yao, [Short-term and long-term throughput maximization in mobile wireless-powered Internet of Things](https://ieeexplore.ieee.org/document/10290972), to appear in **IEEE Internet of Things Journal**, 2024. **(CCF-C)**  
+(J22) **<span style="color: blue">K. Zheng</span>**, R. Luo, Z. Wang, X. Liu, and Y. Yao, [Short-term and long-term throughput maximization in mobile wireless-powered Internet of Things](https://ieeexplore.ieee.org/document/10290972), **IEEE Internet of Things Journal**, vol. 11, no. 6, pp. 10575-10591, Mar. 2024. **(CCF-C)**  
 (J21) W. Gong, **<span style="color: blue">K. Zheng</span>**, S. Zhang, and P. Hu, [Deep pairwise learning for user preferences via dual graph attention model in location-based social networks](https://www.sciencedirect.com/science/article/abs/pii/S0957417423007248?via%3Dihub), **Expert Systems with Applications**, vol. 227, Article ID 120222, Oct. 2023. **(CCF-C)**  
 (J20) **<span style="color: blue">K. Zheng</span>**, J. Wang, X. Liu, X. Yao, Y. Xu, and J. Liu, [A hybrid communication scheme for throughput maximization in backscatter-aided energy harvesting cognitive radio networks](https://ieeexplore.ieee.org/document/10103150/), **IEEE Internet of Things Journal**, vol. 10, no. 18, pp. 16194-16208, Sep. 2023. **(CCF-C)**  
 (J19) X. Liu, Z. Lin, **<span style="color: blue">K. Zheng\*</span>**, X. Yao, and J. Liu, [Optimal time allocation for backscatter-aided relay cooperative transmission in wireless-powered heterogeneous CRNs](https://ieeexplore.ieee.org/document/10103166), **IEEE Internet of Things Journal**, vol. 10, no. 18, pp. 16209-16224, Sep. 2023. **(CCF-C)**(Corresponding author)  
