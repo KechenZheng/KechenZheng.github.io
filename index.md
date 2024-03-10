@@ -18,7 +18,7 @@ Cognitive/symbiotic radio networks; energy harvesting networks; wireless-powered
 
 ## Services  
 
-(11) IEEE Senior Member, Member of China Computer Federation (CCF), Member of ACM     
+(11) IEEE Senior Member, China Computer Federation (CCF) Member, Chinese Institute of Electronics (CIE) member, ACM Member     
 (10) TPC member of ICMLCN 2024 (IEEE International Conference on Machine Learning for Communication and Networking)  
 (9) TPC member of SmartData 2023, 2024 (IEEE International Conference on Smart Data)  
 (8) ACM China Young Scholar Academy Forum Chair of [ACM TURC 2023](https://www.acmturc.com/2023/cn/index.html)  
