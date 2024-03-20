@@ -20,9 +20,9 @@ Cognitive/symbiotic radio networks; energy harvesting networks; wireless-powered
 (12) IEEE Senior Member, China Computer Federation (CCF) Member, Chinese Institute of Electronics (CIE) Member, ACM Member     
 (11) Secretary, Vice Director of the Institute of Computer Networks, Nov. 2022-  
 (10) Executive Committee of CCF TCIoT (Internet of Things), 2022-  
-(9) **Academic editor** of [Wireless Communications and Mobile Computing](https://www.hindawi.com/journals/wcmc/editors/), 2023-   
-(8) **Guest editor** of Sensors (Special Issue: [Cognitive Radio Networks: Technologies, Challenges, and Applications](https://www.mdpi.com/journal/sensors/special_issues/LMGJ4IH614)), 2022-2024  
-(7) **Guest editor** of WCMC (Special Issue: [Next-Generation Wireless Networks Communication Sustainability, Efficiency, and Security from a Physical Layer Perspective](https://www.hindawi.com/journals/wcmc/si/635205/)), 2022    
+(9) Academic editor of [Wireless Communications and Mobile Computing](https://www.hindawi.com/journals/wcmc/editors/), 2023-   
+(8) Guest editor of Sensors (Special Issue: [Cognitive Radio Networks: Technologies, Challenges, and Applications](https://www.mdpi.com/journal/sensors/special_issues/LMGJ4IH614)), 2022-2024  
+(7) Guest editor of WCMC (Special Issue: [Next-Generation Wireless Networks Communication Sustainability, Efficiency, and Security from a Physical Layer Perspective](https://www.hindawi.com/journals/wcmc/si/635205/)), 2022    
 (6) ACM China Young Scholar Academy Forum Chair of [ACM TURC 2023](https://www.acmturc.com/2023/cn/index.html)  
 (5) TPC member of ICMLCN 2024 (IEEE International Conference on Machine Learning for Communication and Networking)  
 (4) TPC member of SmartData 2023, 2024 (IEEE International Conference on Smart Data)  
