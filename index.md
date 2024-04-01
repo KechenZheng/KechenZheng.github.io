@@ -44,7 +44,7 @@ Cognitive/symbiotic radio networks; energy harvesting networks; wireless-powered
 
 **Selected Publications:**
 
-(J20) X. Liu, X. Li, **<span style="color: blue">K. Zheng\*</span>**, and J. Liu, AoI minimization of ambient backscatter-assisted EH-CRN with cooperative spectrum sensing, to appear in **Computer Networks**, 2024. **(CCF-B)**  
+(J20) X. Liu, X. Li, **<span style="color: blue">K. Zheng\*</span>**, and J. Liu, AoI minimization of ambient backscatter-assisted EH-CRN with cooperative spectrum sensing, to appear in **Computer Networks**, 2024. **(CCF-B)**(Corresponding author)  
 (J19) Y. Zhang, Y. Li, B. Chen, E. Li, **<span style="color: blue">K. Zheng</span>**, K. Chi, and Y.-h. Zhu, [Design of an RFID-based self-jamming identification and sensing platform](https://ieeexplore.ieee.org/document/10138451), to appear in **IEEE Transactions on Mobile Computing**, 2024. **(CCF-A)**  
 (J18) **<span style="color: blue">K. Zheng</span>**, G. Jiang, X. Liu, K. Chi, X. Yao, and J. Liu, [DRL-based offloading for computation delay minimization in wireless-powered multi-access edge computing](https://ieeexplore.ieee.org/document/10019272), **IEEE Transactions on Communications**, vol. 71, no. 3, pp. 1755-1770, Mar. 2023. **(CCF-B)**  
 (J17) X. Liu, B. Xu, **<span style="color: blue">K. Zheng\*</span>**, and H. Zheng, [Throughput maximization of wireless-powered communication network with mobile access points](https://ieeexplore.ieee.org/document/9970521), **IEEE Transactions on Wireless Communications**, vol. 22, no. 7, pp. 4401-4415, Jul. 2023. **(CCF-B)**(Corresponding author)   
