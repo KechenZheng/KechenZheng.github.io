@@ -17,7 +17,7 @@ Cognitive/symbiotic radio networks; energy harvesting networks; wireless-powered
 
 ## Services  
 
-(12) IEEE Senior Member, China Computer Federation (CCF) Member, Chinese Institute of Electronics (CIE) Member, ACM Member     
+(12) IEEE Senior Member, China Computer Federation (CCF) Senior Member, Chinese Institute of Electronics (CIE) Member, ACM Member     
 (11) Secretary, Vice Director of the Institute of Computer Networks, Nov. 2022-  
 (10) Executive Committee of CCF TCIoT (Internet of Things), 2022-  
 (9) Academic editor of [Wireless Communications and Mobile Computing](https://www.hindawi.com/journals/wcmc/editors/), 2023-   
