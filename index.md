@@ -68,6 +68,7 @@ Cognitive/symbiotic radio networks; energy harvesting networks; wireless-powered
 
 **Other Publications:**
 
+(J24) **<span style="color: blue">K. Zheng</span>**, R. Luo, X. Liu, J. Qiu, and J. Liu, Distributed DDPG-based resource allocation for age of information minimization in mobile wireless-powered Internet of Things, to appear in **IEEE Internet of Things Journal**, 2024. **(CCF-C)**   
 (J23) **<span style="color: blue">K. Zheng</span>**, J. Wang, A. Chen, W. Sun, X. Liu, and J. Liu, [Spectrum utilization improvement for multi-channel EH-CRN with spectrum sensing](https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/cmu2.12728), to appear in **IET Communications**, 2024. **(CCF-C)**  
 (C5) X. Liu, Y. Xu, J. Liu, H. Takakura, X. Liu, **<span style="color: blue">K. Zheng</span>**, and N. Shiratori, Multi-armed bandit-based secure routing in air-ground integrated networks, in IEEE Wireless Communications and Networking Conference (**WCNC**), Dubai, United Arab Emirates, Apr. 2024. **(CCF-C)**   
 (J22) **<span style="color: blue">K. Zheng</span>**, R. Luo, Z. Wang, X. Liu, and Y. Yao, [Short-term and long-term throughput maximization in mobile wireless-powered Internet of Things](https://ieeexplore.ieee.org/document/10290972), **IEEE Internet of Things Journal**, vol. 11, no. 6, pp. 10575-10591, Mar. 2024. **(CCF-C)**  
