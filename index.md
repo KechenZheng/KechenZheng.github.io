@@ -17,13 +17,14 @@ Cognitive/symbiotic radio networks; energy harvesting networks; wireless-powered
 
 ## Services  
 
-(13) IEEE Senior Member, China Computer Federation (CCF) Senior Member, Chinese Institute of Electronics (CIE) Member, ACM Member     
-(12) Secretary, Vice Director of the Institute of Computer Networks, Nov. 2022-  
-(11) Executive Committee of CCF TCIoT (Internet of Things), 2022-  
-(10) Academic editor of [Wireless Communications and Mobile Computing](https://www.hindawi.com/journals/wcmc/editors/), 2023-2024   
-(9) Guest editor of Sensors (Special Issue: [Cognitive Radio Networks: Technologies, Challenges, and Applications](https://www.mdpi.com/journal/sensors/special_issues/LMGJ4IH614)), 2022-2024  
-(8) Guest editor of WCMC (Special Issue: [Next-Generation Wireless Networks Communication Sustainability, Efficiency, and Security from a Physical Layer Perspective](https://www.hindawi.com/journals/wcmc/si/635205/)), 2022    
-(7) ACM China Young Scholar Academy Forum Chair of [ACM TURC 2023](https://www.acmturc.com/2023/cn/index.html)  
+(14) IEEE Senior Member, China Computer Federation (CCF) Senior Member, Chinese Institute of Electronics (CIE) Member, ACM Member     
+(13) Secretary, Vice Director of the Institute of Computer Networks, Nov. 2022-  
+(12) Executive Committee of CCF TCIoT (Internet of Things), 2022-  
+(11) Academic editor of [Wireless Communications and Mobile Computing](https://www.hindawi.com/journals/wcmc/editors/), 2023-2024   
+(10) Guest editor of Sensors (Special Issue: [Cognitive Radio Networks: Technologies, Challenges, and Applications](https://www.mdpi.com/journal/sensors/special_issues/LMGJ4IH614)), 2022-2024  
+(9) Guest editor of WCMC (Special Issue: [Next-Generation Wireless Networks Communication Sustainability, Efficiency, and Security from a Physical Layer Perspective](https://www.hindawi.com/journals/wcmc/si/635205/)), 2022    
+(8) ACM China Young Scholar Academy Forum Chair of [ACM TURC 2023](https://www.acmturc.com/2023/cn/index.html)  
+(7) TPC member of IEEE Globecom 2024 - NGNI (Next-Generation Networking and Internet)  
 (6) TPC member of IEEE SustainCom 2024 (IEEE International Conference on Sustainable Computing and Communications)     
 (5) TPC member of ICMLCN 2024 (IEEE International Conference on Machine Learning for Communication and Networking)    
 (4) TPC member of SmartData 2023, 2024 (IEEE International Conference on Smart Data)  
