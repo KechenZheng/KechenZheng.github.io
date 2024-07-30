@@ -18,9 +18,9 @@ Cognitive/symbiotic radio networks; energy harvesting networks; wireless-powered
 ## Services  
 
 (16) IEEE Senior Member, China Computer Federation (CCF) Senior Member, Chinese Institute of Electronics (CIE) Member, ACM Member     
-(15) Secretary, Vice Director of the Institute of Computer Networks, Nov. 2022-  
+(15) Secretary, Vice director of the Institute of Computer Networks, Nov. 2022-  
 (14) Executive Committee of CCF TCIoT (Internet of Things), 2022-  
-(13) Handling Editor of the Wiley Editor Community, 2024-  
+(13) Handling editor of the Wiley Editor Community, 2024-  
 (12) Academic editor of [Wireless Communications and Mobile Computing](https://www.hindawi.com/journals/wcmc/editors/), 2023-2024   
 (11) Guest editor of Sensors (Special Issue: [Technologies, Challenges, Applications, and Emerging Trends in Sensor-Enabled Embedded and Ubiquitous Computing](https://www.mdpi.com/journal/sensors/special_issues/21239T4O3Y)), 2024-    
 (10) Guest editor of Sensors (Special Issue: [Cognitive Radio Networks: Technologies, Challenges, and Applications](https://www.mdpi.com/journal/sensors/special_issues/LMGJ4IH614)), 2022-2024  
