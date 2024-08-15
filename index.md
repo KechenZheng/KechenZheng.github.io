@@ -71,7 +71,7 @@ Cognitive/symbiotic radio networks; energy harvesting networks; wireless-powered
 
 **Other Publications:**
 
-(J26) **<span style="color: blue">K. Zheng</span>**, Q. Ye, K. Chi, X. Liu, A. Saad, K. Yu, S. Mumtaz, and M. Guizani, Minimization of task completion time in wireless powered mobile edge-cloud computing networks, to appear in **IEEE Internet of Things Journal**, 2024. **(CCF-C)**  
+(J26) **<span style="color: blue">K. Zheng</span>**, Q. Ye, K. Chi, X. Liu, A. Saad, K. Yu, S. Mumtaz, and M. Guizani, [Minimization of task completion time in wireless powered mobile edge-cloud computing networks](https://ieeexplore.ieee.org/document/10636725), to appear in **IEEE Internet of Things Journal**, 2024. **(CCF-C)**  
 (J25) X.-W. Yao, W.-W. Xing, **<span style="color: blue">K.-C. Zheng</span>**, C.-F. Qi, X.-Y. Li, and Q. Song, [GTDIM: Grid-based two-stage dynamic incentive mechanism for mobile crowd sensing](https://doi.org/10.1016/j.pmcj.2024.101964), to appear in **Pervasive and Mobile Computing**, Article ID 101964, 2024. **(CCF-C)**  
 (J24) **<span style="color: blue">K. Zheng</span>**, R. Luo, X. Liu, J. Qiu, and J. Liu, [Distributed DDPG-based resource allocation for age of information minimization in mobile wireless-powered Internet of Things](https://ieeexplore.ieee.org/document/10540071), to appear in **IEEE Internet of Things Journal**, 2024. **(CCF-C)**   
 (J23) **<span style="color: blue">K. Zheng</span>**, J. Wang, A. Chen, W. Sun, X. Liu, and J. Liu, [Spectrum utilization improvement for multi-channel EH-CRN with spectrum sensing](https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/cmu2.12728), to appear in **IET Communications**, 2024. **(CCF-C)**  
