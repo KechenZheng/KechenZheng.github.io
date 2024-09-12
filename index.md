@@ -48,6 +48,8 @@ Cognitive/symbiotic radio networks; energy harvesting networks; wireless-powered
 
 **Selected Publications:**
 
+(J21) X. Liu, H. Liu, K. Zheng, J. Liu, T. Taleb, and N. Shiratori, AoI-minimal clustering, transmission and
+trajectory co-design for UAV-assisted WPCNs, to appear in **IEEE Transactions on Vehicular Technology**, 2024. (Corresponding author)    
 (J20) X. Liu, X. Li, **<span style="color: blue">K. Zheng\*</span>**, and J. Liu, [AoI minimization of ambient backscatter-assisted EH-CRN with cooperative spectrum sensing](https://www.sciencedirect.com/science/article/abs/pii/S1389128624002214?via%3Dihub), **Computer Networks**, vol. 245, Article ID 110389, May 2024. **(CCF-B)**(Corresponding author)  
 (J19) Y. Zhang, Y. Li, B. Chen, E. Li, **<span style="color: blue">K. Zheng</span>**, K. Chi, and Y.-h. Zhu, [Design of an RFID-based self-jamming identification and sensing platform](https://ieeexplore.ieee.org/document/10138451), **IEEE Transactions on Mobile Computing**, vol. 23, no. 5, pp. 3802-3816, May 2024. **(CCF-A)**  
 (J18) **<span style="color: blue">K. Zheng</span>**, G. Jiang, X. Liu, K. Chi, X. Yao, and J. Liu, [DRL-based offloading for computation delay minimization in wireless-powered multi-access edge computing](https://ieeexplore.ieee.org/document/10019272), **IEEE Transactions on Communications**, vol. 71, no. 3, pp. 1755-1770, Mar. 2023. **(CCF-B)**  
