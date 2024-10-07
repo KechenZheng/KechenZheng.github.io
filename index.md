@@ -31,7 +31,7 @@ Cognitive/symbiotic radio networks; energy harvesting networks; wireless-powered
 (5) TPC member of ICMLCN 2024 (IEEE International Conference on Machine Learning for Communication and Networking)    
 (4) TPC member of SmartData 2023, 2024 (IEEE International Conference on Smart Data)  
 (3) PC member of ICCNC 2024 (International Conference on Cloud and Network Computing)  
-(2) TPC member of IEEE ICC'22, 23, 24 - CRAIN Symposium (Cognitive Radio and AI-Enabled Networks), IEEE ICC'20 - MWN Symposium (Mobile and Wireless Networks)  
+(2) TPC member of IEEE ICC'2022-2025 - CRAIN Symposium (Cognitive Radio and AI-Enabled Networks), IEEE ICC'2020 - MWN Symposium (Mobile and Wireless Networks)  
 (1) Reviewers of IEEE/ACM Transactions on Networking, IEEE Transactions on Mobile Computing, IEEE Transactions on Wireless Communications, and so on.
 
 ## Projects
