@@ -35,7 +35,7 @@ Cognitive/symbiotic radio networks; energy harvesting networks; wireless-powered
 (1) Reviewers of IEEE/ACM Transactions on Networking, IEEE Transactions on Mobile Computing, IEEE Transactions on Wireless Communications, and so on.
 
 ## Projects
-(P8) **NSFC** No. 62372413, Research on mode construction and cooperative transmission mechanism of symbiotic radio networks   (¥ 500,000, 1/4, 2024-2027)   
+(P8) **NSFC** No. 62372413, Research on mode construction and cooperative transmission mechanism of symbiotic radio networks (¥ 500,000, 1/4, 2024-2027)   
 (P7) **NSFC** No. 62372412, Research on resource optimization and transmission mechanism for wireless powered IoT based on information freshness (¥ 500,000, 2/3, 2024-2027)   
 (P6) No. RF-A2022005, Fundamental Research Funds for the Provincial Universities of Zhejiang (¥ 100,000, 1/4, 2023-2025)  
 (P5) Zhejiang Provincial Natural Science Foundation of China, No. LY21F020022, Research on multiband cooperative spectrum sensing in wireless powered Internet of Things (¥ 100,000, 1/7, 2021-2023)  
@@ -72,7 +72,7 @@ Cognitive/symbiotic radio networks; energy harvesting networks; wireless-powered
 
 **Other Publications:**
 
-(J27) X. Liu, X. Kuang, Y. Chen, **<span style="color: blue">K. Zheng</span>**, J. Liu, Probing-aided spectrum sensing-based hybrid access strategy for energy harvesting CRNs, to appear in **Computer Communications**, 2024. **(CCF-C)**  
+(J27) X. Liu, X. Kuang, Y. Chen, **<span style="color: blue">K. Zheng</span>**, J. Liu, Probing-aided spectrum sensing-based hybrid access strategy for energy harvesting CRNs, to appear in **Computer Communications**, 2024. **(CCF-C)**(Corresponding author)  
 (J26) **<span style="color: blue">K. Zheng</span>**, Q. Ye, K. Chi, X. Liu, A. Saad, K. Yu, S. Mumtaz, and M. Guizani, [Minimization of task completion time in wireless powered mobile edge-cloud computing networks](https://ieeexplore.ieee.org/document/10636725), to appear in **IEEE Internet of Things Journal**, 2024. **(CCF-C)**  
 (J25) X.-W. Yao, W.-W. Xing, **<span style="color: blue">K.-C. Zheng</span>**, C.-F. Qi, X.-Y. Li, and Q. Song, [GTDIM: Grid-based two-stage dynamic incentive mechanism for mobile crowd sensing](https://doi.org/10.1016/j.pmcj.2024.101964), **Pervasive and Mobile Computing**, vol. 103, Article ID 101964, Oct. 2024. **(CCF-C)**  
 (J24) **<span style="color: blue">K. Zheng</span>**, R. Luo, X. Liu, J. Qiu, and J. Liu, [Distributed DDPG-based resource allocation for age of information minimization in mobile wireless-powered Internet of Things](https://ieeexplore.ieee.org/document/10540071), **IEEE Internet of Things Journal**, vol. 11, no. 17, pp. 29102-29115, Sep. 2024. **(CCF-C)**   
