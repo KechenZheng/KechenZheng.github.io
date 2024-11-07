@@ -72,8 +72,8 @@ Cognitive/symbiotic radio networks; energy harvesting networks; wireless-powered
 
 **Other Publications:**
 
-(J29) X. Liu, H. Liu, B. Zhou, **<span style="color: blue">K. Zheng\*</span>**, Trajectory design and transmission
- optimization for data freshness in UAVs-assisted WPCNs, to appear in **IET Communications**, 2024. **(CCF-C)**(Corresponding author)  
+(J29) X. Liu, H. Liu, B. Zhou, **<span style="color: blue">K. Zheng\*</span>**, [Trajectory design and transmission
+ optimization for data freshness in UAVs-assisted WPCNs](https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/cmu2.12860), to appear in **IET Communications**, 2024. **(CCF-C)**(Corresponding author)  
 (J28) X. Liu, X. Kuang, Z. Li, **<span style="color: blue">K. Zheng\*</span>**, [Joint channel allocation and transmit power control for underlay EH-CRNs: A clustering-based multi-agent DDPG approach](https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/cmu2.12852), to appear in **IET Communications**, 2024. **(CCF-C)**(Corresponding author)  
 (J27) X. Liu, X. Kuang, Y. Chen, **<span style="color: blue">K. Zheng\*</span>**, J. Liu, [Probing-aided spectrum sensing-based hybrid access strategy for energy harvesting CRNs](https://www.sciencedirect.com/science/article/pii/S0140366424003207),  **Computer Communications**, vol. 228, Article ID 107973, Dec. 2024. **(CCF-C)**(Corresponding author)  
 (J26) **<span style="color: blue">K. Zheng</span>**, Q. Ye, K. Chi, X. Liu, A. Saad, K. Yu, S. Mumtaz, and M. Guizani, [Minimization of task completion time in wireless powered mobile edge-cloud computing networks](https://ieeexplore.ieee.org/document/10636725), to appear in **IEEE Internet of Things Journal**, 2024. **(CCF-C)**  
