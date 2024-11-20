@@ -48,7 +48,7 @@ Cognitive/symbiotic radio networks; energy harvesting networks; wireless-powered
 
 **Selected Publications:**
 
-(J22) X. Liu, A. Chen, **<span style="color: blue">K. Zheng</span>**, K. Chi, B. Yang, and T. Taleb, Distributed computation offloading for energy provision minimization in WP-MEC networks with multiple HAPs, to appear in **IEEE Transactions on Mobile Computing**, 2024. **(CCF-A)**  
+(J22) X. Liu, A. Chen, **<span style="color: blue">K. Zheng</span>**, K. Chi, B. Yang, and T. Taleb, [Distributed computation offloading for energy provision minimization in WP-MEC networks with multiple HAPs](https://ieeexplore.ieee.org/document/10756636), to appear in **IEEE Transactions on Mobile Computing**, 2024. **(CCF-A)**  
 (J21) X. Liu, H. Liu, **<span style="color: blue">K. Zheng\*</span>**, J. Liu, T. Taleb, and N. Shiratori, [AoI-minimal clustering, transmission and trajectory co-design for UAV-assisted WPCNs](https://ieeexplore.ieee.org/document/10680376), to appear in **IEEE Transactions on Vehicular Technology**, 2024. (Corresponding author)    
 (J20) X. Liu, X. Li, **<span style="color: blue">K. Zheng\*</span>**, and J. Liu, [AoI minimization of ambient backscatter-assisted EH-CRN with cooperative spectrum sensing](https://www.sciencedirect.com/science/article/abs/pii/S1389128624002214?via%3Dihub), **Computer Networks**, vol. 245, Article ID 110389, May 2024. **(CCF-B)**(Corresponding author)  
 (J19) Y. Zhang, Y. Li, B. Chen, E. Li, **<span style="color: blue">K. Zheng</span>**, K. Chi, and Y.-h. Zhu, [Design of an RFID-based self-jamming identification and sensing platform](https://ieeexplore.ieee.org/document/10138451), **IEEE Transactions on Mobile Computing**, vol. 23, no. 5, pp. 3802-3816, May 2024. **(CCF-A)**  
