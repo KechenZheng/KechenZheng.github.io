@@ -75,6 +75,7 @@ Cognitive/symbiotic radio networks; energy harvesting networks; wireless-powered
 
 **Other Publications:**
 
+(J30) Y. Xu, **<span style="color: blue">K. Zheng\*</span>**, X. Liu, Z. Li, J. Liu, Cognitive radio networks: Technologies, challenges and applications, to appear in **Sensors**, 2025. (Corresponding author)  
 (J29) X. Liu, H. Liu, B. Zhou, **<span style="color: blue">K. Zheng\*</span>**, [Trajectory design and transmission
  optimization for data freshness in UAVs-assisted WPCNs](https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/cmu2.12860), **IET Communications**, vol. 18, no. 19, pp. 1650-1663, Dec. 2024. **(CCF-C)**(Corresponding author)  
 (J28) X. Liu, X. Kuang, Z. Li, **<span style="color: blue">K. Zheng\*</span>**, [Joint channel allocation and transmit power control for underlay EH-CRNs: A clustering-based multi-agent DDPG approach](https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/cmu2.12852), **IET Communications**, vol. 18, no. 19, pp. 1574-1587, Dec. 2024. **(CCF-C)**(Corresponding author)  
