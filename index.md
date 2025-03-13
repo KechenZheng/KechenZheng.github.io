@@ -75,7 +75,7 @@ Cognitive/symbiotic radio networks; energy harvesting networks; wireless-powered
 
 **Other Publications:**
 
-(J30) **<span style="color: blue">K. Zheng</span>**, J. Fu, X. Liu, Relay selection and deployment for NOMA enabled multi-UAV-assisted WSN, to appear in **IEEE Sensors Journal**, 2025.  
+(J30) **<span style="color: blue">K. Zheng</span>**, J. Fu, and X. Liu, Relay selection and deployment for NOMA enabled multi-UAV-assisted WSN, to appear in **IEEE Sensors Journal**, 2025.  
 (J29) X. Liu, H. Liu, B. Zhou, **<span style="color: blue">K. Zheng\*</span>**, [Trajectory design and transmission
  optimization for data freshness in UAVs-assisted WPCNs](https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/cmu2.12860), **IET Communications**, vol. 18, no. 19, pp. 1650-1663, Dec. 2024. **(CCF-C)**(Corresponding author)  
 (J28) X. Liu, X. Kuang, Z. Li, **<span style="color: blue">K. Zheng\*</span>**, [Joint channel allocation and transmit power control for underlay EH-CRNs: A clustering-based multi-agent DDPG approach](https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/cmu2.12852), **IET Communications**, vol. 18, no. 19, pp. 1574-1587, Dec. 2024. **(CCF-C)**(Corresponding author)  
