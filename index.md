@@ -26,7 +26,7 @@ Cognitive/symbiotic radio networks; energy harvesting networks; wireless-powered
 (10) Guest editor of Sensors (Special Issue: [Cognitive Radio Networks: Technologies, Challenges and Applications](https://www.mdpi.com/journal/sensors/special_issues/LMGJ4IH614)), 2022-2024  
 (9) Guest editor of WCMC (Special Issue: [Next-Generation Wireless Networks Communication Sustainability, Efficiency, and Security from a Physical Layer Perspective](https://www.hindawi.com/journals/wcmc/si/635205/)), 2022    
 (8) ACM China Young Scholar Academy Forum Chair of [ACM TURC 2023](https://www.acmturc.com/2023/cn/index.html), ACM China Student Event Chair of [ACM TURC 2024](https://www.acmturc.com/2024/#/index)   
-(7) TPC member of IEEE Globecom 2024, 2025 - NGNI (Next-Generation Networking and Internet)  
+(7) TPC member of IEEE Globecom 2024, 2025 - NGNI (Next-Generation Networking and Internet), IEEE Globecom 2025 - SAC-MLCN (Selected Areas in Communications: Machine Learning for Communications and Networking)  
 (6) TPC member of IEEE SustainCom 2024 (IEEE International Conference on Sustainable Computing and Communications)     
 (5) TPC member of ICMLCN 2024, 2025 (IEEE International Conference on Machine Learning for Communication and Networking)    
 (4) TPC member of SmartData 2023, 2024 (IEEE International Conference on Smart Data)  
@@ -75,7 +75,7 @@ Cognitive/symbiotic radio networks; energy harvesting networks; wireless-powered
 
 **Other Publications:**
 
-(J32) X. Liu, B. Zhou, X. Tian, W. Gong, and **<span style="color: blue">K. Zheng\*</span>**, [Energy consumption minimization for delay-sensitive data collection in AAV-assisted WSN](https://ieeexplore.ieee.org/document/10967099), to appear in **IEEE Sensors Journal**, 2025. (Corresponding author)   
+(J32) X. Liu, B. Zhou, X. Tian, W. Gong, and **<span style="color: blue">K. Zheng\*</span>**, [Energy consumption minimization for delay-sensitive data collection in AAV-assisted WSN](https://ieeexplore.ieee.org/document/10967099), **IEEE Sensors Journal**, vol. 25, no. 10, pp. 18394-18408, May 2025. (Corresponding author)   
 (J31) **<span style="color: blue">K. Zheng</span>**, J. Fu, and X. Liu, [Relay selection and deployment for NOMA-enabled multi-AAV-assisted WSN](https://ieeexplore.ieee.org/document/10938097), **IEEE Sensors Journal**, vol. 25, no. 9, pp. 16235-16249, May 2025.  
 (J30) Y. Xu, **<span style="color: blue">K. Zheng\*</span>**, X. Liu, Z. Li, J. Liu, [Cognitive radio networks: Technologies, challenges and applications](https://www.mdpi.com/1424-8220/25/4/1011), **Sensors**, vol. 25, no. 4, p. 1011, Feb. 2025. (Corresponding author)  
 (J29) X. Liu, H. Liu, B. Zhou, **<span style="color: blue">K. Zheng\*</span>**, [Trajectory design and transmission
