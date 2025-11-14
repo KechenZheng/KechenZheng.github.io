@@ -76,7 +76,7 @@ Cognitive/symbiotic radio networks; energy harvesting networks; wireless-powered
 
 **Other Publications:**
 
-(J33) X. Liu, H. Wang, **<span style="color: blue">K. Zheng\*</span>**, and K. Chi, Throughput maximization of IoT transmission in STAR-RIS-aided symbiotic radio networks, **IEEE Internet of Things Journal**, to appear in 2025.  
+(J33) X. Liu, H. Wang, **<span style="color: blue">K. Zheng</span>**, and K. Chi, Throughput maximization of IoT transmission in STAR-RIS-aided symbiotic radio networks, **IEEE Internet of Things Journal**, to appear in 2025.  
 (J32) X. Liu, B. Zhou, X. Tian, W. Gong, and **<span style="color: blue">K. Zheng\*</span>**, [Energy consumption minimization for delay-sensitive data collection in AAV-assisted WSN](https://ieeexplore.ieee.org/document/10967099), **IEEE Sensors Journal**, vol. 25, no. 10, pp. 18394-18408, May 2025. (Corresponding author)   
 (J31) **<span style="color: blue">K. Zheng</span>**, J. Fu, and X. Liu, [Relay selection and deployment for NOMA-enabled multi-AAV-assisted WSN](https://ieeexplore.ieee.org/document/10938097), **IEEE Sensors Journal**, vol. 25, no. 9, pp. 16235-16249, May 2025.  
 (J30) Y. Xu, **<span style="color: blue">K. Zheng\*</span>**, X. Liu, Z. Li, J. Liu, [Cognitive radio networks: Technologies, challenges and applications](https://www.mdpi.com/1424-8220/25/4/1011), **Sensors**, vol. 25, no. 4, p. 1011, Feb. 2025. (Corresponding author)  
