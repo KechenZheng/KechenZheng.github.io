@@ -136,9 +136,9 @@ Awarded all-round good student of Shanghai Jiao Tong University in 2016
 
 212533 Wireless Networking Technology (2019-2023)   
 G126120 Communication Technology of Internet of Things (2021)  
-G126046 Computer Networks (2020-2024)  
-G726014 Computer Networks Curriculum Design (2020-2024)  
-212579 Modern Network Technology and Application (2022-2024)  
+G126046 Computer Networks (2020-2025)  
+G726014 Computer Networks Curriculum Design (2020-2025)  
+212579 Modern Network Technology and Application (2022-2025)  
 
 ## Master and PHD students
 
