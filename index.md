@@ -17,15 +17,16 @@ Cognitive/symbiotic radio networks; energy harvesting networks; wireless-powered
 
 ## Services  
 
-(17) IEEE Senior Member, China Computer Federation (CCF) Senior Member, Chinese Institute of Electronics (CIE) Member, ACM Member     
-(16) Secretary, Vice director of the Institute of Computer Networks, Nov. 2022-  
-(15) Executive Committee of CCF TCIoT (Internet of Things), 2022-  
-(14) Handling editor of the Wiley Editor Community, 2024-  
-(13) Academic editor of [Wireless Communications and Mobile Computing](https://www.hindawi.com/journals/wcmc/editors/), 2023-2024   
-(12) Guest editor of Sensors (Special Issue: [Technologies, Challenges, Applications, and Emerging Trends in Sensor-Enabled Embedded and Ubiquitous Computing](https://www.mdpi.com/journal/sensors/special_issues/21239T4O3Y)), 2024-    
-(11) Guest editor of Sensors (Special Issue: [Cognitive Radio Networks: Technologies, Challenges and Applications](https://www.mdpi.com/journal/sensors/special_issues/LMGJ4IH614)), 2022-2024  
-(10) Guest editor of WCMC (Special Issue: [Next-Generation Wireless Networks Communication Sustainability, Efficiency, and Security from a Physical Layer Perspective](https://www.hindawi.com/journals/wcmc/si/635205/)), 2022    
-(9) ACM China Young Scholar Academy Forum Chair of [ACM TURC 2023](https://www.acmturc.com/2023/cn/index.html), ACM China Student Event Chair of [ACM TURC 2024](https://www.acmturc.com/2024/#/index)   
+(18) IEEE Senior Member, China Computer Federation (CCF) Senior Member, Chinese Institute of Electronics (CIE) Member, ACM Member     
+(17) Secretary, Vice director of the Institute of Computer Networks, Nov. 2022-  
+(16) Executive Committee of CCF TCIoT (Internet of Things), 2022-  
+(15) Handling editor of the Wiley Editor Community, 2024-  
+(14) Academic editor of [Wireless Communications and Mobile Computing](https://www.hindawi.com/journals/wcmc/editors/), 2023-2024   
+(13) Guest editor of Sensors (Special Issue: [Technologies, Challenges, Applications, and Emerging Trends in Sensor-Enabled Embedded and Ubiquitous Computing](https://www.mdpi.com/journal/sensors/special_issues/21239T4O3Y)), 2024-    
+(12) Guest editor of Sensors (Special Issue: [Cognitive Radio Networks: Technologies, Challenges and Applications](https://www.mdpi.com/journal/sensors/special_issues/LMGJ4IH614)), 2022-2024  
+(11) Guest editor of WCMC (Special Issue: [Next-Generation Wireless Networks Communication Sustainability, Efficiency, and Security from a Physical Layer Perspective](https://www.hindawi.com/journals/wcmc/si/635205/)), 2022    
+(10) ACM China Young Scholar Academy Forum Chair of [ACM TURC 2023](https://www.acmturc.com/2023/cn/index.html), ACM China Student Event Chair of [ACM TURC 2024](https://www.acmturc.com/2024/#/index)   
+(9) TPC member of MILCOM 2026 - (TRACK 5 – AI/ML for Communication and Networking)  
 (8) TPC member of IEEE ICPADS 2025 (IEEE International Conference on Parallel and Distributed Systems)     
 (7) TPC member of IEEE Globecom 2024-2026 - NGNI (Next-Generation Networking and Internet), IEEE Globecom 2025, 2026 - SAC-MLCN (Selected Areas in Communications: Machine Learning for Communications and Networking)  
 (6) TPC member of IEEE SustainCom 2024 (IEEE International Conference on Sustainable Computing and Communications)     
@@ -51,7 +52,7 @@ Cognitive/symbiotic radio networks; energy harvesting networks; wireless-powered
 
 **Selected Publications:**
 
-(J24) X. Liu, J. Zheng, **<span style="color: blue">K. Zheng\*</span>**, J. Liu, T. Taleb, and N. Shiratori, AoI minimization in heterogeneous MEC networks: A federated learning-assisted hybrid DRL and convex approach, to appear in **IEEE Transactions on Mobile Computing**, 2026. **(CCF-A**, Corresponding author)  
+(J24) X. Liu, J. Zheng, **<span style="color: blue">K. Zheng\*</span>**, J. Liu, T. Taleb, and N. Shiratori, [AoI minimization in heterogeneous MEC networks: A federated learning-assisted hybrid DRL and convex approach](https://ieeexplore.ieee.org/abstract/document/11434923), to appear in **IEEE Transactions on Mobile Computing**, 2026. **(CCF-A**, Corresponding author)  
 (J23) X. Liu, J. Xu, **<span style="color: blue">K. Zheng\*</span>**, G. Zhang, J. Liu, and N. Shiratori, [Throughput maximization with an AoI constraint in energy harvesting D2D-enabled cellular networks: An MSRA-TD3 approach](https://ieeexplore.ieee.org/document/10791438), **IEEE Transactions on Wireless Communications**, vol. 24, no. 2, pp. 1448-1466, Feb. 2025. **(CCF-B, Corresponding author, ESI highly cited paper)**      
 (J22) X. Liu, A. Chen, **<span style="color: blue">K. Zheng</span>**, K. Chi, B. Yang, and T. Taleb, [Distributed computation offloading for energy provision minimization in WP-MEC networks with multiple HAPs](https://ieeexplore.ieee.org/document/10756636), **IEEE Transactions on Mobile Computing**, vol. 24, no. 4, pp. 2673-2689, Apr. 2025. **(CCF-A, ESI highly cited paper, ESI hot paper)**   
 (J21) X. Liu, H. Liu, **<span style="color: blue">K. Zheng\*</span>**, J. Liu, T. Taleb, and N. Shiratori, [AoI-minimal clustering, transmission and trajectory co-design for UAV-assisted WPCNs](https://ieeexplore.ieee.org/document/10680376), **IEEE Transactions on Vehicular Technology**, vol. 74, no. 1, pp. 1035-1051, Jan. 2025. (Corresponding author, **ESI highly cited paper, ESI hot paper)**    
