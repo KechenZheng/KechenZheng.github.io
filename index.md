@@ -79,7 +79,7 @@ Cognitive/symbiotic radio networks; energy harvesting networks; wireless-powered
 
 **Other Publications:**
 
-(J34) **<span style="color: blue">K. Zheng</span>**, Z. Li, X. Liu, J. Liu, T. Taleb, and N. Shiratori, [Throughput maximization for backscatter communication in cell-free symbiotic radio networks with hybrid CSR-PSR](https://ieeexplore.ieee.org/document/11367643), **IEEE Internet of Things Journal**, to appear in 2026.  
+(J34) **<span style="color: blue">K. Zheng</span>**, Z. Li, X. Liu, J. Liu, T. Taleb, and N. Shiratori, [Throughput maximization for backscatter communication in cell-free symbiotic radio networks with hybrid CSR-PSR](https://ieeexplore.ieee.org/document/11367643), **IEEE Internet of Things Journal**, vol. 13, no. 8, pp. 16245-16262, Apr. 2026.  
 (J33) X. Liu, H. Wang, **<span style="color: blue">K. Zheng</span>**, and K. Chi, [Throughput maximization of IoT transmission in STAR-RIS-aided symbiotic radio networks](https://ieeexplore.ieee.org/document/11250688), **IEEE Internet of Things Journal**, vol. 13, no. 2, pp. 3371-3388, Jan. 2026.    
 (J32) X. Liu, B. Zhou, X. Tian, W. Gong, and **<span style="color: blue">K. Zheng\*</span>**, [Energy consumption minimization for delay-sensitive data collection in AAV-assisted WSN](https://ieeexplore.ieee.org/document/10967099), **IEEE Sensors Journal**, vol. 25, no. 10, pp. 18394-18408, May 2025. (Corresponding author)   
 (J31) **<span style="color: blue">K. Zheng</span>**, J. Fu, and X. Liu, [Relay selection and deployment for NOMA-enabled multi-AAV-assisted WSN](https://ieeexplore.ieee.org/document/10938097), **IEEE Sensors Journal**, vol. 25, no. 9, pp. 16235-16249, May 2025. (**ESI highly cited paper, ESI hot paper**)  
