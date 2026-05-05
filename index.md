@@ -22,10 +22,10 @@ Cognitive/symbiotic radio networks; energy harvesting networks; wireless-powered
 (17) Executive Committee of CCF TCIoT (Internet of Things), 2022-  
 (16) Handling editor of the Wiley Editor Community, 2024-  
 (15) Academic editor of [Wireless Communications and Mobile Computing](https://www.hindawi.com/journals/wcmc/editors/), 2023-2024   
-(14) Guest editor of Sensors (Special Issue: [Embodied Intelligent Wireless Systems: Key Technologies, Applications, and Challenges](https://www.mdpi.com/journal/sensors/special_issues/P8T5G4VN67)), 2026-    
-(13) Guest editor of Sensors (Special Issue: [Technologies, Challenges, Applications, and Emerging Trends in Sensor-Enabled Embedded and Ubiquitous Computing](https://www.mdpi.com/journal/sensors/special_issues/21239T4O3Y)), 2024-2026    
-(12) Guest editor of Sensors (Special Issue: [Cognitive Radio Networks: Technologies, Challenges and Applications](https://www.mdpi.com/journal/sensors/special_issues/LMGJ4IH614)), 2022-2024  
-(11) Guest editor of WCMC (Special Issue: [Next-Generation Wireless Networks Communication Sustainability, Efficiency, and Security from a Physical Layer Perspective](https://www.hindawi.com/journals/wcmc/si/635205/)), 2022    
+(14) Guest editor of Sensors (Special issue: [Embodied Intelligent Wireless Systems: Key Technologies, Applications, and Challenges](https://www.mdpi.com/journal/sensors/special_issues/P8T5G4VN67)), 2026-    
+(13) Guest editor of Sensors (Special issue: [Technologies, Challenges, Applications, and Emerging Trends in Sensor-Enabled Embedded and Ubiquitous Computing](https://www.mdpi.com/journal/sensors/special_issues/21239T4O3Y)), 2024-2026    
+(12) Guest editor of Sensors (Special issue: [Cognitive Radio Networks: Technologies, Challenges and Applications](https://www.mdpi.com/journal/sensors/special_issues/LMGJ4IH614)), 2022-2024  
+(11) Guest editor of WCMC (Special issue: [Next-Generation Wireless Networks Communication Sustainability, Efficiency, and Security from a Physical Layer Perspective](https://www.hindawi.com/journals/wcmc/si/635205/)), 2022    
 (10) ACM China Young Scholar Academy Forum Chair of [ACM TURC 2023](https://www.acmturc.com/2023/cn/index.html), ACM China Student Event Chair of [ACM TURC 2024](https://www.acmturc.com/2024/#/index)   
 (9) TPC member of MILCOM 2026 - (TRACK 5 – AI/ML for Communication and Networking)  
 (8) TPC member of IEEE ICPADS 2025 (IEEE International Conference on Parallel and Distributed Systems)     
