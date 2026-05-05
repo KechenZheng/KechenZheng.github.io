@@ -80,7 +80,7 @@ Cognitive/symbiotic radio networks; energy harvesting networks; wireless-powered
 
 **Other Publications:**
 
-(C6) Y. Chen, Z. Li, **<span style="color: blue">K. Zheng</span>**, AoI-aware offloading decision and scheduling order for edge-cloud computing networks: A multi-agent DRL framework, in International Conference on Intelligent Computing, Toronto, Canada, Jul. 2026.  (Corresponding author)  
+(C6) Y. Chen, Z. Li, **<span style="color: blue">K. Zheng</span>**, AoI-aware offloading decision and scheduling order for edge-cloud computing networks: A multi-agent DRL framework, in International Conference on Intelligent Computing, Toronto, Canada, Jul. 2026.  **(CCF-C**, Corresponding author)  
 (J34) **<span style="color: blue">K. Zheng</span>**, Z. Li, X. Liu, J. Liu, T. Taleb, and N. Shiratori, [Throughput maximization for backscatter communication in cell-free symbiotic radio networks with hybrid CSR-PSR](https://ieeexplore.ieee.org/document/11367643), **IEEE Internet of Things Journal**, vol. 13, no. 8, pp. 16245-16262, Apr. 2026.  
 (J33) X. Liu, H. Wang, **<span style="color: blue">K. Zheng</span>**, and K. Chi, [Throughput maximization of IoT transmission in STAR-RIS-aided symbiotic radio networks](https://ieeexplore.ieee.org/document/11250688), **IEEE Internet of Things Journal**, vol. 13, no. 2, pp. 3371-3388, Jan. 2026.    
 (J32) X. Liu, B. Zhou, X. Tian, W. Gong, and **<span style="color: blue">K. Zheng\*</span>**, [Energy consumption minimization for delay-sensitive data collection in AAV-assisted WSN](https://ieeexplore.ieee.org/document/10967099), **IEEE Sensors Journal**, vol. 25, no. 10, pp. 18394-18408, May 2025. (Corresponding author)   
