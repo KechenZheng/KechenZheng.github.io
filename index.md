@@ -17,18 +17,19 @@ Cognitive/symbiotic radio networks; energy harvesting networks; wireless-powered
 
 ## Services  
 
-(18) IEEE Senior Member, China Computer Federation (CCF) Senior Member, Chinese Institute of Electronics (CIE) Member, ACM Member     
-(17) Secretary, Vice director of the Institute of Computer Networks, Nov. 2022-  
-(16) Executive Committee of CCF TCIoT (Internet of Things), 2022-  
-(15) Handling editor of the Wiley Editor Community, 2024-  
-(14) Academic editor of [Wireless Communications and Mobile Computing](https://www.hindawi.com/journals/wcmc/editors/), 2023-2024   
-(13) Guest editor of Sensors (Special Issue: [Technologies, Challenges, Applications, and Emerging Trends in Sensor-Enabled Embedded and Ubiquitous Computing](https://www.mdpi.com/journal/sensors/special_issues/21239T4O3Y)), 2024-    
+(19) IEEE Senior Member, China Computer Federation (CCF) Senior Member, Chinese Institute of Electronics (CIE) Member, ACM Member     
+(18) Secretary, Vice director of the Institute of Computer Networks, Nov. 2022-  
+(17) Executive Committee of CCF TCIoT (Internet of Things), 2022-  
+(16) Handling editor of the Wiley Editor Community, 2024-  
+(15) Academic editor of [Wireless Communications and Mobile Computing](https://www.hindawi.com/journals/wcmc/editors/), 2023-2024   
+(14) Guest editor of Sensors (Special Issue: [Embodied Intelligent Wireless Systems: Key Technologies, Applications, and Challenges](https://www.mdpi.com/journal/sensors/special_issues/P8T5G4VN67)), 2026-    
+(13) Guest editor of Sensors (Special Issue: [Technologies, Challenges, Applications, and Emerging Trends in Sensor-Enabled Embedded and Ubiquitous Computing](https://www.mdpi.com/journal/sensors/special_issues/21239T4O3Y)), 2024-2026    
 (12) Guest editor of Sensors (Special Issue: [Cognitive Radio Networks: Technologies, Challenges and Applications](https://www.mdpi.com/journal/sensors/special_issues/LMGJ4IH614)), 2022-2024  
 (11) Guest editor of WCMC (Special Issue: [Next-Generation Wireless Networks Communication Sustainability, Efficiency, and Security from a Physical Layer Perspective](https://www.hindawi.com/journals/wcmc/si/635205/)), 2022    
 (10) ACM China Young Scholar Academy Forum Chair of [ACM TURC 2023](https://www.acmturc.com/2023/cn/index.html), ACM China Student Event Chair of [ACM TURC 2024](https://www.acmturc.com/2024/#/index)   
 (9) TPC member of MILCOM 2026 - (TRACK 5 – AI/ML for Communication and Networking)  
 (8) TPC member of IEEE ICPADS 2025 (IEEE International Conference on Parallel and Distributed Systems)     
-(7) TPC member of IEEE Globecom 2024-2026 - NGNI (Next-Generation Networking and Internet), IEEE Globecom 2025, 2026 - SAC-MLCN (Selected Areas in Communications: Machine Learning for Communications and Networking)  
+(7) TPC member of IEEE Globecom 2024-2026 - NGNI (Next-Generation Networking and Internet), IEEE Globecom 2025, 2026 - MLCN (Machine Learning for Communications and Networking), IEEE Globecom 2026 - CECN (Cloud/Edge Computing and Networking)    
 (6) TPC member of IEEE SustainCom 2024 (IEEE International Conference on Sustainable Computing and Communications)     
 (5) TPC member of ICMLCN 2024-2026 (IEEE International Conference on Machine Learning for Communication and Networking)    
 (4) TPC member of SmartData 2023, 2024 (IEEE International Conference on Smart Data)  
