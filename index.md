@@ -81,7 +81,7 @@ Cognitive/symbiotic radio networks; energy harvesting networks; wireless-powered
 
 **Other Publications:**
 
-(C8) Z. Li,  **<span style="color: blue">K. Zheng</span>**, and X. Liu, Dependency-aware task offloading and resource allocation in edge-cloud collaborative computing, in IEEE Global Communications Conference (**Globecom**), Macau, China, Dec. 2026.  
+(C8) Z. Li,  **<span style="color: blue">K. Zheng</span>**, and X. Liu, Dependency-aware task offloading and resource allocation in edge-cloud collaborative computing, in IEEE Global Communications Conference (**Globecom**), Macau, China, Dec. 2026. **(CCF-C)**   
 (C7) Z. Li, Y. Chen, **<span style="color: blue">K. Zheng\*</span>**, and X. Liu, A MAPPO framework for service caching and computation resource allocation in mobile edge-cloud computing networks, in the 20th China Computer Federation Internet of Things Conference (**CWSN**), Harbin, China, Jul. 2026.  
 (J35) A. Jia, Z. Cai, X. Liu, **<span style="color: blue">K. Zheng</span>**, and J. Liu, [From sensor-empowered ubiquitous computing to embodied intelligence: Architectures, paradigm evolution, and emerging challenges](https://www.mdpi.com/1424-8220/26/14/4352), **Sensors**, vol. 26, no. 14, p. 4352, Jul. 2026.    
 (C6) Y. Chen, Z. Li, **<span style="color: blue">K. Zheng\*</span>**, [AoI-aware offloading decision and scheduling order for edge-cloud computing networks: A multi-agent DRL framework](https://books.google.com.hk/books?hl=zh-CN&lr=&id=_XD0EQAAQBAJ&oi=fnd&pg=PA202&ots=0iuhdc_IcL&sig=NvQh4Y9dcmb2WCfr9jmzoTjTfS4&redir_esc=y#v=onepage&q&f=false), in International Conference on Intelligent Computing (**ICIC**), Toronto, Canada, Jul. 2026.  **(CCF-C**, Corresponding author)  
