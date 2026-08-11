@@ -80,6 +80,7 @@ Cognitive/symbiotic radio networks; energy harvesting networks; wireless-powered
 (J1) **<span style="color: blue">K. Zheng</span>**, J. Luo, J. Zhang, W. Wu, X. Tian, and X. Wang, [Cooperation improves delay in cognitive networks with hybrid random walk](https://ieeexplore.ieee.org/document/7070747),  **IEEE Transactions on Communications**, vol. 63, no. 6, pp. 1988-2000, Jun. 2015. **(CCF-B)**  
 
 **Other Publications:**
+
 (C8) Z. Li,  **<span style="color: blue">K. Zheng</span>**, and X. Liu, Dependency-aware task offloading and resource allocation in edge-cloud collaborative computing, in IEEE Global Communications Conference (**Globecom**), Macau, China, Dec. 2026.  
 (C7) Z. Li, Y. Chen, **<span style="color: blue">K. Zheng\*</span>**, and X. Liu, A MAPPO framework for service caching and computation resource allocation in mobile edge-cloud computing networks, in the 20th China Computer Federation Internet of Things Conference (**CWSN**), Harbin, China, Jul. 2026.  
 (J35) A. Jia, Z. Cai, X. Liu, **<span style="color: blue">K. Zheng</span>**, and J. Liu, [From sensor-empowered ubiquitous computing to embodied intelligence: Architectures, paradigm evolution, and emerging challenges](https://www.mdpi.com/1424-8220/26/14/4352), **Sensors**, vol. 26, no. 14, p. 4352, Jul. 2026.    
