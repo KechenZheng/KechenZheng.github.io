@@ -34,7 +34,7 @@ Cognitive/symbiotic radio networks; energy harvesting networks; wireless-powered
 (5) TPC member of ICMLCN 2024-2026 (IEEE International Conference on Machine Learning for Communication and Networking)    
 (4) TPC member of SmartData 2023, 2024 (IEEE International Conference on Smart Data)  
 (3) PC member of ICCNC 2024 (International Conference on Cloud and Network Computing)  
-(2) TPC member of IEEE ICC'2022-2026 - CRAIN Symposium (Cognitive Radio and AI-Enabled Networks), IEEE ICC'2020 - MWN Symposium (Mobile and Wireless Networks)  
+(2) TPC member of IEEE ICC'2022-2027 - CRAIN Symposium (Cognitive Radio and AI-Enabled Networks), IEEE ICC'2020 - MWN Symposium (Mobile and Wireless Networks)  
 (1) Reviewers of IEEE/ACM Transactions on Networking, IEEE Transactions on Mobile Computing, IEEE Transactions on Wireless Communications, and so on.
 
 ## Projects
@@ -146,9 +146,9 @@ Awarded all-round good student of Shanghai Jiao Tong University in 2016
 
 212533 Wireless Networking Technology (2019-2023)   
 G126120 Communication Technology of Internet of Things (2021)  
-G126046 Computer Networks (2020-2025)  
-G726014 Computer Networks Curriculum Design (2020-2025)  
-212579 Modern Network Technology and Application (2022-2025)  
+G126046 Computer Networks (2020-2026)  
+G726014 Computer Networks Curriculum Design (2020-2026)  
+212579 Modern Network Technology and Application (2022-2026)  
 
 ## Master and PHD students
 
